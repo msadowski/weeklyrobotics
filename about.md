@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About Monochrome
-description: This page describes monochrome.
+title: About Weekly Robotics
+description: Weekly Robotics - your robotics content delivered to you every week.
 ---
-## About
+
+# About
 Monochrome is a minimal, responsive theme created for Jekyll. The goal of Monochrome is to provide a ready to use, plug and play theme for those who want to set up a blog, and focus solely on the content.
 
 ## Features
