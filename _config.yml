@@ -1,11 +1,11 @@
 # Site settings
 title: Weekly Robotics | Your robotics resources delivered weekly
 description: "Robotics content aggregator with handpicked resources every week"
-url: "https://weeklyrobotics.com"
+url: "http://weeklyrobotics.com"
 author:
   name: "Weekly Robotics"
   email: "contact@weeklyrobotics.com"
-  url: "https://weeklyrobotics.com"
+  url: "http://weeklyrobotics.com"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
