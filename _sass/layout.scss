@@ -40,9 +40,9 @@
 }
 
 #nav-links {
-  @media (max-width: 940px) {
-    display:none;
-  }   
+  // @media (max-width: 940px) {
+  //   display:none;
+  // }   
   a {
     padding-left: 10px;
     color: $text-color;
@@ -59,63 +59,6 @@
   height: 1px;
   margin: 23px auto;
   background-color: $text-color;
-}
-
-/* Icon menu */
-
-#nav-menu {
-  @include icon-position(right);
-  @media (min-width: 940px) {
-    display:none;
-  }
-}
-
-#nav-menu-left {
-  @include icon-position(left);
-  @media (min-width: 940px) {
-    display:none;
-  }
-}
-
-#menu {
-  height: 4px;
-  width: 1.5em;
-  background-color: $text-color;
-  margin-top: 8px;
-  &:after, &:before {
-    content: "";
-    display: block;
-    position: relative;
-    height: 4px;
-    width: 1.5em;
-    background-color: $text-color;
-    transition: all 0.3s ease-in;
-  }
-  &:before {
-    top: -8px;
-  }
-  &:after {
-    top: 4px;
-  }
-  &.btn-close {
-    background: none;
-  }
-  &.btn-close:before {
-    top: 0;
-    -webkit-transform: rotate(-45deg);
-       -moz-transform: rotate(-45deg);
-        -ms-transform: rotate(-45deg);
-            transform: rotate(-45deg);
-    background-color: $text-color;
-  }
-  &.btn-close:after {
-    top: -4px;
-    -webkit-transform: rotate(45deg);
-       -moz-transform: rotate(45deg);
-        -ms-transform: rotate(45deg);
-            transform: rotate(45deg);
-    background-color: $text-color;
-  }
 }
 
 /* Main content */
