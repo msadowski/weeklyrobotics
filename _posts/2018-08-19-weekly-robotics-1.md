@@ -4,7 +4,7 @@ description: Weekly Robotics is born. This week we cover two space related robot
 date: 2018-08-19
 ---
 
-1) FLIR, the manufacturer of thermal imaging cameras cameras, offers a free dataset for ADAS (autonomous driver-assistance systems) convolutional neural networks training. The web page below contains a form that you can fill to request the dataset.
+1) FLIR, the manufacturer of thermal imaging cameras, offers a free dataset for ADAS (autonomous driver-assistance systems) convolutional neural networks training. The web page below contains a form that you can fill to request the dataset.
 <br>[https://www.flir.com/oem/adas/adas-dataset-form/](https://www.flir.com/oem/adas/adas-dataset-form/){:target="_blank"}<br>
 INFO: The dataset contains over 14k images (60% of data captured during the day and 40% during night). Over 10k of captured frames are annotated.
 
