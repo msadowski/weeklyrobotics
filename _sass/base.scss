@@ -54,6 +54,7 @@ a {
 	&:focus {
 		color: darken($text-color, 5%);
 	}
+	word-break: break-all;
 }
 
 /* Common classes */
