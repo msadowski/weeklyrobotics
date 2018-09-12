@@ -10,7 +10,7 @@ WeeklyRobotics is a series of handpicked resources about Robotics that is delive
 
 # Careers Section
 
-Would you like to advertise a career opportunity with WeeklyRobotics? Please send an e-mail to careers@weeklyrobotics.com with the following information:
+Would you like to advertise a career opportunity with WeeklyRobotics? Please send an e-mail to **careers@weeklyrobotics.com** with the following information:
 
 * Company name
 * Short company profile (one sentence)
