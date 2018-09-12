@@ -1,11 +1,13 @@
 # Site settings
-title: Weekly Robotics | Your robotics resources delivered weekly
+title: Weekly Robotics
 description: "Robotics content aggregator with handpicked resources every week"
 url: "http://weeklyrobotics.com"
 author:
   name: "Weekly Robotics"
   email: "contact@weeklyrobotics.com"
   url: "http://weeklyrobotics.com"
+
+exclude: ["_templates", "CNAME", ".gitignore"]
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
@@ -31,7 +33,7 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-version: "1.0.0"
+version: "1.0.1"
 
 # Options
 custom_header: false
