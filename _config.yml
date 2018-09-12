@@ -13,7 +13,7 @@ markdown: kramdown
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 8
+paginate: 4
 paginate_path: /page:num/
 
 # Default values
@@ -26,7 +26,7 @@ defaults:
       layout: "post"
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
