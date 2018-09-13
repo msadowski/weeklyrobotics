@@ -39,23 +39,23 @@ INFO:
 <br>[https://weeklyrobotics.com/About](https://weeklyrobotics.com/About)<br>
 INFO: We are starting a careers section. If you would like to advertise an open position please head over to Careers Section in the above link.
 
-1).
+1) COMPANY NAME (CITY, COUNTRY) - POSITION.
 <br>[](){:target="_blank"}<br>
 INFO:
 
-2).
+2) COMPANY NAME (CITY, COUNTRY) - POSITION.
 <br>[](){:target="_blank"}<br>
 INFO:
 
-3).
+3) COMPANY NAME (CITY, COUNTRY) - POSITION.
 <br>[](){:target="_blank"}<br>
 INFO:
 
-4).
+4) COMPANY NAME (CITY, COUNTRY) - POSITION.
 <br>[](){:target="_blank"}<br>
 INFO:
 
-5).
+5) COMPANY NAME (CITY, COUNTRY) - POSITION.
 <br>[](){:target="_blank"}<br>
 INFO:
 
