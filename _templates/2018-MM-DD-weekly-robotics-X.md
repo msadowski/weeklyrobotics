@@ -28,7 +28,7 @@ INFO:
 <br>[](){:target="_blank"}<br>
 INFO:
 
-7).
+7) Paper of the week - (DATE).
 <br>[](){:target="_blank"}<br>
 INFO:
 
