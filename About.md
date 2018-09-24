@@ -14,7 +14,7 @@ Would you like to advertise a career opportunity with WeeklyRobotics? Please sen
 
 * Company name
 * Short company profile (one sentence)
-* Country where the position is placed
+* City and a country (also a state for the US) where the position is placed
 * Advertised position (Use "various positions" if more than one position is to be advertised)
 * A link to the career opening description
 
