@@ -18,6 +18,9 @@ permalink: /:title
 paginate: 4
 paginate_path: /page:num/
 
+#SEO
+locale: en_US
+
 # Default values
 defaults:
   -
