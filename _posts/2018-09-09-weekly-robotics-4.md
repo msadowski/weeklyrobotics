@@ -1,7 +1,7 @@
 ---
 title: "Weekly Robotics #4"
 description: "Single rotor drone, satellite capture and deorbitting, animatronic dinosaurs welcoming hotel guests, vacuum cleaners doing Simultaneous Localization And Mapping (SLAM), Skydio introducing a developer platform, Real-time robotics communications in Linux and a comparison of open source robot simulators."
-tags: [Careers, Robotics, Dinosaurs, Drones, PID, Software, ROS, ROS2, RTOS, SLAM, ESA]
+tags: [Robotics, Dinosaurs, Drones, PID, Software, ROS, ROS2, RTOS, SLAM, ESA]
 date: 2018-09-09
 ---
 
