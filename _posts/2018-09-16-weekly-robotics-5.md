@@ -1,6 +1,7 @@
 ---
 title: "Weekly Robotics #5"
 description: "Weekly Robotics #5 is here. Start with this issue we are including a Careers section. As always, in this issue you will find 7 different links with Robotics related news and publications."
+tags: [Careers, Robotics, NeuralNetworks, Drones, PID, SafetySystems, Software, ROS, ROS2, Batteries, SLAM, ESA, MIT]
 date: 2018-09-16
 ---
 

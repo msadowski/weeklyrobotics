@@ -1,6 +1,7 @@
 ---
 title: "Weekly Robotics #1"
 description: Weekly Robotics is born. This week we cover two space related robot project, a humanoid stuntman, a record-breaking UAV flight. On top of that we cover a IR dataset for ADAS and a great resource on Kalman Filter.
+tags: [Robotics, FLIR, NASA, Airbus, Zephyr, Disney, ESA]
 date: 2018-08-19
 ---
 

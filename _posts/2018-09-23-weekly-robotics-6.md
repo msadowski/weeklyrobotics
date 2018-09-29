@@ -1,6 +1,7 @@
 ---
 title: "Weekly Robotics #6"
 description: "Weekly Robotics #6 is here! This week we cover lots of recent news, there is something for ROS lovers who won't make it to Madrid, people interested in autonomous vehicles and as always something drone related. And a publication. Just the way the things should be."
+tags: [Careers, Robotics, AutonomousCars, Drones, KalmanFilter, SafetySystems, Software, ROS, ROS2]
 date: 2018-09-23
 ---
 

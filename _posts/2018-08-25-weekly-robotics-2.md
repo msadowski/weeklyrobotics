@@ -1,6 +1,7 @@
 ---
 title: "Weekly Robotics #2"
 description: "Weekly Robotics #2 is here. This week we cover a visual servoing platform library, a DIY self driving R/C platform, bird herding with a drone and more! This week we kick-off a paper of the week and cover Robot Operating System (ROS). And if you are looking for a challenge then DARPA or ESA might have something just for you!"
+tags: [Robotics, DIY, DARPA, Algorithms, AutonomousCars, Drones, Software, ROS]
 date: 2018-08-25
 ---
 

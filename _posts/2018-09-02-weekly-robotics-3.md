@@ -1,6 +1,7 @@
 ---
 title: "Weekly Robotics #3"
 description: "#3! Tiny 3D printed electric motor, trajectory optimization for walking robots, research on water-air communications, autonomous cars frustrating drivers with left turns and more!"
+tags: [Robotics, DIY, Books, MIT, AutonomousCars, Software, ROS, ROS2, NASA, Curiosity]
 date: 2018-09-02
 ---
 
