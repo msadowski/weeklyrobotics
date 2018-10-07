@@ -2,6 +2,7 @@
 title: "Weekly Robotics #X"
 description: ""
 date: 2018-MM-DD
+tags: [Robotics, Careers]
 ---
 
 1).
@@ -37,7 +38,7 @@ INFO:
 
 0) Would you like to advertise an open position in a robotics related company?
 <br>[https://weeklyrobotics.com/About](https://weeklyrobotics.com/About)<br>
-INFO: We are starting a careers section. If you would like to advertise an open position please head over to Careers Section in the above link.
+INFO: If you would like us to include your open position in the hiring section please feel free to send us an [e-mail](mailto:careers@weeklyrobotics.com).
 
 1) COMPANY NAME (CITY, COUNTRY) - POSITION.
 <br>[](){:target="_blank"}<br>
