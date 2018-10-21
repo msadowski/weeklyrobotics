@@ -23,7 +23,7 @@ INFO: The list contains links to 7 robotics related courses available on Courser
 
 5) Cost of Highly Safety Critical Software.
 <br>[https://betterembsw.blogspot.com/2018/10/cost-of-highly-safety-critical-software.html](https://betterembsw.blogspot.com/2018/10/cost-of-highly-safety-critical-software.html){:target="_blank"}<br>
-INFO: This short blog post by Phil Koopan talks about the cost of aircraft safety critical software. Worth noting is the graph discussed in the post. We can learn from it that the life-critical software engineer's output can be between 3-12 lines of code per day. 
+INFO: This short blog post by Phil Koopan talks about the cost of aircraft safety critical software. Worth noting is the graph discussed in the post. We can learn from it that the life-critical software engineer's output can vary between 3-12 lines of code per day. 
 
 6) Manned amateur space program.
 <br>[https://copenhagensuborbitals.com/about-us/](https://copenhagensuborbitals.com/about-us/){:target="_blank"}<br>
