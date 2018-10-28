@@ -7,7 +7,7 @@ tags: [Robotics, Careers, Drones, DJI, SoftRobotics, Actuators, AutonomousCars, 
 
 1) What happens when a drone hits an airplane wing?
 <br>[https://www.youtube.com/watch?v=QH0V7kp-xg](https://www.youtube.com/watch?v=QH0V7kp-xg0){:target="_blank"}<br>
-INFO: This video shows the damage the DJI Phantom 2 could cause to an aircraft wing at 230 MPH (370 KM/H). Bruce Simpson from XJet YouTube channel commented on this research in his [latest video](https://youtu.be/CDvgQUy4Z_w?t=237){:target="_blank"}.
+INFO: This video shows the damage the DJI Phantom 2 could cause to an aircraft wing at 230 MPH (370 KM/H). Bruce Simpson from XJet YouTube channel commented on this research in his [latest video](https://youtu.be/CDvgQUy4Z_w?t=237){:target="_blank"}. <br>UPDATE: The video linked above caused quite a lot of controversy in the drone world. You can find more information about supposed flaws in the research carried out in [this article drone life](https://dronelife.com/2018/10/19/breaking-news-dji-demands-withdrawal-of-drone-crash-video/).
 
 2) Soft Robotics Toolkit.
 <br>[https://softroboticstoolkit.com/home](https://softroboticstoolkit.com/home){:target="_blank"}<br>
