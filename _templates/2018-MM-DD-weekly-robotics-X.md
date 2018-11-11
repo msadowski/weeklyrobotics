@@ -29,7 +29,7 @@ INFO:
 <br>[](){:target="_blank"}<br>
 INFO:
 
-7) Paper of the week - (DATE).
+7) Publication of the week - (DATE).
 <br>[](){:target="_blank"}<br>
 INFO:
 
@@ -40,7 +40,7 @@ INFO:
 <br>[https://weeklyrobotics.com/About](https://weeklyrobotics.com/About)<br>
 INFO: If you would like us to include your open position in the hiring section please feel free to send us an [e-mail](mailto:careers@weeklyrobotics.com).
 
-1) COMPANY NAME (CITY, COUNTRY) - POSITION.
+1) COMPANY NAME (CITY, COUNTRY) - Various Positions.
 <br>[](){:target="_blank"}<br>
 INFO:
 

@@ -19,7 +19,7 @@ INFO: SLAM for dummies is a 40 page (plus additional 80 pages of appendices) tut
 
 4) ArduCopter 3.6.0 has been released.
 <br>[https://discuss.ardupilot.org/t/copter-3-6-0-released/34509](https://discuss.ardupilot.org/t/copter-3-6-0-released/34509){:target="_blank"}<br>
-INFO: A new major version of ArduCopter, an open source flight control software has been released after months of beta testing. The release supports new kinds of boards targeting ChibiOS, new flight modes (including optical flow hold mode) and improvements for non-GPS navigation (for example for using motion capture system).
+INFO: A new major version of ArduCopter, an open source flight control software, has been released after months of beta testing. The release supports new kinds of boards targeting ChibiOS, new flight modes (including optical flow hold mode) and improvements for non-GPS navigation (for example for using motion capture system).
 
 5) TU Berlin tutorial on soft actuators.
 <br>[https://www.youtube.com/watch?v=Ss-9iXRUeGc](https://www.youtube.com/watch?v=Ss-9iXRUeGc){:target="_blank"}<br>
