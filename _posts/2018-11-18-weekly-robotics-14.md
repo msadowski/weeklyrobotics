@@ -37,7 +37,7 @@ INFO: UMBMark (University of Michigan Benchmark) is a method for measuring dead-
 
 0) Introducing the sponsored section.
 <br>[https://weeklyrobotics.com/About](https://weeklyrobotics.com/About)<br>
-INFO: It has been 100 days since the launch of Weekly Robotics. Since compiling each issue takes anywhere between 3 to 6 hours we think that the sponsored section should help cover the personal costs and keep this newsletter going. Please [get in touch]([e-mail](mailto:contact@weeklyrobotics.com) if you would like to advertise your robotics related products or services with us.
+INFO: It has been 100 days since the launch of Weekly Robotics. Since compiling each issue takes anywhere between 3 to 6 hours we think that the sponsored section should help cover the personal costs and keep this newsletter going. Please [get in touch](mailto:contact@weeklyrobotics.com) if you would like to advertise your robotics related products or services with us.
 
 1) Handling dead nodes in ROS
 <br>[https://msadowski.github.io/ros-nodealive/](https://msadowski.github.io/ros-nodealive/){:target="_blank"}<br>
