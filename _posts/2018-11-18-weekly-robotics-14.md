@@ -49,7 +49,7 @@ INFO: In this article the author of this newsletter explores methods of determin
 <br>[https://weeklyrobotics.com/About](https://weeklyrobotics.com/About)<br>
 INFO: If you would like us to include your open position in the hiring section please feel free to send us an [e-mail](mailto:careers@weeklyrobotics.com).
 
-1) Robotics & Perception Group at ETH (Zurich, Switzerland) - PhD/Postdoc in Deep/Reinforcement Learning for Computer Vision
+1) Robotics & Perception Group at ETH (Zurich, Switzerland) - PhD/Postdoc in Deep/Reinforcement Learning for Computer Vision.
 <br>[http://rpg.ifi.uzh.ch/positions.html](http://rpg.ifi.uzh.ch/positions.html){:target="_blank"}<br>
 INFO: Robot Perception Group's mission is to develop autonomous machines that can navigate all by themselves using only onboard cameras, without relying on external infrastructure, such as GPS or motion capture systems.
 
