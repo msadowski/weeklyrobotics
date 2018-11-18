@@ -7,7 +7,7 @@ tags: [Robotics, Careers, DIY, MobileRobot, AutonomousCars, AI, ROS, ControlSyst
 
 1) Fast line-following robots part 1: control.
 <br>[https://www.a1k0n.net/2018/11/13/fast-line-following.html](https://www.a1k0n.net/2018/11/13/fast-line-following.html){:target="_blank"}<br>
-INFO: In this blog post Andy Sloane goes over evolution of his line following robot for DIYRobocars meetup in SF. The article covers the evolution of a line follow algorithm that starts as a purely proportional controller and finally takes a form of a PD controller keeping a target velocity on a curve with a lookahead control. We recommend playing with the included algorithm visualizations and controller tunning.
+INFO: In this blog post Andy Sloane goes over evolution of his line following robot for DIYRobocars meetup in SF. The article covers the evolution of a line follow algorithm that starts as a purely proportional controller and finally takes a form of a PD controller keeping a target velocity on a curve with a lookahead control. We recommend playing with the included algorithm visualizations and controller tuning.
 
 2) Unexpected AI.
 <br>[https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml){:target="_blank"}<br>
@@ -27,11 +27,11 @@ INFO: The linked document is a technical note on Ouster lidar. Interestingly Ous
 
 6) RocketLab's satellite launch.
 <br>[https://www.nytimes.com/2018/11/10/science/rocket-lab-launch.html](https://www.nytimes.com/2018/11/10/science/rocket-lab-launch.html){:target="_blank"}<br>
-INFO: RocketLab's Electron rocket just carried out a successfull mission, carrying small commercial satellites to the orbit. Compared to most of commercial rockets we usually hear about the Electron is quite small. It's height is only 17 m (56 feet) and it can carry about 220 kg (550 pounds) of payload. 
+INFO: RocketLab's Electron rocket just carried out a successful mission, carrying small commercial satellites to the orbit. Compared to most of commercial rockets we usually hear about the Electron is quite small. It's height is only 17 m (56 feet) and it can carry about 220 kg (550 pounds) of payload. 
 
 7) Publication of the week - UMBmark - A Method for Measuring, Comparing, and Correcting Dead-reckoning Errors in Mobile Robots(1994).
 <br>[http://www-personal.umich.edu/~johannb/Papers/umbmark.pdf](http://www-personal.umich.edu/~johannb/Papers/umbmark.pdf){:target="_blank"}<br>
-INFO: UMBMark (University of Michigan Benchmark) is a method for measuring dead-reckoning errors in mobilde robots. To successfully perform UMBMark you will need to run the robot on a 4x4m path, while collecting robot position information. On page 15 of the linked document you will find a one-page summary of the procedure. If you are looking for a read that's shorter than 40 pages, a [solder spot article](https://solderspot.wordpress.com/2014/05/08/navbot-error-correction-using-umbmark/){:target="_blank"} is quite succint and contains a C source code with UMB results implementation. 
+INFO: UMBMark (University of Michigan Benchmark) is a method for measuring dead-reckoning errors in mobile robots. To successfully perform UMBMark you will need to run the robot on a 4x4m path, while collecting robot position information. On page 15 of the linked document you will find a one-page summary of the procedure. If you are looking for a read that's shorter than 40 pages, a [solder spot article](https://solderspot.wordpress.com/2014/05/08/navbot-error-correction-using-umbmark/){:target="_blank"} is quite succinct and contains a C source code with UMB results implementation. 
 
 #### Sponsored
 
