@@ -1,11 +1,11 @@
 # Site settings
 title: Weekly Robotics
 description: "Robotics newsletter with handpicked high quality resources. Delivered every week."
-url: "http://weeklyrobotics.com"
+url: "https://weeklyrobotics.com"
 author:
   name: "Weekly Robotics"
   email: "contact@weeklyrobotics.com"
-  url: "http://weeklyrobotics.com"
+  url: "https://weeklyrobotics.com"
 
 exclude: ["_templates", "CNAME", ".gitignore"]
 

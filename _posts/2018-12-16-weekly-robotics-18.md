@@ -34,7 +34,7 @@ INFO: The Robotic Refueling Mission 3 (RRM3) will will test new methods for tran
 INFO: This annual report from AI Now institute discusses the social impact of Artificial Intelligence in such areas as surveillance (including facial and emotion recognition), automated decision systems, experimenting on society (the article covers the Uber and Tesla autopilot accidents). We've found the report to be very insightful, especially on socio-economic issues described (the report cites 230 sources). "Accounting for Hidden Labor in AI Systems" is the chapter that stood out for us as it is, among other things, discussing the work of labeling training data and reviewing flagged content by often poorly compensated workers.
 
 
-#### Careers
+### Careers
 
 0) Would you like to advertise an open position in a robotics related company?
 <br>[https://weeklyrobotics.com/About](https://weeklyrobotics.com/About)<br>

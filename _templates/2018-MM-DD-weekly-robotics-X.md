@@ -33,14 +33,14 @@ INFO:
 <br>[]()<br>
 INFO:
 
-#### Sponsored
+### Sponsored
 
 0) Introducing the sponsored section.
 <br>[https://weeklyrobotics.com/About](https://weeklyrobotics.com/About)<br>
 INFO: Would you like to advertise your Robotics related product or service? Please [get in touch](mailto:contact@weeklyrobotics.com) and we will provide you with all the details
 
 
-#### Careers
+### Careers
 
 0) Would you like to advertise an open position in a robotics related company?
 <br>[https://weeklyrobotics.com/About](https://weeklyrobotics.com/About)<br>
