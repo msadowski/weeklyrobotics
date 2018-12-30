@@ -74,7 +74,7 @@ INFO: In August Airbus Zephyr High Altitude Pseudo Satellite completed it's reco
 ### ROS
 
 15) ROS on Windows.
-<br>[IEE](https://spectrum.ieee.org/automaton/robotics/robotics-software/microsoft-announces-experimental-release-of-ros-for-windows-10)<br>
+<br>[IEEE](https://spectrum.ieee.org/automaton/robotics/robotics-software/microsoft-announces-experimental-release-of-ros-for-windows-10)<br>
 INFO: on 1st of October Microsoft announced an experimental release of ROS for Windows.
 
 16) AWS Robomaker.
