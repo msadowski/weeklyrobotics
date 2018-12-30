@@ -29,7 +29,7 @@ INFO: The 3rd official release of ROS 2 is now live. The release will be officia
 <br>[NASA](https://www.nasa.gov/mission_pages/station/research/news/rrm3)<br>
 INFO: The Robotic Refueling Mission 3 (RRM3) will will test new methods for transferring and storing cryogenic fluids like liquid methane in space. Creating new methods for transferring and stroing fuels in space could be used for extending the life of satellites. The RRM3 module will demonstrate the first ever transfer of cryogenic propellant in orbit and test a number of robotics tools and vision systems needed for satellite refueling missions.
 
-7) Publication of the week - AI Now (DATE).
+7) Publication of the week - AI Now (2018).
 <br>[AI Now Institute](https://ainowinstitute.org/AI_Now_2018_Report.pdf)<br>
 INFO: This annual report from AI Now institute discusses the social impact of Artificial Intelligence in such areas as surveillance (including facial and emotion recognition), automated decision systems, experimenting on society (the article covers the Uber and Tesla autopilot accidents). We've found the report to be very insightful, especially on socio-economic issues described (the report cites 230 sources). "Accounting for Hidden Labor in AI Systems" is the chapter that stood out for us as it is, among other things, discussing the work of labeling training data and reviewing flagged content by often poorly compensated workers.
 

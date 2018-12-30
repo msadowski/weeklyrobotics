@@ -29,7 +29,7 @@ INFO: Alphabet is dissolving Schaft, a developer of bipedal robots that Google a
 <br>[https://www.therobotreport.com/electronic-glove-robotic-hands-touch/](https://www.therobotreport.com/electronic-glove-robotic-hands-touch/){:target="_blank"}<br>
 INFO: Stanford Engineers developed a sensor capable of measuring intensity and direction of pressure as well as heat. This allow the manipulator to handle such delicate tasks as moving a ping-pong ball or touching a raspberry without squashing it.
 
-7) Remotion - A Motion-Based Capture and Replay Platform of Mobile Device Interaction - (2018).
+7) Remotion - A Motion-Based Capture and Replay Platform of Mobile Device Interaction (2018).
 <br>[https://remotion.cs.brown.edu/](https://remotion.cs.brown.edu/){:target="_blank"}<br>
 INFO: Remotion is a set of hardware and software tools to replay mobile phone user interactions with a physical setup that replicates the mobile phone movement. 
 
