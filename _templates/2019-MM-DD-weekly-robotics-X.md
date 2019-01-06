@@ -1,7 +1,7 @@
 ---
 title: "Weekly Robotics #X"
 description: ""
-date: 2018-MM-DD
+date: 2019-MM-DD
 tags: [Robotics, Careers]
 ---
 
