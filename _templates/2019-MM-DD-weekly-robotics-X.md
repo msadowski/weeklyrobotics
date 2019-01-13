@@ -46,23 +46,23 @@ INFO: Would you like to advertise your Robotics related product or service? Plea
 <br>[Weekly Robotics](https://weeklyrobotics.com/About)<br>
 INFO: If you would like us to include your open position in the hiring section please feel free to send us an [e-mail](mailto:careers@weeklyrobotics.com).
 
-1) COMPANY NAME (CITY, COUNTRY) - Various Positions.
-<br>[]()<br>
+1) [COMPANY NAME]() (CITY, COUNTRY) - Various Positions.
+<br>
 INFO:
 
-2) COMPANY NAME (CITY, COUNTRY) - POSITION.
-<br>[]()<br>
+2) [COMPANY NAME]() (CITY, COUNTRY) - POSITION.
+<br>
 INFO:
 
-3) COMPANY NAME (CITY, COUNTRY) - POSITION.
-<br>[]()<br>
+3) [COMPANY NAME]() (CITY, COUNTRY) - POSITION.
+<br>
 INFO:
 
-4) COMPANY NAME (CITY, COUNTRY) - POSITION.
-<br>[]()<br>
+4) [COMPANY NAME]() (CITY, COUNTRY) - POSITION.
+<br>
 INFO:
 
-5) COMPANY NAME (CITY, COUNTRY) - POSITION.
-<br>[]()<br>
+5) [COMPANY NAME]() (CITY, COUNTRY) - POSITION.
+<br>
 INFO:
 
