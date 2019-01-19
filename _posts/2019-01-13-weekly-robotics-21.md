@@ -15,7 +15,7 @@ INFO: In the above article Bill Gates discusses his visit to Harvard University 
 
 3) ESA's E.Deorbit debris removal mission reborn as servicing vehicle.
 <br>[ESA](http://www.esa.int/Our_Activities/Space_Engineering_Technology/Clean_Space/ESA_s_e.Deorbit_debris_removal_mission_reborn_as_servicing_vehicle)<br>
-INFO: We discussed E.Deorbit mission back in [Weekly Robotics #4](http://weeklyrobotics.com/weekly-robotics-4). The project is now being reborn as a satellite service vehicle capable of refuelling, refurbrishing or rebbosting satellites already in orbit. 
+INFO: We discussed E.Deorbit mission back in [Weekly Robotics #4](http://weeklyrobotics.com/weekly-robotics-4). The project is now being reborn as a satellite service vehicle capable of refuelling, refurbrishing or rebosting satellites already in orbit.
 
 4) Tesla Autopilot HW3 Details.
 <br>[Reddit](https://www.reddit.com/r/teslamotors/comments/acjdrt/tesla_autopilot_hw3_details/)<br>
