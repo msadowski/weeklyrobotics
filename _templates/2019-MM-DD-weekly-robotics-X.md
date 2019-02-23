@@ -39,12 +39,7 @@ INFO:
 <br>[Weekly Robotics](https://weeklyrobotics.com/About)<br>
 INFO: Would you like to advertise your Robotics related product or service? Please [get in touch](mailto:contact@weeklyrobotics.com) and we will provide you with all the details
 
-
 ### Careers
-
-0) Would you like to advertise an open position in a robotics related company?
-<br>[Weekly Robotics](https://weeklyrobotics.com/About)<br>
-INFO: If you would like us to include your open position in the hiring section please feel free to send us an [e-mail](mailto:careers@weeklyrobotics.com).
 
 1) [COMPANY NAME]() (CITY, COUNTRY) - Various Positions.
 <br>
