@@ -36,7 +36,7 @@ INFO: This paper by Researchers from University of Cambridge covers multiple asp
 ### Sponsored
 
 1) Humble Book Bundle:  Microcontrollers Raspberry Pi & Arduino by Make.
-<br>[Weekly Robotics](https://www.humblebundle.com/books/microcontrollers-books?partner=weeklyrobotics)<br>
+<br>[HumbleBundle](https://www.humblebundle.com/books/microcontrollers-books?partner=weeklyrobotics)<br>
 INFO: In this Humble Book Bundle by Make you can find robotics related books such as: "Drones", "Make an Arduino Controlled Robot", "Make a Mind-Controlled Arduino Robot", "Sensors", " Jumpstarting Raspberry Pi Vision: Machine Learning and Facial Recognition". By purchasing this bundle using the above link you can choose to support charities of your choice and Weekly Robotics.
 
 ### Careers
