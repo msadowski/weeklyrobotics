@@ -10,7 +10,7 @@ tags: [Robotics, Careers, ROS, QuadrupedRobots, Space, USV, Drones]
 INFO: MIT Biomimetic Robotics Lab showcased a robotic cheetah weighting just 9 kg (20 pounds) capable of running at up to 2.45 m/s speed, doing backflips and performing recovery behaviours. We especially liked the end of the video where the team shows some of the mistakes they made while working on the robot.
 
 2) NASA, SpaceX Launch First Flight Test of Space System Designed for Crew.
-<br>[https://www.nasa.gov/press-release/nasa-spacex-launch-first-flight-test-of-space-system-designed-for-crew](NASA)<br>
+<br>[NASA](https://www.nasa.gov/press-release/nasa-spacex-launch-first-flight-test-of-space-system-designed-for-crew)<br>
 INFO: On 2nd of March NASA and SpaceX successfully launched the SpaceX Crew Dragon spacecraft. For this demonstration the spacecraft was unmanned and carries 400 pounds (180 kg) of supplies that will be delivered to ISS. For operational missions the spacecraft will be able to carry 4 crew members and 220 pounds of cargo. The spacecraft will depart the ISS on 8th of March.
 
 3) Zephyr Project.
