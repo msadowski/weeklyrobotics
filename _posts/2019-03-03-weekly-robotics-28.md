@@ -6,7 +6,7 @@ tags: [Robotics, Careers, ROS, QuadrupedRobots, Space, USV, Drones]
 ---
 
 1) MIT Mini Cheetah Quadruped Robot.
-<br>[https://youtu.be/xNeZWP5Mx9s](YouTube)<br>
+<br>[YouTube](https://youtu.be/xNeZWP5Mx9s)<br>
 INFO: MIT Biomimetic Robotics Lab showcased a robotic cheetah weighting just 9 kg (20 pounds) capable of running at up to 2.45 m/s speed, doing backflips and performing recovery behaviours. We especially liked the end of the video where the team shows some of the mistakes they made while working on the robot.
 
 2) NASA, SpaceX Launch First Flight Test of Space System Designed for Crew.
