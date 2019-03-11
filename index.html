@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
+
+{% if paginator.page == 1 %}
+<h1>Weekly Robotics Newsletter Archive</h1>
+
+<p>In these pages you can find all Weekly Robotics Newsletter issues released so far. This webpage will be always up to date, however if you would like to make sure that you
+	won't miss any future issues then you can subscribe to our newsletter using the form above or you can subscribe via <a href="https://weeklyrobotics.com/atom.xml">RSS</a>.
+</p>
+{% else %}
+<h1> Weekly Robotics Newsletter Archive [{{paginator.page}}/{{paginator.total_pages}}]</h1>
+{% endif %}
+
 <!-- Posts -->
 <ul id="posts">
 
