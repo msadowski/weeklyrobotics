@@ -7,7 +7,7 @@
 	<title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
 	{% include seo.html %}
-	
+
 	{% include analytics.html %}
 
 	<!-- CSS & fonts -->
@@ -19,4 +19,6 @@
   <!-- Favicon -->
   <!-- <link rel="shortcut icon" type="image/png" href="img/favicon.png"> -->
 
+	<!-- Canonical-->
+	<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 </head>
