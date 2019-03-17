@@ -15,7 +15,7 @@ INFO: This article from IEEE highlights advances in systems-on-chip (SoC) that c
 
 3) The MIT Super Mini Cheetah.
 <br>[MIT](https://biomimetics.mit.edu/research/mit-super-mini-cheetah)<br>
-INFO: In [issue #28](https://weeklyrobotics.com/weekly-robotics-28) we've presented MIT Mini Cheetah. The Super Mini Cheetah is another project from MIT Biomimetrics Lab. Compared to the larger version the Super Mini is a low cost build that has simpler kinematics and in our opinion resembles a Cheetah a lot more than it's bigger brother (it might have to do with the robot's head).
+INFO: In [issue #28](https://weeklyrobotics.com/weekly-robotics-28) we've presented MIT Mini Cheetah. The Super Mini Cheetah is another project from MIT Biomimetics Lab. Compared to the larger version the Super Mini is a low cost build that has simpler kinematics and in our opinion resembles a Cheetah a lot more than it's bigger brother (it might have to do with the robot's head).
 
 4) Supervised Racing.
 <br>[markku.ai](https://markku.ai/post/supervised-racing/)<br>
