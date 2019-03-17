@@ -5,7 +5,7 @@ date: 2019-03-17
 tags: [Robotics, Careers, Industrial, Drones, Sensors, Chips, OpenSource, AI, AutonomousCars, OpenCV, MobileRobots]
 ---
 
-1) Why anti-poaching drones haven't worked well.
+1) Why Anti-Poaching Drones Haven't Worked Well.
 <br>[DIYDrones](https://diydrones.com/profiles/blogs/why-anti-poaching-drones-haven-t-worked-well)<br>
 INFO: This post on DIY Drones by Chris Anderson highlights a discussion from [ArduPilot Discourse](https://discuss.ardupilot.org/t/autonomous-anti-poaching-drone/25344/97) on the topic of using drones for anti poaching efforts. The discussions are interesting both from the engineering and environmental perspective. As user Graham_Dyer says in one of his post: "From my experience I believe, that even with the best intentions and best technology, drones will never have more than a negligible effect on poaching. To put it in context, the Canine teams in the KNP’s best haul was 18 poachers apprehended in one week. Our drone team saw less than 8 poachers in TWO years of night flying, with not one apprehension. So if the drone is not CATCHING an average of 2-5 poachers a WEEK then it’s of no use. And note that poachers get around deterrents easily".
 
