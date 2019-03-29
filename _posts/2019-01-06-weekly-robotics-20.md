@@ -11,7 +11,7 @@ INFO: Researchers at Binghamton University in New York are using thermal imagery
 
 2) Self-driving Rovers Tested in Mars Like Morocco.
 <br>[ESA](http://www.esa.int/Our_Activities/Space_Engineering_Technology/Self-driving_rovers_tested_in_Mars-like_Morocco)<br>
-INFO: Recently ESA coordinated self-driving space rover trials in Sahara desert. Before testing of the rovers ESA mapped the test location using a drone, producing a digital elevation model with a 4cm resolution that were used as a ground truth to the data captured by the rovers. The article mentions that SherpaTT rover managed a 1.3 km journey during trials.
+INFO: Recently self-driving space rover trials were concluded in Sahara desert by members of [PERASPERA consortium](https://www.h2020-peraspera.eu/). Before testing of the rovers the test location was mapped using a drone, producing a digital elevation model with a 4cm resolution that were used as a ground truth to the data captured by the rovers. The article mentions that SherpaTT rover managed a 1.3 km journey during trials.
 
 3) Cafe Staffed by Robots Controlled by Paralyzed People.
 <br>[SoraNews24](https://soranews24.com/2018/11/29/cafe-opens-in-tokyo-staffed-by-robots-controlled-by-paralyzed-people/)<br>
@@ -41,7 +41,7 @@ INFO: Would you like to advertise your Robotics related product or service? Plea
 
 2) Robotics for the Planet.
 <br>[M. Sadowski Blog](https://msadowski.github.io/one-percent-for-the-planet/)<br>
-INFO: Mat, the author of this newsletter partnered with [1% For The Planet](http://www.onepercentfortheplanet.org/), pledging to donate at least 1% of sales from his [Robotics Consultancy](http://msadowski.ch/) and WeeklyRobotics to environmental non-profits. 
+INFO: Mat, the author of this newsletter partnered with [1% For The Planet](http://www.onepercentfortheplanet.org/), pledging to donate at least 1% of sales from his [Robotics Consultancy](http://msadowski.ch/) and WeeklyRobotics to environmental non-profits.
 
 3) Humble STEM Books Bundle - pay whar you want for STEM books (until 7th January 2019).
 <br>[Humble Bundle](https://www.humblebundle.com/books/stem-books?partner=weeklyrobotics)<br>
