@@ -61,3 +61,20 @@ INFO:
 <br>
 INFO:
 
+### Announcements
+
+0) Introducing Announcement section.
+<br>[Weekly Robotics](https://weeklyrobotics.com/About)<br>
+INFO: Would you like to advertise your Robotics related product or service? Please [get in touch](mailto:contact@weeklyrobotics.com) and we will provide you with all the details
+
+1).
+<br>[]()<br>
+INFO:
+
+2).
+<br>[]()<br>
+INFO:
+
+3).
+<br>[]()<br>
+INFO:
