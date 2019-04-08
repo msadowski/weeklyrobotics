@@ -9,9 +9,9 @@ tags: [Robotics, Careers]
 <br>[Hackaday](https://hackaday.io/project/25730/logs?sort=oldest)<br>
 INFO: This build log by Roald Lemmens provides insights into development of MORPH (Modular Open Robotics Platform for Hackers) - a mobile robot driven by two hoverboard motors. The robot frame was built using aluminium profiles and the motors are driven by VESC motor controllers and use AS5047 magnetic encoders for reading wheel position. The robot control code is executed on Intel UP Board and is utilizing ROS. The source code is available on [GitHub](https://github.com/roaldlemmens/morph).
 
-2) microROS.
-<br>[microros.github.io/](https://microros.github.io/)<br>
-INFO: microROS is a project aiming to support ROS2 implementation on microcontrollers. The project targets boards capable of supporting Nuttx Real-Time Operating System. microROS is being developed as a part of the [Ofera project](http://www.ofera.eu/).
+2) micro-ROS.
+<br>[micro-ros.github.io/](https://micro-ros.github.io/)<br>
+INFO: micro-ROS is a project aiming to support ROS2 implementation on microcontrollers. The project targets boards capable of supporting Nuttx Real-Time Operating System. micro-ROS is being developed as a part of the [Ofera project](http://www.ofera.eu/).
 
 3) 3D Printing and Milling Athena Optic Bench.
 <br>[ESA](http://www.esa.int/spaceinimages/Images/2019/04/3D_printing_and_milling_Athena_optic_bench)<br>
