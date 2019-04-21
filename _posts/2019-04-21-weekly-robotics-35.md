@@ -7,11 +7,11 @@ tags: [Robotics, Careers, Space, ROS, Drones, IndustrialRobots, QuadrupedRobots,
 
 1) NASA Launching Astrobee Robots to Space Station.
 <br>[IEEE](https://spectrum.ieee.org/automaton/robotics/space-robots/nasa-launching-astrobee-robots-to-iss-tomorrow)<br>
-INFO: Astrobees are the robots that will soon float around the ISS. Each Astrobee is a cube with 30 cm (12 inch) side and is equipped with 6 cameras, touchscreen, speaker, microphone, signal lights, laser pointer and a built-in gripper. Among other things the robots will monitor radiation and air quality onboard the space station. The robots are controlled by pushing air through 12 adjustable nozzles and their software has been developed using ROS and can be viewed in the [following GitHub repository](https://github.com/nasa/astrobee).
+INFO: Astrobees are the robots that will soon float around the ISS. Each Astrobee is a cube with 30 cm (12 inch) side and is equipped with 6 cameras, touchscreen, speaker, microphone, signal lights, laser pointer and a built-in gripper. Among other things the robots will monitor radiation and air quality onboard the space station. The robots are controlled by pushing air through 12 adjustable nozzles and their software has been developed using ROS and can be found in the [following GitHub repository](https://github.com/nasa/astrobee).
 
 2) The Drones and Robots that Helped Save Notre Dame.
 <br>[Hackaday](https://hackaday.com/2019/04/17/the-drones-and-robots-that-helped-save-notre-dame/)<br>
-INFO: We were quite bummed about the Notre Dame burning down but we hope that the robots deployed there brought at least some value by helping out the firefighters. The above article mentions the 2 DJI drones that were used (Mavic Pro and Matrice M210) in helping firefighters to see the intensity and spread of fire in real time. The 500 kg (1100 lbs) Colossus mobile tracked robot developed by [Shark Robotics](https://www.shark-robotics.com/en/robot/colossus/) was deployed inside of the burning structure and was providing a constant stream of water to cool down the interior.
+INFO: We were quite bummed about the Notre Dame burning down but we hope that the robots deployed there brought at least some value by helping out the firefighters. The above article mentions the 2 DJI drones that were used (Mavic Pro and Matrice M210) in helping firefighters to see the intensity and spread of fire in real time and the 500 kg (1100 lbs) Colossus mobile tracked robot developed by [Shark Robotics](https://www.shark-robotics.com/en/robot/colossus/) was deployed inside of the burning structure and was providing a constant stream of water to cool down the interior.
 
 3) Robotic Refueling Mission 3 Update.
 <br>[NASA](https://www.nasa.gov/feature/goddard/2019/robotic-refueling-mission-3-update-april-12-2019)<br>
@@ -27,7 +27,7 @@ INFO: This article presents Dizzy Wolf, a quadruped robot developed by Misha. As
 
 6) RDP042: How ROS is Developed with ROS Platform Manager Tully Foote.
 <br>[The Construct](http://www.theconstructsim.com/rdp042-ros-developed-ros-platform-manager-tully-foote/)<br>
-INFO: In this episode of ROS Developers Podcast Ricardo Tellez hosts Tully Foote who is ROS platform manager at Open Source Robotics Foundation (OSRF). From the podcast episode we can learn how ROS distributions are created and how timelines follow Ubuntu release lifecycle. There are also some interesting thoughts on Gazebo simulators, how Python 3 is going to be used in the future and the last release of ROS.
+INFO: In this episode of ROS Developers Podcast Ricardo Tellez hosts Tully Foote who is a ROS platform manager at Open Source Robotics Foundation (OSRF). From the podcast episode we can learn how ROS distributions are created and how timelines follow Ubuntu release lifecycle. There are also some interesting thoughts on Gazebo simulators, how Python 3 is going to be used in the future and the last release of ROS.
 
 7) Publication of the week - ROS-based implementation of BatSLAM (2016).
 <br>[ResearchGate](https://www.researchgate.net/publication/320323432_ROS-based_implementation_of_BatSLAM)<br>
