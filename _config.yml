@@ -7,7 +7,7 @@ author:
   email: "contact@weeklyrobotics.com"
   url: "https://weeklyrobotics.com"
 
-exclude: ["_templates", "CNAME", ".gitignore"]
+exclude: ["_templates", "CNAME", ".gitignore", "tools"]
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /

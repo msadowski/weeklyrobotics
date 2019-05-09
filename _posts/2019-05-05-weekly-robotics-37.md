@@ -4,6 +4,7 @@ description: "In this issue of Weekly Robotics Newsletter we explore novel UAV c
 date: 2019-05-05
 tags: [Robotics, Careers, Drones, ROS, IndustrialRobots, AutonomousCars, Business, QuadrupedRobots, Space, Manufacturing]
 ---
+![HeaderImage](/img/headers/37.jpg "Header image")
 
 1) ROS Industrial (Melodic) Training Exercises.
 <br>[readthedocs.io](https://industrial-training-master.readthedocs.io/en/melodic/)<br>

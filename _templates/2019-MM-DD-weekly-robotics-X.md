@@ -4,6 +4,7 @@ description: ""
 date: 2019-MM-DD
 tags: [Robotics, Careers]
 ---
+![HeaderImage](/img/headers/X.jpg "Header image")
 
 1).
 <br>[]()<br>
@@ -29,7 +30,7 @@ INFO:
 <br>[]()<br>
 INFO:
 
-7) Publication of the week - (DATE).
+7) Publication of the Week - (DATE).
 <br>[]()<br>
 INFO:
 
