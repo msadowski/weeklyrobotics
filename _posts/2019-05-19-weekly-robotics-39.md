@@ -10,7 +10,7 @@ tags: [Robotics, Careers, Space, ROS, IndustrialRobots, AI, DeepLearning, Drones
 <br>[YouTube](https://youtu.be/6hHv4li2JbY)<br>
 INFO: This YouTube video shows a gecko inspired gripper created by Stanford researchers that in the future could be used for object manipulation in space and cleaning space debris.
 
-2)A Machine Learning Course with Python.
+2) A Machine Learning Course with Python.
 <br>[GitHub](https://github.com/machinelearningmindset/machine-learning-course/blob/master/README.rst)<br>
 INFO: The link above is a short course on Machine Learning by [Machine Learning Mindset](https://machinelearningmindset.com/). The course contains both tutorial text and Python source code.
 
@@ -24,7 +24,7 @@ INFO: Researchers from [Robotics and Perception Group](http://rpg.ifi.uzh.ch/) p
 
 5) This Two-Wheeled RC Car Is Rather Quick.
 <br>[Hackaday](https://hackaday.com/2019/05/16/this-two-wheeled-rc-car-is-rather-quick/)<br>
-INFO: Compared to Bobble-Bot that we covered in the [previous issue](https://weeklyrobotics.com/weekly-robotics-38) this self-balancing platform is a simpler build when it comes to software but we still found it quite interesting and entertaining to watch. The platform is based on the [oDrive motor controller](https://odriverobotics.com/), a Teensy 3.6 micro computer and MPU6050 IMU. According to the captions in the attached video the platform is capable of driving at 40 MPH (64 Km/h).
+INFO: Compared to Bobble-Bot that we covered in the [previous issue](https://weeklyrobotics.com/weekly-robotics-38) this self-balancing platform is a simpler build when it comes to software but we still found it quite interesting and entertaining to watch. The platform is based on the [oDrive motor controller](https://odriverobotics.com/), a Teensy 3.6 micro computer and MPU6050 IMU. According to the captions in the attached video the platform is capable of driving at 40 MPH (64 km/h).
 
 6) Underground Robots: How Robotics Is Changing the Mining Industry.
 <br>[EOS](https://eos.org/features/underground-robots-how-robotics-is-changing-the-mining-industry)<br>
@@ -32,7 +32,7 @@ INFO: This article shows couple of use cases how robotics can be used in the min
 
 7) Publication of the Week - Astrobee Robot Software: Enabling Mobile Autonomy on the ISS (PDF) (2018).
 <br>[NASA](https://www.nasa.gov/sites/default/files/atoms/files/fluckiger2018astrobee.pdf)<br>
-INFO: We mentioned Astrobee back in [Weekly Robotics #35](https://weeklyrobotics.com/weekly-robotics-35). The above paper presents the software architecture of Astrobee. Each Astrobee runs on 3 interconnected ARM processors communicating over ethernet and interfacing with 7 microcontrollers, 6 cameras, propulsion system etc. The system is composed of about 46 ROS [nodelets](http://wiki.ros.org/nodelet). The low and medium level processors run Ubuntu 16.04, while the high level one runs Android (Nougat 7.1) that is used for guest science applications developed by research partners. The system <b>does not</b> require real-time kernel extensions due to the control loop running at low speed of 62.5Hz. The system has 3 sources of localization depending on the localization mode: 120° camera, AR markers for docking or depth camera for perching. Apart from the publication we found [this talk](https://vimeo.com/292690863) by Andrew Symington to be a good summary of the software stack.
+INFO: We mentioned Astrobee back in [Weekly Robotics #35](https://weeklyrobotics.com/weekly-robotics-35). The above paper presents the software architecture of Astrobee. Each Astrobee runs on 3 interconnected ARM processors communicating over ethernet and interfacing with 7 microcontrollers, 6 cameras, propulsion system etc. The system is composed of about 46 ROS [nodelets](http://wiki.ros.org/nodelet). The low and medium level processors run Ubuntu 16.04, while the high level one runs Android (Nougat 7.1) that is used for guest science applications developed by research partners. The system does not require real-time kernel extensions due to the control loop running at low speed of 62.5Hz. The system has 3 sources of localization depending on the localization mode: 120° camera, AR markers for docking or depth camera for perching. Apart from the publication we found [this talk](https://vimeo.com/292690863) by Andrew Symington to be a good summary of the software stack.
 
 ### Sponsored
 
