@@ -47,12 +47,12 @@ body {
 
 /*- Link -*/
 a {
-	color: $text-color;
-	text-decoration: none;
+	color: #215ced;
+	// text-decoration: none;
 	font-weight: 700;
 	&:hover,
 	&:focus {
-		color: darken($text-color, 5%);
+		color: darken(#215ced, 20%);
 	}
 	word-break: break-all;
 }
