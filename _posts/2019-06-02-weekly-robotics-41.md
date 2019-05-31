@@ -12,7 +12,7 @@ INFO: Via Readme: STMBL is an open source servo drive designed for Retrofitting 
 
 2) The History of Pixhawk.
 <br>[Auterion](https://auterion.com/the-history-of-pixhawk/)<br>
-INFO: In this blog post Lorenz Meier from Auterion shares the story on how [Pixhawk], an open source autopilot came to be and started to be widely adopted by the drone community.
+INFO: In this blog post Lorenz Meier from Auterion shares the story on how [Pixhawk](http://pixhawk.org/), an open source autopilot came to be and started to be widely adopted by the drone community.
 
 3) Engineering for the Long Haul, the NASA Way.
 <br>[Hackaday](https://hackaday.com/2019/03/11/engineering-for-the-long-haul-the-nasa-way/)<br>
