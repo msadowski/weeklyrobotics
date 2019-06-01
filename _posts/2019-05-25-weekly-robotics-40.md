@@ -1,6 +1,6 @@
 ---
 title: "Weekly Robotics #40"
-description: "Welcome to Weekly Robotics #40, where we look into Ornithopters, transmission line robot, remote controlled pogo stick and more!"
+description: "Welcome to Weekly Robotics #40, where we look into ornithopters, transmission line robot, remote controlled pogo stick and more!"
 date: 2019-05-26
 tags: [Robotics, Careers, Drones, Actuators, IndustrialRobots, Sensors, AutonomousCars, ROS, MobileRobots, Programming]
 ---
