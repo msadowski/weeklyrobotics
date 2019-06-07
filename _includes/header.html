@@ -1,24 +1,18 @@
-<header id="header" class="parent justify-spaceBetween">
-  <div class="inner w100">
-    <span class="f-left">  
-      <a href="{{ site.url }}/">
-        <img src="https://weeklyrobotics.com/img/weekly_robotics.png" style="max-width:120px" vspace="100" alt="Weekly Robotics">
-      </a>
-    </span>
-    <span id="nav-links" class="absolute right bottom">
-      <!-- Nav pages -->
-	    {% for page in site.pages %}
-	      {% if page.layout == "page" %}
-	        <a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}" title="{{ page.title }}">{{ page.title }}</a>
-	      {% endif %}
-	    {% endfor %}
-      
-      <!-- Nav links -->
-	    {% include link.html %}
+<header id="header">
 
-    </span>
+  <!-- <a href="#default" class="logo">CompanyLogo</a> -->
+  <a href="{{ site.url }}/" class="logo">
+    <img src="https://weeklyrobotics.com/img/weekly_robotics.png" style="max-width:120px" vspace="100"
+      alt="Weekly Robotics">
+  </a>
+  <div id="nav-links" class="header-right">
+    {% for page in site.pages %}
+    {% if page.layout == "page" %}
+    <a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}"
+      title="{{ page.title }}">{{ page.title }}</a>
+    {% endif %}
+    {% endfor %}
+
+    {% include link.html %}
   </div>
 </header>
-
-
-
