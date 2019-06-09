@@ -28,7 +28,7 @@ INFO: This article introduces the usage of motion planning using [Realtime Robot
 
 6) The Artificial Muscles that Will Power Robots of the Future.
 <br>[YouTube](https://youtu.be/ER15KmrB8h8)<br>
-INFO: In this TED talk Christoph Keplinger talks about artificial muscles (did you know that likely the first publication on artificial muscle was published in 1880?) and shows HASEL (Hydraulically Amplified Self-healing ELectrostatic) actuators that use electricity applied to a conductor to displace insulating liquid.
+INFO: In this TED talk Christoph Keplinger talks about artificial muscles (did you know that likely the first publication on artificial muscle was published in 1880) and shows HASEL (Hydraulically Amplified Self-healing ELectrostatic) actuators that use electricity applied to a conductor to displace insulating liquid.
 
 7) Publication of the Week -  Batiprint3D Project Report (2017)(PDF).
 <br>[3dprintetbyggeri.dk](http://www.3dprintetbyggeri.dk/pdf/bes%C3%B8gsrapporter/Batiprint3D.pdf)<br>

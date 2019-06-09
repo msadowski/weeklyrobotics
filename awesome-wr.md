@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Awesome-WR
+layout: page
+title: Database
 description: Database with the information discovered through work on WeeklyRobotics.
 ---
 
