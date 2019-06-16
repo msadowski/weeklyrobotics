@@ -22,7 +22,7 @@ INFO: The above video by Adam Bender is a comprehensive guide on creating a lith
 
 4) Why Robotics Needs Amazon: Analysis From re:MARS Conference.
 <br>[Robotics Business Review](https://www.roboticsbusinessreview.com/events/why-robotics-needs-amazon-analysis-from-remars-conference/)<br>
-INFO: We think the above article sums up what we've learned from re:MARS conference that took place on 4th-7th of June. For more details about particular topics you can look at the following articles: [Amazon's new delivery drone](https://blog.aboutamazon.com/transportation/a-drone-program-taking-flight)([video](https://youtu.be/3HJtmx5f1Fc)), [Robert Downey Jr. announcing world clean up with advanced tech](https://variety.com/2019/digital/news/robert-downey-jr-footprint-coalition-1203233371/), [Jeff Bezos testing telerobotic hands](https://youtu.be/b8K2e3Y7QtI)
+INFO: We think the above article sums up what we've learned from re:MARS conference that took place on 4th-7th of June. For more details about particular topics you can look at the following articles: [Amazon's new delivery drone](https://blog.aboutamazon.com/transportation/a-drone-program-taking-flight)([video](https://youtu.be/3HJtmx5f1Fc)), [Robert Downey Jr. announcing world clean up with advanced tech](https://variety.com/2019/digital/news/robert-downey-jr-footprint-coalition-1203233371/), [Jeff Bezos testing telerobotic hands](https://youtu.be/b8K2e3Y7QtI).
 
 5) What a Terrific Duo! A Complete List of All the ROS-enabled Cobots.
 <br>[Cobotics World](https://www.coboticsworld.com/2019/05/27/what-a-terrific-duo-a-complete-list-of-all-the-ros-enabled-cobots/)<br>
