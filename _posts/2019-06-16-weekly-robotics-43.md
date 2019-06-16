@@ -6,7 +6,7 @@ tags: [Robotics, Careers, Drones, Space, ROS, IndustrialRobots, Quadrupeds, Sens
 ---
 ![HeaderImage](/img/headers/43.jpg "Header image")
 
->> Welcome to issue #43 of Weekly Robotics Newsletter! We just realized that in May we broke the record of website visits with 3k unique users! Combining that with our 900 e-mail subscribers we are on the edge of creating a community! Mat's plan for the next couple of weeks is to streamline the process of releasing new issues and improve the [Weekly Robotics database](https://weeklyrobotics.com/awesome-wr) that we introduced last week. If you have any comments or ideas then feel free to [get in touch](mailto:contact@weeklyrobotics.com), we love hearing from you!
+>> Welcome to the issue #43 of Weekly Robotics Newsletter! We just realized that in May we broke the record of website visits with 3k unique users! Combining that with our 900 e-mail subscribers we are on the edge of creating a community! Mat's plan for the next couple of weeks is to streamline the process of releasing new issues and improve the [Weekly Robotics database](https://weeklyrobotics.com/awesome-wr) that we introduced last week. If you have any comments or ideas then feel free to [get in touch](mailto:contact@weeklyrobotics.com), we love hearing from you!
 
 1) Gas Thruster Controlled Drone.
 <br>[YouTube](https://youtu.be/XpA6qpNlNOE)<br>
