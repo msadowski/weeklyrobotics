@@ -17,7 +17,7 @@ INFO: In this video Tom Stanton is showing a ducted fan drone whose pitch and ro
 INFO: The above repository contains lots of information on Stanford Doggo, an open source quadruped robot. According to the BOM posted in the repository the robot costs about $3k in parts to make. We especially liked the [coaxial mechanism](https://youtu.be/6PL3aur4g4c) that drives the legs. You can see the robot in action in [this YouTube video](https://youtu.be/cJxotk4lR90) but we also encourage you to read the [paper on Doggo](https://arxiv.org/abs/1905.04254).
 
 3) How To Build a Lithium Battery.
-<br>[https://youtu.be/JldTYkcFDM8](YouTube)<br>
+<br>[YouTube](https://youtu.be/JldTYkcFDM8)<br>
 INFO: The above video by Adam Bender is a comprehensive guide on creating a lithium battery using 18650 battery cells. The [second part](https://youtu.be/f9fZZVfcBVQ) of the series focuses on basics of lithium cells and battery design considerations.
 
 4) Why Robotics Needs Amazon: Analysis From re:MARS Conference.
