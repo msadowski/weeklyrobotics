@@ -26,7 +26,7 @@ INFO: In this 23 minutes long video from BBC we can see some examples of robotic
 
 5) Look, No Hands! NASA’s First Astrobee Robot “Bumble” Starts Flying in Space.
 <br>[NASA](https://www.nasa.gov/image-feature/ames/look-no-hands-nasa-s-first-astrobee-robot-bumble-starts-flying-in-space)<br>
-INFO: We've mentioned Astrobee's for the first time back in the [issue #35](https://weeklyrobotics.com/weekly-robotics-35) and included a paper on the topic in [issue #39](https://weeklyrobotics.com/weekly-robotics-35). On 20th of June NASA reported that the first Astrobee performed the first successful flight on the ISS.
+INFO: We've mentioned Astrobee's for the first time back in the [issue #35](https://weeklyrobotics.com/weekly-robotics-35) and included a paper on the topic in [issue #39](https://weeklyrobotics.com/weekly-robotics-39). On 20th of June NASA reported that the first Astrobee performed the first successful flight on the ISS.
 
 6) Inside The First-Ever Self-Driving Race Cars.
 <br>[YouTube](https://youtu.be/EpFcplu3UIg)<br>
