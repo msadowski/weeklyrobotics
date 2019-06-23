@@ -10,7 +10,7 @@ tags: [Robotics, Careers, Drones, Space, Research, IndustrialRobots, MobileRobot
 
 1) Autonomous Drone Tutorials.
 <br>[GAAS](https://gaas.gitbook.io/guide/software-realization-build-your-own-autonomous-drone/build-your-own-autonomous-drone-e01-offboard-control-and-gazebo-simulation)<br>
-INFO: This set of tutorials in English and Chineese from Generalized Autonomy Aviation System (GAAS). The tutorials cover offboard control, 3D reconstruction from images, indoor SLAM, path planning and vision based autolanding. The tutorials use ROS, [PX4 autopilot](https://px4.io/) and Gazebo simulator.
+INFO: This set of tutorials in English and Chinese from Generalized Autonomy Aviation System (GAAS). The tutorials cover offboard control, 3D reconstruction from images, indoor SLAM, path planning and vision based autolanding. The tutorials use ROS, [PX4 autopilot](https://px4.io/) and Gazebo simulator.
 
 2) Georgia Tech SlothBot Goes Slow to Save Energy for Environmental Monitoring.
 <br>[The Robot Report](https://www.therobotreport.com/slothbot-georgia-institute-of-technology-saves-energy/)<br>
