@@ -9,8 +9,8 @@ import yaml
 filename = "img_1"
 imgFile = "img/"+filename+".jpg"
 yamlFile = "img/"+filename+".yaml"
-output = "../../img/headers/45.jpg"
-text = "Weekly Robotics #45"
+output = "../../img/headers/46.jpg"
+text = "Weekly Robotics #46"
 textColor = 'white'
 shadowColor = 'black'
 outlineAmount = 3
