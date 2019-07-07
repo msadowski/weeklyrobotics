@@ -2,7 +2,7 @@
 title: "Weekly Robotics #46"
 description: "This week in Weekly Robotics Newsletter we are looking into RoboCup 2019, Boaty McBoatface doing science, NASA's new multirotor and more!"
 date: 2019-07-07
-tags: [Robotics, Careers]
+tags: [Robotics, Careers, Space, Drones, BipedalRobots, IndustrialRobots, SafetySystems]
 ---
 ![HeaderImage](/img/headers/46.jpg "Header image")
 
