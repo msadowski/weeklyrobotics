@@ -6,7 +6,7 @@ tags: [Robotics, Careers, Space, Drones, BipedalRobots, IndustrialRobots, Safety
 ---
 ![HeaderImage](/img/headers/46.jpg "Header image")
 
-[Weekly Robotics Q2 2019 report](https://weeklyrobotics.com/Q2-2019-report) is available! The short story is the newsletter is growing and as I'm writing this we are at 993 e-mail subscribers. Enjoy the read!
+> [Weekly Robotics Q2 2019 report](https://weeklyrobotics.com/Q2-2019-report) is available! The short story is the newsletter is growing and as I'm writing this we are at 993 e-mail subscribers. Enjoy the read!
 
 1) NASA's Dragonfly Will Fly Around Titan Looking for Origins, Signs of Life .
 <br>[NASA](https://www.nasa.gov/press-release/nasas-dragonfly-will-fly-around-titan-looking-for-origins-signs-of-life)<br>
