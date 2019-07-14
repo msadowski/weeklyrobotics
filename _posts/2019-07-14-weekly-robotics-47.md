@@ -10,7 +10,7 @@ tags: [Robotics, Careers, Manufacturing, IndustrialRobots, Space, Research, ROS]
 
 1) Reinforce Your 3D Prints with Steel.
 <br>[YouTube](https://youtu.be/XpDG8VxZsw4)<br>
-INFO: This video by Brauns CNC explores a technique of reinfocing 3D prints with steel wire. After reinforcment the author performs a destructive tensile testing on 3 types of barts that were printed in pure plastic and reinforced with steel and observing an increase in strength in the range of 55.6% to 107.5%.
+INFO: This video by Brauns CNC explores a technique of reinforcing 3D prints with steel wire. After reinforcement the author performs a destructive tensile testing on 3 types of barts that were printed in pure plastic and reinforced with steel and observing an increase in strength in the range of 55.6% to 107.5%.
 
 2) Jumping Space Robot 'Flies' Like a Spacecraft.
 <br>[ESA](http://www.esa.int/Our_Activities/Space_Engineering_Technology/Jumping_space_robot_flies_like_a_spacecraft)<br>
@@ -18,7 +18,7 @@ INFO: If you need to move around low gravity environment such as moon, why not t
 
 3) Robot-ants that Can Jump, Communicate and Work Together.
 <br>[EPFL](https://actu.epfl.ch/news/robot-ants-that-can-jump-communicate-and-work-toge/)<br>
-INFO: Researchers at EPFL Professor Jamie Paik's Laboratory had created tiny robots that weight only 10 grams and are based on PCB's that can be folded to form a 3D shape of the robot and can acommodate all the robot components. The robots can move using shape-memory alloy actuators. For more information about the folding robots you might want to check out [this TED talk](https://www.ted.com/talks/jamie_paik_origami_robots_that_reshape_and_transform_themselves) in which Jamie paik talks about the robots her group is working on (origami haptic feedback devices look interesting).
+INFO: Researchers at EPFL Professor Jamie Paik's Laboratory had created tiny robots that weigh only 10 grams and are based on PCBs that can be folded to form a 3D shape of the robot and can accommodate all the robot components. The robots can move using shape-memory alloy actuators. For more information about the folding robots you might want to check out [this TED talk](https://www.ted.com/talks/jamie_paik_origami_robots_that_reshape_and_transform_themselves) in which Jamie paik talks about the robots her group is working on (origami haptic feedback devices look interesting).
 
 4) ROS 2 Command Line Interface.
 <br>[Ubuntu](https://ubuntu.com/blog/ros-2-command-line-interface)<br>
@@ -26,15 +26,15 @@ INFO: This short post by Jeremie Deray goes into how the command line interface 
 
 5) OpenPnP - Open Source SMT Pick and Place System.
 <br>[OpenPnP](http://openpnp.org/)<br>
-INFO: OpenPnp is a ready to run software for pick and place machines. The software supports [various designs](http://openpnp.org/hardware/) and is in active development. I found [this project on YouTube](https://youtu.be/y14pdfjYsyo) utlizing OpenPnP very satisfactory to watch.
+INFO: OpenPnp is a ready to run software for pick and place machines. The software supports [various designs](http://openpnp.org/hardware/) and is in active development. I found [this project on YouTube](https://youtu.be/y14pdfjYsyo) utilizing OpenPnP very satisfactory to watch.
 
 6) Developing Semi-automatic Nuclear Decommissioning Robots.
 <br>[Lancaster University](https://www.lancaster.ac.uk/news/developing-semi-automatic-nuclear-decommissioning-robots)<br>
-INFO: Engineers from Lanchester University are building a semi-autonomous robot for handling nuclear waste. The robot is a mobile platform with two manipulators capable of grasping and cutting metal parts. The semi-autonomy of the robot allows the operator to select parts the robot should perform tasks on. For more information about the system you can check the [Open Access publication about it](https://www.mdpi.com/2218-6581/8/2/42).
+INFO: Engineers from Lancaster University are building a semi-autonomous robot for handling nuclear waste. The robot is a mobile platform with two manipulators capable of grasping and cutting metal parts. The semi-autonomy of the robot allows the operator to select parts the robot should perform tasks on. For more information about the system you can check the [Open Access publication about it](https://www.mdpi.com/2218-6581/8/2/42).
 
 7) Publication of the Week - Dragonfly: A Rotorcraft Lander Concept for Scientific Exploration at Titan (2018).
 <br>[jhuapl.edu](https://www.jhuapl.edu/techdigest/TD/td3403/34_03-Lorenz.pdf)<br>
-INFO: As promised in the [previous issue](https://weeklyrobotics.com/weekly-robotics-46) here is a publication that introduces Dragonfly multirotor destiend for Titan. Interestingly the first aircraft suggested for similar mission was a helicopter, however the idea was dropped tue to the mechanical complexity of single rotor aircrafts. Even though the the aircraft would perform just fine in a 4-rotor setup the 80rotor in coaxial configuration was chosen for redundancy. I really enjoyed the insights about the energy required to send science data to earth: "Missions with high-gain antennas (HGAs) empiri-cally require about 5 mJ per bit per astronomical unit".
+INFO: As promised in the [previous issue](https://weeklyrobotics.com/weekly-robotics-46) here is a publication that introduces Dragonfly multirotor destined for Titan. Interestingly the first aircraft suggested for similar mission was a helicopter, however the idea was dropped due to the mechanical complexity of single rotor aircrafts. Even though the aircraft would perform just fine in a 4-rotor setup the 80rotor in coaxial configuration was chosen for redundancy. I really enjoyed the insights about the energy required to send science data to earth: "Missions with high-gain antennas (HGAs) empiri-cally require about 5 mJ per bit per astronomical unit".
 
 ### Sponsored
 
@@ -48,7 +48,7 @@ INFO: In this Humble Book Bundle you can grab various books related to single bo
 <br>
 INFO: Magazino develops and builds intelligent, mobile robots for intralogistics.
 
-2) [ARM](https://careers.peopleclick.com/careerscp/client_arm/external/jobDetails.do?functionName=getJobDetail&jobPostId=41257&localeCode=en-us) (Cabridge, UK) -
+2) [ARM](https://careers.peopleclick.com/careerscp/client_arm/external/jobDetails.do?functionName=getJobDetail&jobPostId=41257&localeCode=en-us) (Cambridge, UK) -
 Embedded Software Engineer - Automotive and Safety.
 <br>
 INFO: The Arm Open Source Software group enables partners to build software on Arm IP-based systems. We develop and contribute to open source software (OSS) projects, providing essential reference implementations and optimisations to key software system components, and also validated software stacks for Arm IP-based reference platforms used in intelligent devices.
