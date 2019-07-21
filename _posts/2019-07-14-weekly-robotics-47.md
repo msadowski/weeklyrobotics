@@ -1,6 +1,6 @@
 ---
 title: "Weekly Robotics #47"
-description: "This week in Weekly Robotics we are looking at an interesting PnP machine, a space hopping robot, and robot ants."
+description: "This week in Weekly Robotics we are looking at an interesting PnP machine, a space hopping robot, robot ants and more!"
 date: 2019-07-14
 tags: [Robotics, Careers, Manufacturing, IndustrialRobots, Space, Research, ROS]
 ---

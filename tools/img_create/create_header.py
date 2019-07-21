@@ -6,11 +6,11 @@ from PIL import ImageDraw
 import yaml
 
 #setting varibles
-filename = "img_2"
+filename = "img_1"
 imgFile = "img/"+filename+".jpg"
 yamlFile = "img/"+filename+".yaml"
-output = "../../img/headers/47.jpg"
-text = "Weekly Robotics #47"
+output = "../../img/headers/48.jpg"
+text = "Weekly Robotics #48"
 textColor = 'white'
 shadowColor = 'black'
 outlineAmount = 3
