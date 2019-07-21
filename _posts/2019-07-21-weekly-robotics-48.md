@@ -22,7 +22,7 @@ INFO: In this article from Rover Robotics we can learn a good bit on advice whet
 
 4) PythonRobotics.
 <br>[GitHub](https://github.com/AtsushiSakai/PythonRobotics)<br>
-INFO: PythonRobotics is a collection of robotics related algorithms with nice visualizations and source code. I covered this project in [Weekly Robotics #2](https://github.com/AtsushiSakai/PythonRobotics) but recently I visited the repository again and I was surprised how much it grew since August 2018. Big thanks to Atsushi Sakai and all the maintainers of the project!
+INFO: PythonRobotics is a collection of robotics related algorithms with nice visualizations and source code. I covered this project in [Weekly Robotics #2](https://weeklyrobotics.com/weekly-robotics-2) but recently I visited the repository again and I was surprised how much it grew since August 2018. Big thanks to Atsushi Sakai and all the maintainers of the project!
 
 5) NASA Climbing Robot Scales Cliffs and Looks for Life.
 <br>[YouTube](https://youtu.be/q2SKa9IEG4M)<br>
@@ -30,7 +30,7 @@ INFO: This 4 minute documentary from NASA JPL showcases the LEMUR (Limbed Excurs
 
 6) Build Your Own Selfie Drone With Computer Vision.
 <br>[Hackaday](https://hackaday.com/2019/06/30/build-your-own-selfie-drone-with-computer-vision/)<br>
-INFO: This Hackaday post showcases a video tutorial by YouTube user [geaxgx1](https://youtu.be/RHRQoaqQIgo) on enabling a DJI Ryze Tello to follow a person. The author is using [openpose library](https://github.com/CMU-Perceptual-Computing-Lab/openpose) for pose estimation from the video feed. You can find the geaxgx1 source code in his [GitHub repository](https://github.com/geaxgx/tello-openpose).
+INFO: This Hackaday post showcases a video tutorial by YouTube user [geaxgx1](https://youtu.be/RHRQoaqQIgo) on enabling a DJI Ryze Tello to follow a person. The author is using [openpose library](https://github.com/CMU-Perceptual-Computing-Lab/openpose) for pose estimation from the video feed. You can find the geaxgx1 source code in his [GitHub repository](https://github.com/geaxgx/tello-openpose)
 
 7) Publication of the Week - A Field‐tested Robotic Harvesting System for Iceberg Lettuce (2019).
 <br>[Wiley](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21888)<br>
