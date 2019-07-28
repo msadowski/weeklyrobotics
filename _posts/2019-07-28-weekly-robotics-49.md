@@ -34,7 +34,7 @@ INFO: LightSail is a [crowdsourced project](https://www.kickstarter.com/projects
 
 7) Publication of the Week - ROS Navigation Tuning Guide (2016).
 <br>[arXiv](https://arxiv.org/abs/1706.09068)<br>
-INFO: This guide by Kaiyu Zheng is a useful resource for tuning a wheeled robot navigation using [move_base package] in ROS. The guide offers a good practical approach to tuning the platform parameters, global and local planners, costmap and robot localization with AMCL.
+INFO: This guide by Kaiyu Zheng is a useful resource for tuning a wheeled robot navigation using [move_base package](http://wiki.ros.org/move_base) in ROS. The guide offers a good practical approach to tuning the platform parameters, global and local planners, costmap and robot localization with AMCL.
 
 ### Careers
 
