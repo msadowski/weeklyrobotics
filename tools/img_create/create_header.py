@@ -6,11 +6,11 @@ from PIL import ImageDraw
 import yaml
 
 #setting varibles
-filename = "img_1"
+filename = "img_3"
 imgFile = "img/"+filename+".jpg"
 yamlFile = "img/"+filename+".yaml"
-output = "../../img/headers/48.jpg"
-text = "Weekly Robotics #48"
+output = "../../img/headers/49.jpg"
+text = "Weekly Robotics #49"
 textColor = 'white'
 shadowColor = 'black'
 outlineAmount = 3
@@ -73,6 +73,24 @@ creditText = "Credit: " + parsedYaml['copyright']
 txtWidth, txtHeight = draw.textsize(creditText, font=font)
 x = imgWidth - txtWidth - 5
 y = imgHeight - txtHeight - 20
+for adj in range(outlineAmount):
+    #move right
+    draw.text((x-adj, y), creditText, font=font, fill=shadowColor)
+    #move left
+    draw.text((x+adj, y), creditText, font=font, fill=shadowColor)
+    #move up
+    draw.text((x, y+adj), creditText, font=font, fill=shadowColor)
+    #move down
+    draw.text((x, y-adj), creditText, font=font, fill=shadowColor)
+    #diagnal left up
+    draw.text((x-adj, y+adj), creditText, font=font, fill=shadowColor)
+    #diagnal right up
+    draw.text((x+adj, y+adj), creditText, font=font, fill=shadowColor)
+    #diagnal left down
+    draw.text((x-adj, y-adj), creditText, font=font, fill=shadowColor)
+    #diagnal right down
+    draw.text((x+adj, y-adj), creditText, font=font, fill=shadowColor)
+# draw.rectangle(((x-3, y-3), (imgWidth, imgHeight)), fill="black")
 draw.text((x,y), creditText, font=font, fill=textColor)
 
 font = ImageFont.truetype("Roboto-Regular.ttf", 10)
@@ -80,6 +98,23 @@ linkText = parsedYaml['link']
 txtWidth, txtHeight = draw.textsize(linkText, font=font)
 x = imgWidth - txtWidth - 5
 y = imgHeight - txtHeight - 5
+for adj in range(outlineAmount):
+    #move right
+    draw.text((x-adj, y), linkText, font=font, fill=shadowColor)
+    #move left
+    draw.text((x+adj, y), linkText, font=font, fill=shadowColor)
+    #move up
+    draw.text((x, y+adj), linkText, font=font, fill=shadowColor)
+    #move down
+    draw.text((x, y-adj), linkText, font=font, fill=shadowColor)
+    #diagnal left up
+    draw.text((x-adj, y+adj), linkText, font=font, fill=shadowColor)
+    #diagnal right up
+    draw.text((x+adj, y+adj), linkText, font=font, fill=shadowColor)
+    #diagnal left down
+    draw.text((x-adj, y-adj), linkText, font=font, fill=shadowColor)
+    #diagnal right down
+    draw.text((x+adj, y-adj), linkText, font=font, fill=shadowColor)
 draw.text((x,y), linkText, font=font, fill=textColor)
 
 img.save(output)
