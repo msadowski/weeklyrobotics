@@ -10,7 +10,7 @@ tags: [Robotics, Careers, SelfDrivingCars, MobileRobots, Business, Manipulators,
 
 1) Acutronic Robotics Closes After Financing Plans Fall Through.
 <br>[Acutronic Robotics](https://acutronicrobotics.com/news/acutronic-robotics-closes-after-both-series-b-and-acquisition-plans-fall-through/)<br>
-INFO: Sad news from Spain. Acutronic robotics, a company behind ROS2 ready MARA arms and H-ROS will be closing its doors at the end of July. The reason cited in the above blog post are issues with financing and acquisitions. Acutronic Robotics was also part of the [Ofera Consortium](http://www.ofera.eu/) working on [micro-ROS project](https://micro-ros.github.io/) that I was really looking forward to see grow.
+INFO: Sad news from Spain. Acutronic Robotics, a company behind ROS2 ready MARA arms and H-ROS will be closing its doors at the end of July. The reason cited in the above blog post are issues with financing and acquisitions. Acutronic Robotics was also part of the [Ofera Consortium](http://www.ofera.eu/) working on [micro-ROS project](https://micro-ros.github.io/) that I was really looking forward to see grow.
 
 2) Mauled by Lions, Trampled by Elephants, Stolen by Cubs: 10 Years of Adventures with BeetleCam.
 <br>[YouTube](https://youtu.be/EsEQVWyvI80)<br>
@@ -30,7 +30,7 @@ INFO: MIT researchers created a system for fabricating actuators to an enormous 
 
 6) LightSail 2 Successfully Deploys Solar Sail.
 <br>[The Planetary Society](http://www.planetary.org/blogs/jason-davis/ls2-deploys-sail.html)<br>
-INFO: LightSail is a [crowdsourced project](https://www.kickstarter.com/projects/theplanetarysociety/lightsail-a-revolutionary-solar-sailing-spacecraft/description) (Ireally recommend the Kickstarter video featuring Bill Nye) that is aiming to prove that a cubesat can use a 32 square meters sail as a propulsion method. The satellite is expected to keep rising the orbit for one month. It is also expected to reenter the atmosphere in about 1 year. I also recommend having a peek at the [mission control](http://www.planetary.org/explore/projects/lightsail-solar-sailing/lightsail-mission-control.html).
+INFO: LightSail is a [crowdsourced project](https://www.kickstarter.com/projects/theplanetarysociety/lightsail-a-revolutionary-solar-sailing-spacecraft/description) (I really recommend the Kickstarter video featuring Bill Nye) that is aiming to prove that a cubesat can use a 32 square meters sail as a propulsion method. The satellite is expected to keep rising the orbit for one month. It is also expected to reenter the atmosphere in about 1 year. I also recommend having a peek at the [mission control](http://www.planetary.org/explore/projects/lightsail-solar-sailing/lightsail-mission-control.html).
 
 7) Publication of the Week - ROS Navigation Tuning Guide (2016).
 <br>[arXiv](https://arxiv.org/abs/1706.09068)<br>
