@@ -1,8 +1,8 @@
 ---
 title: "Weekly Robotics #51"
-description: "In this issue of Weekly Robotics we look into radiation vs. software, robots repairing infrastructure, spring-loaded drone and more!"
+description: "In this issue of Weekly Robotics newsletter we look into radiation vs. software, robots repairing infrastructure, spring-loaded drone and more!"
 date: 2019-08-11
-tags: [Robotics, Drones, IndustrialInspection, Manufacturing, ROS, AutonomousBoats]
+tags: [Robotics, Drones, IndustrialInspection, Manufacturing, ROS, AutonomousBoats, Space, Software]
 ---
 ![HeaderImage](/img/headers/51.jpg "Header image")
 
