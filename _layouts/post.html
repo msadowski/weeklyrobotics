@@ -6,11 +6,7 @@ layout: default
 			{%if page.header %}
 				{{ page.header }}
 			{% else %}
-				{%if page.idx %}
-					{{ page.title }} #{{ page.idx }}
-				{% else %}
-					{{ page.title }}
-				{% endif %}
+				{{ page.title }}{%if page.idx %} #{{ page.idx }}{% endif %}
 			{% endif %}
 		</h1>
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
@@ -22,22 +18,14 @@ layout: default
 	<div class="PageNavigation">
 		{% if page.previous.url %}
 			<a class="prev" href="{{page.previous.url}}">&laquo; 
-				{%if page.previous.idx %}
-					{{ page.previous.title }} #{{ page.previous.idx }}
-				{% else %}
-					{{ page.previous.title }}
-				{% endif %}
+				{{ page.previous.title }}{%if page.previous.idx %} #{{ page.previous.idx }}{% endif %}
 			</a>
 		{% else %}
 		<a class="prev"></a>
 		{% endif %}
 		{% if page.next.url %}
 			<a class="next" href="{{page.next.url}}">
-				{%if page.next.idx %}
-					{{ page.next.title }} #{{ page.next.idx }}
-				{% else %}
-					{{ page.next.title }}
-				{% endif %}&raquo;</a>
+				{{ page.next.title }}{%if page.next.idx %} #{{ page.next.idx }}{% endif %}&raquo;</a>
 		{% endif %}
 	</div>
 </article>
