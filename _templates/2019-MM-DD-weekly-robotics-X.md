@@ -1,10 +1,11 @@
 ---
-title: "Weekly Robotics #X"
+title: "Weekly Robotics"
 description: ""
 date: 2019-MM-DD
 tags: [Robotics, Careers]
+idx: "54"
 ---
-![HeaderImage](/img/headers/X.jpg "Header image")
+![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 
 1).
 <br>[]()<br>
