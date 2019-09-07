@@ -3,7 +3,7 @@ title: "Weekly Robotics"
 description: ""
 date: 2019-MM-DD
 tags: [Robotics, Careers]
-idx: "54"
+idx: X
 ---
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 

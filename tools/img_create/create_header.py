@@ -6,7 +6,7 @@ from PIL import ImageDraw
 import yaml
 
 #setting varibles
-idx = 54
+idx = 55
 filename = "img_1"
 imgFile = "img/"+filename+".jpg"
 yamlFile = "img/"+filename+".yaml"
