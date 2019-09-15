@@ -11,7 +11,7 @@ idx: 56
 
 1) Meet The 20 Finalists In The 2019 Hackaday Prize.
 <br>[Hackaday](https://hackaday.com/2019/09/10/meet-the-20-finalists-in-the-2019-hackaday-prize/)<br>
-INFO: Hackaday announced 20 finalists of the Hackaday Prize. Among them we can find projects related to robotics such as [3D printed prosthesis with CV, BCI and EMG](https://hackaday.io/project/165075-3d-printed-prosthesis-with-cv-bci-and-emg), [Bobble-Bot](https://hackaday.io/project/164992-bobble-bot)([WR #38](https://weeklyrobotics.com/weekly-robotics-38)), [SmallKat](https://hackaday.io/project/164727-smallkat-an-adorable-dynamics-oriented-robot-cat), [Axiom: 100+kW Motor Controller](https://hackaday.io/project/164932-axiom-100kw-motor-controller) and [Blackbird Bipedal Robot](https://hackaday.io/project/160882-blackbird-bipedal-robot). I can also see myself using [OPEN Power](https://hackaday.io/project/164913-open-power) at some point in the future if they ever start selling those.
+INFO: Hackaday announced 20 finalists of the Hackaday Prize. Among them we can find projects related to robotics such as [3D printed prosthesis with CV, BCI and EMG](https://hackaday.io/project/165075-3d-printed-prosthesis-with-cv-bci-and-emg), [Bobble-Bot](https://hackaday.io/project/164992-bobble-bot) ([WR #38](https://weeklyrobotics.com/weekly-robotics-38)), [SmallKat](https://hackaday.io/project/164727-smallkat-an-adorable-dynamics-oriented-robot-cat), [Axiom: 100+kW Motor Controller](https://hackaday.io/project/164932-axiom-100kw-motor-controller) and [Blackbird Bipedal Robot](https://hackaday.io/project/160882-blackbird-bipedal-robot). I can also see myself using [OPEN Power](https://hackaday.io/project/164913-open-power) at some point in the future if they ever start selling those.
 
 2) Slam Toolbox.
 <br>[GitHub](https://github.com/SteveMacenski/slam_toolbox)<br>
@@ -23,7 +23,7 @@ INFO: Engineers from Université De Technologie De Belfort-Montbéliard released
 
 4) Russia Terminates Robot Fedor After Space Odyssey.
 <br>[Phys.org](https://phys.org/news/2019-09-russia-scraps-robot-fedor-space.html)<br>
-INFO: Skybot F-850 (Featured in [#53](https://weeklyrobotics.com/weekly-robotics-53) and [#54](https://weeklyrobotics.com/weekly-robotics-54)) completed his mission and according to the article it won't be coming back to the ISS any time soon. Apparently using legs in space is no easy feat!
+INFO: Skybot F-850 (featured in issues [#53](https://weeklyrobotics.com/weekly-robotics-53) and [#54](https://weeklyrobotics.com/weekly-robotics-54)) completed his mission and according to the article it won't be coming back to the ISS any time soon. Apparently using legs in space is no easy feat!
 
 5) Water Jet Powered Drone Takes Off With Explosions.
 <br>[IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/drones/water-jet-powered-drone-takes-off-with-explosions)<br>
