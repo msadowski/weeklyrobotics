@@ -4,9 +4,39 @@ from PIL import Image
 from PIL import ImageFont
 from PIL import ImageDraw
 import yaml
+import glob
+import os
+
+issue_yaml = ""
+list_of_files = glob.glob('../../_posts/*') # * means all if need specific format then *.csv
+latest_file = max(list_of_files, key=os.path.getctime)
+print latest_file
+with open(latest_file) as infile:
+    copy = False
+    for line in infile:
+        if line.strip() == "---" and not copy:
+            copy = True
+            continue
+        elif line.strip() == "---":
+            copy = False
+            continue
+        elif copy:
+            issue_yaml += line
+
+try:
+    parsed_issue_yaml = yaml.load(issue_yaml)
+except yaml.YAMLError as exc:
+    print(exc)
+    exit()
+
+if parsed_issue_yaml["idx"]:
+    title = parsed_issue_yaml["title"] +" #" + str(parsed_issue_yaml["idx"])
+else:
+    # title = parsed_issue_yaml["title"]
+    print "ISSUES WITHOUT IDX ARE NOT SUPPORTED YET"
 
 #setting varibles
-idx = 57
+idx = parsed_issue_yaml["idx"]
 filename = "img_1"
 imgFile = "img/"+filename+".jpg"
 yamlFile = "img/"+filename+".yaml"
