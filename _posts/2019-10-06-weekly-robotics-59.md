@@ -7,7 +7,7 @@ idx: 59
 ---
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 
-Have you seen [this video](https://youtu.be/6ePWBBrWSzo) of Waymo employees testing the self driving car on their commutes? According to the description in the video the feature tested at the time was similar to highway assist features (assuming not very close to full autonomy). I feel I agree with the point made in the description that "nothing short of full autonomy will do"; I'm starting to agree - most of us will most probably be too distracted if they are not fully engaged.
+> Have you seen [this video](https://youtu.be/6ePWBBrWSzo) of Waymo employees testing the self driving car on their commutes? According to the description in the video the feature tested at the time was similar to highway assist features (assuming not very close to full autonomy). I feel I agree with the point made in the description that "nothing short of full autonomy will do"; I'm starting to agree - most of us will most probably be too distracted if they are not fully engaged.
 
 0) Weekly Robotics Q3 Reports.
 <br>[Weekly Robotics](https://weeklyrobotics.com/Q3-2019-report)<br>
