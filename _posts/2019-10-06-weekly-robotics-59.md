@@ -23,7 +23,7 @@ INFO: Big thanks to [Illia](https://www.linkedin.com/in/illia-sheremet-68bbab105
 
 3) mjbots quad A0.
 <br>[Hackaday](https://hackaday.io/project/167845-mjbots-quad-a0)<br>
-INFO: mjbots quad A0 is an open source quadruped robot, very similar to [MIT mini cheetah(http://news.mit.edu/2019/mit-mini-cheetah-first-four-legged-robot-to-backflip-0304)] that you could read about in the [issue #28](https://weeklyrobotics.com/weekly-robotics-28). In the Hackaday project page you will find a video summarizing 1 year of author's work on this robot that's worth watching. The project is licensed under Apache 2.0.
+INFO: mjbots quad A0 is an open source quadruped robot, very similar to [MIT mini cheetah](http://news.mit.edu/2019/mit-mini-cheetah-first-four-legged-robot-to-backflip-0304)] that you could read about in the [issue #28](https://weeklyrobotics.com/weekly-robotics-28). In the Hackaday project page you will find a video summarizing 1 year of author's work on this robot that's worth watching. The project is licensed under Apache 2.0.
 
 4) Robotics Investments Recap: September 2019.
 <br>[The Robot Report](https://www.therobotreport.com/robotics-investments-recap-september-2019/)<br>
@@ -41,13 +41,13 @@ INFO: This article from [Rover Robotics](https://roverrobotics.com/) compares 5 
 <br>[PickNik Consulting](https://picknik.ai/docs/ROS2_User_Stories_Report.pdf)<br>
 INFO: Speaking of ROS 2 this 14 pages document from PickNik Consulting is a survey report on 15 robotics companies regarding their use and perception of ROS 1 and ROS 2. There are some interesting ideas on the required steps to make ROS 2 more appealing to companies and early adopters.
 
-### Sponsored
+## Sponsored
 
 1) Humble Book Bundle: Linux & UNIX by O'Reilly.
 <br>[Humble Bundle](https://www.humblebundle.com/books/linux-unix-oreilly-books?partner=weeklyrobotics)<br>
 INFO: If you are working in Unix environment you might find this bundle of interest. I'm especially interested about the book on vi and vim and linux device drivers. By purchasing this bundle you can choose to support [Code for America](https://www.codeforamerica.org/) and Weekly Robotics.
 
-### Careers
+## Careers
 
 1) [Pro-Drone](https://pro-drone.eu/careers.html) (Lisbon/Alentejo, Portugal) - Various Positions.
 <br>
