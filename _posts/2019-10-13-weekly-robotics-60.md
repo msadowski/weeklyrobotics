@@ -2,7 +2,7 @@
 title: "Weekly Robotics"
 description: "This week in the Weekly Robotics newsletter: an update on Astrobee, animatronics with Disney, open source LiDAR and modelling and control of bio-inspired bat."
 date: 2019-10-13
-tags: [Robotics, Careers]
+tags: [Robotics, ROS, OpenSource, SLAM, Animatronics, Drones, MobileRobots, ServiceRobots, Space]
 idx: 60
 ---
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
