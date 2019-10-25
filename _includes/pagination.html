@@ -1,0 +1,68 @@
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  <ul class="inline-list">
+    {% comment %} Link for previous page {% endcomment %}
+    {% if paginator.previous_page %}
+      {% if paginator.previous_page == 1 %}
+      <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&laquo;</a>
+      {% else %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&laquo;</a>
+      {% endif %}
+    {% endif %}
+
+    {% comment %} First page {% endcomment %}
+    {% if paginator.page == 1 %}
+      <span class="page-item">1</span>
+    {% else %}
+      <a href="{{ site.url }}/" class="page-item">1</a>
+    {% endif %}
+
+    {% assign page_start = 2 %}
+    {% if paginator.page > 3 %}
+      {% assign page_start = paginator.page | minus: 1 %}
+      {% comment %} Ellipsis for truncated links {% endcomment %}
+      …
+    {% endif %}
+
+    {% assign page_end = paginator.total_pages | minus: 1 %}
+    {% assign pages_to_end = paginator.total_pages | minus: paginator.page %}
+    {% if pages_to_end > 3 %}
+      {% assign page_end = paginator.page | plus: 1 %}
+    {% endif %}
+
+    {% for index in (page_start..page_end) %}
+      {% if index == paginator.page %}
+        <span class="page-item">{{index}}</span>
+      {% else %}
+        {% comment %} Distance from current page and this link {% endcomment %}
+        {% assign dist = paginator.page | minus: index %}
+        {% if dist < 0 %}
+          {% comment %} Distance must be a positive value {% endcomment %}
+          {% assign dist = 0 | minus: dist %}
+        {% endif %}
+        <a href="{{ site.url }}/page{{ index }}/" class="page-item">{{index}}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% comment %} Ellipsis for truncated links {% endcomment %}
+    {% if pages_to_end > 3 %}
+      …
+    {% endif %}
+
+    {% if paginator.page == paginator.total_pages %}
+      <span class="page-item">{{ paginator.page }}</span>
+    {% else %}
+      <a href="{{ site.url }}/page{{ paginator.total_pages }}/" class="page-item">{{ paginator.total_pages }}</a>
+    {% endif %}
+
+    {% comment %}
+      Link next page
+    {% endcomment %}
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&raquo;</a>
+    {% else %}
+      <span class="page-item">&raquo;</span>
+    {% endif %}
+  </ul>
+</div>
+{% endif %}
