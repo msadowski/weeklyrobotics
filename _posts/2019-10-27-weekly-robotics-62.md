@@ -2,7 +2,7 @@
 title: "Weekly Robotics"
 description: "This week in Weekly Robotics: introducing a SLAM library of the week, interesting robot joints, robot hand and an architecture of force feedback systems"
 date: 2019-10-27
-tags: [Robotics, Careers]
+tags: [Robotics, Careers, SLAM, Simulation, HumanoidRobot, Business, SocialRobots]
 idx: 62
 ---
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
