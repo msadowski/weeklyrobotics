@@ -7,7 +7,7 @@ idx: 63
 ---
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 
-> I work on this newsletter in phases. Phase 1 is going through my news feed and shortlisting the articles I found interesting (currently I use bookmarks for that). The second phase is going through the shortlisted webpages and selecting the ones that will appear in the next issue. This week I broke the record with 38 webpages shortlisted (!). The third phase is selecting the 7 top features. If a page doesn't make it to the top I either add it to the next issue or I delete it.
+> I work on this newsletter in phases. Phase 1 is going through my news feed and shortlisting the articles I found interesting (currently I use bookmarks for that). The second phase is going through the shortlisted webpages and selecting the ones that will appear in the next issue. This week I broke the record with 38 webpages shortlisted (!). The third phase is selecting the 7 top features. If a page doesn't make it to the top I either add it to the next issue or I delete it. I was thinking that in the future I might add the links that 'did not make it' to the newsletter.
 
 1) Saildrone USV Completes First Atlantic Crossing East to West.
 <br>[Saildrone](https://www.saildrone.com/news/first-autonomous-vehicle-atlantic-crossing-east-west?mc_cid=b9320225f2&mc_eid=065323ba53)<br>
