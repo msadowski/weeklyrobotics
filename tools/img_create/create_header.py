@@ -37,7 +37,7 @@ else:
 
 #setting varibles
 idx = parsed_issue_yaml["idx"]
-filename = "img_6"
+filename = "img_5"
 imgFile = "img/"+filename+".jpg"
 yamlFile = "img/"+filename+".yaml"
 output = "../../img/headers/" + str(idx) + ".jpg"
