@@ -7,7 +7,7 @@ idx: 65
 ---
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 
-> This weekend I’m attending [Zoohackathon](http://www.zoohackathon.com/Geneva) thinking how we can use technology to improve anti-poaching efforts. As we’ve learned in [Weekly Robotics #30](https://weeklyrobotics.com/weekly-robotics-30) just using drones does not necessarily solve the problem.
+> This weekend I’m attending [Zoohackathon](http://www.zoohackathon.com/Geneva) thinking how we can use technology to improve anti-poaching efforts. As we’ve learned in [Weekly Robotics #30](https://weeklyrobotics.com/weekly-robotics-30) just using drones does not necessarily solve the problem. Do you have experience using Robotics in conservation efforts? I'd love to [hear from you](mailto:contact@msadowski.ch).
 
 1) WABOT-2.
 <br>[YouTube](https://youtu.be/ZHMQuo_DsNU)<br>
