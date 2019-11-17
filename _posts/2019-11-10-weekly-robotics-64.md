@@ -2,7 +2,7 @@
 title: "Weekly Robotics"
 description: "This week in Weekly Robotics Newsletter: humanoid robots reflexes, quadruped rover, autonomous cars not living to the expectations and more!"
 date: 2019-11-10
-tags: [Robotics, Careers, AutonomousCars, RobotSwarms, HumanoidRobots, OpenSource, Space, ]
+tags: [Robotics, Careers, AutonomousCars, RobotSwarms, HumanoidRobots, OpenSource, Space]
 idx: 64
 ---
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
