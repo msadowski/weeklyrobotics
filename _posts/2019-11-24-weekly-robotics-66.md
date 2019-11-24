@@ -1,6 +1,6 @@
 ---
 title: "Weekly Robotics"
-description: "This week in WR: New release of #ROS2, controlling robots from space, cannon drones, aquatic rover and more!"
+description: "This week in WR: New release of #ROS2, controlling robots from space, cannon drones, mobile robot programming toolkit, aquatic rover and more!"
 date: 2019-11-24
 tags: [Robotics, Careers, Space, Drones, Rovers, MobileRobots, ROS, SoftRobots]
 idx: 66
@@ -13,7 +13,7 @@ idx: 66
 <br>[ESA](http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Luca_aces_telerobotic_lunar_geology_test_drive)<br>
 INFO: The first ESA experiment I reported in the [Issue #59](https://weeklyrobotics.com/weekly-robotics-59) took place this week. In the experiments Luca Parmitano took command of a rover in Netherlands while being on-board ISS. In the experiment Luca drove the rover along the obstacle course and collected a rock sample. The robot's interface in this experiments provides haptic feedback to the user, which sounds to me like quite a challenge given the involved latency.
 
-2) ROS 2 Eloquent Elusor Had Been Released.
+2) ROS2 Eloquent Elusor Had Been Released.
 <br>[ros.org](https://index.ros.org/doc/ros2/Releases/Release-Eloquent-Elusor/)<br>
 INFO: The fifth release of ROS2 occured on 22nd of November. The End Of Life for this release is November 2020 (for contrast the Dashing Diademata, a previous release, is going to be supported until May 2021). It's good to see ROS2 maturing!
 
