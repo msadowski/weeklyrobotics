@@ -219,6 +219,12 @@ code {
           border-radius: 4px;
 }
 
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 /* Footer */
 
 footer {

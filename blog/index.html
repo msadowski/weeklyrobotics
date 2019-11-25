@@ -1,0 +1,23 @@
+---
+layout: page
+title: Features
+description: "Weekly Robotics Publications"
+---
+
+<ul id="posts">
+  {% for category in site.categories %}
+  {% for post in category.last %}
+  {% if post.categories contains "blog" %}
+  <li class="post">
+    <h2><a
+        href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{%if post.header %}{{ post.header }}{% else %}{%if post.idx %}{{ post.title }}
+        #{{ post.idx }}{% else %}{{ post.title }}{% endif %}{% endif %}</a></h2>
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> <i>{{ post.date | date_to_string }} |
+        <a href="{{ post.author_url }}">{{ post.author }}</a></i>
+    </time>
+    {% endif %}
+    <p>{{ post.description }}</p>
+    {% endfor %}
+  </li>
+  {% endfor %}
+</ul>
