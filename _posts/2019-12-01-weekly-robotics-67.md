@@ -1,6 +1,6 @@
 ---
 title: "Weekly Robotics"
-description: ""
+description: "This week in WR: the second Astrobee wakes up, adorable quadruped cat, using drones to map wildfires and more!"
 date: 2019-12-01
 tags: [Robotics, Careers, Drones, Space, Quadrupeds, OpenSource, ROS, SLAM, MobileRobots]
 idx: 67
