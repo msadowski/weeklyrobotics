@@ -1,6 +1,6 @@
 ---
 title: "Weekly Robotics"
-description: "In 68th issue issue of Weekly Robotics newsletter: bare metal quadrotor programming pt 2, a desktop robot arm, small farming robots and more!"
+description: "In the 68th issue issue of Weekly Robotics newsletter: bare metal quadrotor programming pt 2, a desktop robot arm, small farming robots and more!"
 date: 2019-12-08
 tags: [Robotics, Careers, Drones, ROS, RobotArm, Cobots, Research, Space]
 idx: 68
