@@ -7,6 +7,8 @@ import yaml
 import glob
 import os
 
+filename = "img_4"
+
 issue_yaml = ""
 list_of_files = glob.glob('../../_posts/*') # * means all if need specific format then *.csv
 latest_file = max(list_of_files, key=os.path.getctime)
@@ -37,7 +39,6 @@ else:
 
 #setting varibles
 idx = parsed_issue_yaml["idx"]
-filename = "img_8"
 imgFile = "img/"+filename+".jpg"
 yamlFile = "img/"+filename+".yaml"
 output = "../../img/headers/" + str(idx) + ".jpg"
