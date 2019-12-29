@@ -11,7 +11,7 @@ Welcome to the special edition of Weekly Robotics in which we cover what we thin
 
 1) NASA's JPL Open Source Rover project.
 <br>[NASA JPL](https://opensourcerover.jpl.nasa.gov/)<br>
-INFO: This year we came across a fully documented Open Source Rover project from NASA that we mentioned in the [issue #1](https://weeklyrobotics.com/weekly-robotics-1). It's also worth mentioning [Sawppy rover](https://github.com/Roger-random/Sawppy_Rover) which is a Rover inspired by the NASA's project that is more cost-effective. 
+INFO: This year we came across a fully documented Open Source Rover project from NASA that we mentioned in the [issue #1](https://weeklyrobotics.com/weekly-robotics-1). It's also worth mentioning [Sawppy rover](https://github.com/Roger-random/Sawppy_Rover) which is a Rover inspired by the NASA's project that is more cost-effective.
 
 2) Ikarus electric "rocket".
 <br>[Omeganaught](http://omeganaught.com/2018/08/ikarus-electric-rocket/)<br>
@@ -23,7 +23,7 @@ INFO: Nybble is a quadruped cat project that was announced in October 2018. It c
 
 4) Blimpduino 2.
 <br>[JJ Robots](https://www.jjrobots.com/blimpduino-2/)<br>
-INFO: Another project that caught our attention is a low cost open source blimp flight controller. 
+INFO: Another project that caught our attention is a low cost open source blimp flight controller.
 
 5) Dexter - an open source 3D printed robot arm.
 <br>[Hackaday](https://hackaday.io/project/158779-dexter)<br>
@@ -43,7 +43,7 @@ INFO: In the [issue #8](https://weeklyrobotics.com/weekly-robotics-8) we discove
 <br>[The Robot Report](https://www.therobotreport.com/robotic-skins-soft-objects-robots/)<br>
 INFO: In September we learned about this project allowing to turn soft objects into robots.
 
-### Robotics showmandship
+### Robotics showmanship
 
 9) Robotics stunt man.
 <br>[Engineering.com](https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/17247/Disney-Brings-Robotic-Stunt-Double-to-Life.aspx)<br>
