@@ -10,14 +10,14 @@ layout: default
 			{% endif %}
 		</h1>
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
-	<div class="content">
+	<div class="content clearfix">
 
 		{{ content }}
 
 	</div>
 	<div class="PageNavigation">
 		{% if page.previous.url %}
-			<a class="prev" href="{{page.previous.url}}">&laquo; 
+			<a class="prev" href="{{page.previous.url}}">&laquo;
 				{{ page.previous.title }}{%if page.previous.idx %} #{{ page.previous.idx }}{% endif %}
 			</a>
 		{% else %}
@@ -29,4 +29,3 @@ layout: default
 		{% endif %}
 	</div>
 </article>
-
