@@ -17,6 +17,9 @@ description: "Weekly Robotics Publications"
     </time>
     {% endif %}
     <p>{{ post.description }}</p>
+    <div align="center">
+      <div markdown="0"><a href="{{ site.url }}{{ post.url }}" class="btn btn-info">Continue ...</a></div>
+    </div>
     {% endfor %}
   </li>
   {% endfor %}

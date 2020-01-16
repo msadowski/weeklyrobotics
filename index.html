@@ -23,6 +23,9 @@ layout: default
 			<!-- <p>{{ post.content | strip_html | truncatewords:50 }}</p> -->
 			{% if post.categories contains "blog" %}
 				<p>{{ post.description }}</p>
+				<div align="center">
+					<div markdown="0"><a href="{{ site.url }}{{ post.url }}" class="btn btn-info">Continue ...</a></div>
+				</div>
 			{% else %}
 				<p>{{ post.content }}</p>
 			{% endif %}
