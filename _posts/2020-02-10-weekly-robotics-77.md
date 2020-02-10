@@ -12,7 +12,7 @@ idx: 77
 INFO: In this SE Daily podcast episode Ryan Bergman, a software engineer at John Deere, talks about software for farming equipment and a whole infrastructure involved. This podcast episode is highly software development focused and puts lots of attention on the cloud part of Robotics. Many thanks to [Artur](https://github.com/ArturSkowronski) for letting me know about this episode!
 
 2) The Disengagement Myth.
-<br>[Medium]https://medium.com/cruise/the-disengagement-myth-1b5cbdf8e239()<br>
+<br>[Medium](https://medium.com/cruise/the-disengagement-myth-1b5cbdf8e239)<br>
 INFO: A very good article by Kyle Vogt, a Co-Founder of [Cruise](https://www.getcruise.com/), a self driving company, on disengagements that occur when a user takes over control of an autonomous car. What I found ingenious in the article is reconstructing the events in which a disengagement occured in simulation to see how the car would behave if the driver would not take over control. I'll be looking forward to reading more about Cruise's approach to self-driving. Many thanks to [Illia](https://www.linkedin.com/in/illia-sheremet-68bbab105/) for forwarding this article to me!
 
 3) MakeSense: Automated Sensor Design for Proprioceptive Soft Robots.
