@@ -7,7 +7,7 @@ idx: 79
 ---
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 
-> Publication of the week was the most clicked link two weeks in a row now! Last week [the blog post on Gears]((https://ciechanow.ski/gears/) had 17.7% opens. I'm glad you enjoy publications featured in the blog, especially because I have a backlog of over 60 publications that I should get through at some point for this newsletter.
+> Publication of the week was the most clicked link two weeks in a row now! Last week [the blog post on Gears](https://ciechanow.ski/gears/) had 17.7% opens. I'm glad you enjoy publications featured in the blog, especially because I have a backlog of over 60 publications that I should get through at some point for this newsletter.
 
 1) Subterranean Challenge Urban Circuit.
 <br>[DARPA](https://www.darpa.mil/about-us/subterranean-challenge-urban-circuit)<br>
