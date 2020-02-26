@@ -145,7 +145,7 @@ INFO: The above article from Robot Report lists Robotics companies that raised t
 * [Paparazzi’s Guidance Vector Field Navigation (2017)](https://wiki.paparazziuav.org/wiki/Module/guidance_vector_field)
 * [Dexterous Manipulation with Reinforcement Learning: Efficient, General, and Low-Cost (2018)](https://bair.berkeley.edu/blog/2018/08/31/dexterous-manip/)
 * [Probabilistic Kinematic State Estimation for Motion Planning of Planetary Rovers (2018)](https://sourishghosh.com/publications/pACE_IROS18.pdf)
-* [A Robust Layered Control System for a Mobile Robot (1985)](www.dtic.mil/dtic/tr/fulltext/u2/a160833.pdf)
+* [A Robust Layered Control System for a Mobile Robot (1985)](https://apps.dtic.mil/dtic/tr/fulltext/u2/a160833.pdf)
 * [SFV: Reinforcement Learning of Physical Skills from Videos (2018)](https://xbpeng.github.io/projects/SFV/index.html)
 * [ UMBmark - A Method for Measuring, Comparing, and Correcting Dead-reckoning Errors in Mobile Robots (1994)](http://www-personal.umich.edu/~johannb/Papers/umbmark.pdf)
 * [Remotion - A Motion-Based Capture and Replay Platform of Mobile Device Interaction (2018)](https://remotion.cs.brown.edu/)
