@@ -7,7 +7,7 @@ idx: 80
 ---
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 
-> If you happen to have 22 seconds to spare check out [this tracked robot (?)](https://www.reddit.com/r/robotics/comments/fbrdme/m_wait_for_it_something_really_cool_happens_at/) completing a track with an unexpected twist at the end. Pretty cool, right? After my ask on Twitter and LinkedIn last week the [awesome Weekly Robotics repository] is now at 117 stars! Many thanks to all of you who helped make this project more visible. The most clicked link last week was [Ascento 2 video](https://youtu.be/T6r7EZKZW-E) with 20.9% opens.
+> If you happen to have 22 seconds to spare check out [this tracked robot (?)](https://www.reddit.com/r/robotics/comments/fbrdme/m_wait_for_it_something_really_cool_happens_at/) completing a track with an unexpected twist at the end. Pretty cool, right? After my ask on Twitter and LinkedIn last week the [awesome Weekly Robotics repository](https://github.com/msadowski/awesome-weekly-robotics) is now at 117 stars! Many thanks to all of you who helped make this project more visible. The most clicked link last week was [Ascento 2 video](https://youtu.be/T6r7EZKZW-E) with 20.9% opens.
 
 1) Super Capacitor Rocket.
 <br>[YouTube (Tom Stanton)](https://youtu.be/vWgwYBDSHGo)<br>
