@@ -7,7 +7,7 @@ idx: 82
 ---
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 
-> Last week I spent 30 minutes watching PaskMakes [create a 'bladeless fan' from scrap wood](https://youtu.be/a19OpQfwB2w). I don't know what it is about woodworking videos but I find them very satisfying to watch lately. The most clicked last week was [the link to RDBOX repository](https://github.com/rdbox-intec/rdbox) with 15.9% opens.
+> Last week I spent 30 minutes watching PaskMakes [create a 'bladeless fan' from scrap wood](https://youtu.be/a19OpQfwB2w). I don't know what it is about woodworking videos but I find them very satisfying to watch lately. The most clicked link last week was [the RDBOX repository](https://github.com/rdbox-intec/rdbox) with 15.9% opens.
 
 1) Swarm of Robots Forms Complex Shapes Without Centralized Control.
 <br>[IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/swarm-of-robots-forms-complex-shapes-without-centralized-control)<br>
