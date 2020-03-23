@@ -55,7 +55,7 @@ INFO: Ready, set, code! Designed for kids, this bundle of ebooks is the perfect 
 **Location**: Davis, CA, USA. Willing to relocate within USA<br>
 **Skills**: Python, Linux, MATLAB/Simulink, C++, ROS, numpy, matplotlib, openai-gym<br>
 **Profile**: I'm a Robotics Engineer working with a myriad of sensors both in simulation and hands-on. Currently working on Baxter research robotic arm with Intel 3D  camera. Also, contributing to an open-source self-driving vehicle simulator<br>
-**Social Profiles**: [LinkedIn](https://www.linkedin.com/in/shantanu-wadnerkar/ <br>
+**Social Profiles**: [LinkedIn](https://www.linkedin.com/in/shantanu-wadnerkar/) <br>
 **Email**: smwadnerkar5@gmail.com<br>
 
 --- <br>
