@@ -41,6 +41,15 @@ INFO:
 <br>[]()<br>
 INFO:
 
+### Job Seekers
+
+**Name**: <br>
+**Location**: <br>
+**Skills**: <br>
+**Profile**: <br>
+**Social Profiles**: [LinkedIn]() <br>
+**Email**: <br>
+
 ### Careers
 
 1) COMPANY_NAME (CITY, COUNTRY) - [Various Positions]().
