@@ -50,6 +50,8 @@ INFO:
 **Social Profiles**: [LinkedIn]() <br>
 **Email**: <br>
 
+--- <br>
+
 ### Careers
 
 1) COMPANY_NAME (CITY, COUNTRY) - [Various Positions]().
