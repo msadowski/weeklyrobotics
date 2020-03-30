@@ -50,7 +50,7 @@ INFO:
 **Social Profiles**: [LinkedIn]() <br>
 **Email**: <br>
 
---- <br>
+---<br>
 
 ### Careers
 

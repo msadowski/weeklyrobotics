@@ -49,7 +49,7 @@ INFO: "An international team including scientists from Georgia Tech captured new
 **Social Profiles**: [LinkedIn](https://www.linkedin.com/in/khalidgabr/) <br>
 **Email**: khaledgabr77@gmail.com<br>
 
---- <br>
+---<br>
 
 **Name**: Andres Torres Garcia<br>
 **Location**: Merced, CA, USA. Willing to relocate<br>
@@ -58,7 +58,7 @@ INFO: "An international team including scientists from Georgia Tech captured new
 **Social Profiles**: [LinkedIn](http://linkedin.com/in/andrestoga)<br>
 **Email**: andrestoga@gmail.com<br>
 
---- <br>
+---<br>
 
 **Name**: Ignat Georgiev<br>
 **Location**: Edinburgh, UK. Willing to relocate<br>
