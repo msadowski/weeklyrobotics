@@ -1,6 +1,6 @@
 ---
 title: "Weekly Robotics"
-description: "In Weekly Robotic #85: Robots learning to move like animals, a custom 50Ah LiFePO4 battery pack, farm robotics, omnidirectional multirotor and more!"
+description: "In Weekly Robotics #85: Robots learning to move like animals, a custom 50Ah LiFePO4 battery pack, farm robotics, omnidirectional multirotor and more!"
 date: 2020-04-06
 tags: [Robotics, Careers, Drones, AI, ROS, AgriculturalRobots]
 idx: 85
