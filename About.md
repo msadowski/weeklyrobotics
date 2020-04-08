@@ -6,20 +6,10 @@ description: Information about Weekly Robotics and the author.
 
 # About Weekly Robotics
 
-Weekly Robotics is a series of handpicked resources about Robotics that is delivered weekly in a form of a robotics newsletter. There is no fixed set of criteria how the resources are selected, however a great care is taken in making sure that the resources have a reasonable level of technical depth - allowing the reader to have a good idea about the presented concepts or providing supporting resources that extend the topic.
+Weekly Robotics is a newsletter created by Mat Sadowski ([LinkedIn](https://www.linkedin.com/in/mateuszsadowski/), [Blog](https://msadowski.github.io/)), a robotics consultant by day and a robotics news addict by night. In the newsletter I try to pick a handful of interesting links about robotics (both professional and DIY), research, space technologies and many more.
 
-## About the author
-
-Mat is a robotics consultant with experience working on drones, mobile and industrial robots as a robotics engineer and a software developer. To learn more about the author please visit his [consultancy website](http://msadowski.ch/).
-
-## Robotics for the planet
-
-As of 1st of January 2019 Mat is a [proud partner](https://www.onepercentfortheplanet.org/who-we-are/business-directory/record/0012I00001t4mtBQAQ) of 1% For the Planet, pledging to donate 1% of sales to environmental non-profit organizations. This means that any profits made by Weekly Robotics will help make our planet a better place.
-
-![Test](/img/Member_Logo.png "1% For The Planet Logo")
+If you'd like to follow the newsletter then you can either visit the website, use your RSS reader of choice or subscribe via e-mail using the subscription form at the top of the website. We are using Mailchimp for e-mail newsletter delivery and we will never share your e-mail with anybody.
 
 ## Get in touch
 
-If you have any suggestions about WeeklyRobotics or would like us to include your project in one of the issues please feel free to [contact us](mailto:contact@weeklyrobotics.com).
-
-
+If you have any suggestions about Weekly Robotics or would like us to include your project in one of the issues please feel free to [contact Mat](mailto:contact@weeklyrobotics.com).
