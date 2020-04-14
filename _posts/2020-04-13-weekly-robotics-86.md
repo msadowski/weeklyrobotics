@@ -7,7 +7,7 @@ idx: 86
 ---
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 
-> If you are wondering how Weekly Robotics is doing subscriber-wise then you might like to take a look at the [Q1 2020 report](https://weeklyrobotics.com/Q1-2020-report). In the past 4 months there was a 10% growth in subscriptions, while website visits were down. The most clicked last week were [software developer's thoughts on his low cost robot vaccuum](https://dev.to/deciduously/i-am-mesmerized-by-our-new-robotic-vacuum-10pc) with 14.9% opens.
+> If you are wondering how Weekly Robotics is doing subscriber-wise then you might like to take a look at the [Q1 2020 report](https://weeklyrobotics.com/Q1-2020-report). In the past 4 months there was a 10% growth in subscriptions, while website visits were down. The most clicked last week were [software developer's thoughts on his low cost robot vacuum](https://dev.to/deciduously/i-am-mesmerized-by-our-new-robotic-vacuum-10pc) with 14.9% opens.
 
 1) qiBullet.
 <br>[SoftBank Robotics](https://developer.softbankrobotics.com/blog/qibullet)<br>
@@ -36,6 +36,13 @@ INFO: How can robots assist in fighting COVID-19? This article might be an entry
 7) Publication of the Week - Lecture 23 Guest Lecture: Drones -- CS287-FA19 Advanced Robotics at UC Berkeley (2020).
 <br>[YouTube](https://youtu.be/Yizyv8MpYfg)<br>
 INFO: If you are wondering how [Skydio drones](https://www.skydio.com/) perform state estimation and navigation then this lecture by Hayk Martirosyan is for you. It's fascinating that the depth estimation is running on their deep learning network at 1000 Hz. Another interesting insight is the camera calibration for thermal expansion (both for the camera location and the lens distortion). If you like this lecture then you might also like [this behind the scenes video](https://youtu.be/3KfP40oMxlY) that was showcased in the [issue #68](https://weeklyrobotics.com/weekly-robotics-68) and is showing, among other things, automated camera calibration.
+
+### Sponsored
+
+1) Humble Book Bundle: Artificial Intelligence & Machine Learning by Morgan & Claypool.
+<br>[](https://www.humblebundle.com/books/artificial-intelligence-machine-learning-morgan-claypool-books?partner=weeklyrobotics
+)<br>
+INFO: "We've teamed up with Morgan & Claypool for our newest bundle! Get ebooks like Essentials of Game Theory, Natural Language Processing for Social Media, Creating Autonomous Vehicle Systems, and more" - as always with these book bundles if you decide to purchase it then you can choose to support this newsletter and make it better.
 
 ### Job Seekers
 
