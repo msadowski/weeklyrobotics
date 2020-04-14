@@ -40,7 +40,7 @@ INFO: If you are wondering how [Skydio drones](https://www.skydio.com/) perform 
 ### Sponsored
 
 1) Humble Book Bundle: Artificial Intelligence & Machine Learning by Morgan & Claypool.
-<br>[](https://www.humblebundle.com/books/artificial-intelligence-machine-learning-morgan-claypool-books?partner=weeklyrobotics
+<br>[HumbleBundle](https://www.humblebundle.com/books/artificial-intelligence-machine-learning-morgan-claypool-books?partner=weeklyrobotics
 )<br>
 INFO: "We've teamed up with Morgan & Claypool for our newest bundle! Get ebooks like Essentials of Game Theory, Natural Language Processing for Social Media, Creating Autonomous Vehicle Systems, and more" - as always with these book bundles if you decide to purchase it then you can choose to support this newsletter and make it better.
 
