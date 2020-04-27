@@ -15,7 +15,7 @@ INFO: If you have read [issue #62](https://weeklyrobotics.com/weekly-robotics-62
 
 2) New Scavenger Technology Allows Robots to 'Eat' Metal for Energy.
 <br>[Science Daily](https://www.sciencedaily.com/releases/2020/04/200421134420.htm)<br>
-INFO: Researchers from University of Pennsylvania's School of Engineering and Applied Science are working on "metal-air scavenger" - a concept that's bridging the gap between batteries and harvesters (for example solar panels). In this project the robot is carrying a cathode, below which a slab of hydrogel is used as an electrolyte and the metal surface the robot is touching is the anode. [Here](https://youtu.be/4Rg2GELb7MI) is the video showing the robot in action where the researchers talk about their invention.
+INFO: Researchers from University of Pennsylvania's School of Engineering and Applied Science are working on "metal-air scavenger" - a concept that's bridging the gap between batteries and harvesters (for example solar panels). In this project the robot is carrying a cathode, below which a slab of hydrogel is used as an electrolyte and the metal surface the robot is touching is the anode. [Here](https://youtu.be/4Rg2GELb7MI) is the video showing the robot in action and the researchers explaining their invention.
 
 3) What Networks Will Co-Evolve With AI and Robotics?
 <br>[Rodney Brooks](https://rodneybrooks.com/what-networks-will-co-evolve-with-ai-and-robotics/)<br>
@@ -23,7 +23,7 @@ INFO: An interesting take from Rodney Brooks on what networks (think roads, rail
 
 4) April 2020: AWS Robomaker Virtual Meetup.
 <br>[YouTube (Object Computing)](https://youtu.be/J7fBQBIqTf8)<br>
-INFO: Here is a video recording of the Object Computing virtual meetup on AWS Robomaker that I saw being announced at [ROS Discourse](https://discourse.ros.org/t/aws-robmaker-online-demo/13570).
+INFO: Here is a video recording of the Object Computing virtual meetup on AWS Robomaker that I saw being announced at [ROS Discourse](https://discourse.ros.org/t/aws-robmaker-online-demo/13570). It seems like an interesting concept if you want to run lots of tests for your platform or handle a robotics fleet.
 
 5) Mithi's Hexapod Robot Simulator.
 <br>[GitHub](https://github.com/mithi/hexapod-robot-simulator)<br>
@@ -31,7 +31,7 @@ INFO: Here is something interesting: a web based hexapod simulator with forward/
 
 6) Astronautenassistent CIMON-2 Meistert Einstand auf der ISS.
 <br>[YouTube (DLR)](https://youtu.be/6UeaZ6GYzX0)<br>
-INFO: He is back! CIMON, a free flying robot assistant, seems to be back in the ISS. If you don't speak german - don't be discouraged by the title, everything in the video is in English. Compared to the [video](https://youtu.be/72sB2YjoiC8) I shared in the [issue #54](https://weeklyrobotics.com/weekly-robotics-54) the position control seems way better! Looks like
+INFO: He is back! CIMON, a free flying robot assistant, seems to be back in the ISS. If you don't speak german - don't be discouraged by the title, everything in the video is in English. Compared to the [video](https://youtu.be/72sB2YjoiC8) I shared in the [issue #54](https://weeklyrobotics.com/weekly-robotics-54) the position control seems way better!
 
 7) Publication of the Week - The Canadian Planetary Emulation Terrain Energy-Aware Rover Navigation Dataset (2020).
 <br>[Sage Journals](https://journals.sagepub.com/eprint/2FW9PZRWZ87QHMXURSRP/full)<br>
