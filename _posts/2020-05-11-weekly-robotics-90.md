@@ -1,6 +1,6 @@
 ---
 title: "Weekly Robotics"
-description: "In the 90th issue of Weekly Robotics: robots replacing jobs, Roomba stories, social robot helping with social-emotional learning, free self-driving car course with ROS2 and more!"
+description: "In the 90th issue of Weekly Robotics: robots replacing jobs, Roomba stories, a social robot helping with social-emotional learning, free self-driving car course with ROS2 and more!"
 date: 2020-05-11
 tags: [Robotics, MobileRobots, Research, ConsumerRobotics, Drones, AutonomousCars]
 idx: 90
@@ -19,7 +19,7 @@ INFO: A very thoughtful and well-written piece by Joe Jones, who developed Roomb
 
 3) Meet Moxie, a Social Robot That Helps Kids With Social-Emotional Learning.
 <br>[IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/home-robots/moxie-a-social-robot-for-childhood-development)<br>
-INFO: While reading the previous article on doing a single thing well I've remembered this article about a social robot from [Embodied](https://embodied.com/) that is meant to help kids with social-emotional development. Since it's meant to be used up to once a day for a short period of time I can imagine it can be easier to get this right. I'm looking forward for some non-scripted demonstrator!
+INFO: While reading the previous article on doing a single thing well I've remembered this article about a social robot from [Embodied](https://embodied.com/) that is meant to help kids with social-emotional development. Since it's meant to be used up to once a day for a short period of time I can imagine it can be easier to get this right. I'm looking forward to some non-scripted demonstrators!
 
 4) ArduBee, a Ready-To-Fly Micro drone for Education and Swarming.
 <br>[discuss.ardupilot.org](https://discuss.ardupilot.org/t/ardubee-a-ready-to-fly-micro-drone-for-education-and-swarming/54362)<br>
