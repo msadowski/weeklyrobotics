@@ -41,19 +41,6 @@ INFO:
 <br>[]()<br>
 INFO:
 
-### Job Seekers
-
-[In the issue #83](https://weeklyrobotics.com/weekly-robotics-83) I've started this section to try to help out those looking for work in the times of pandemic. If you are currently looking for work then feel free to [send me](mailto:mat@weeklyrobotics.com) your details in the same format as you can see in the entries below. Please note that I will be able to list up to 5 profiles a week here.
-
-**Name**: <br>
-**Location**: <br>
-**Skills**: <br>
-**Profile**: <br>
-**Social Profiles**: [LinkedIn]() <br>
-**Email**: <br>
-
----<br>
-
 ### Careers
 
 1) COMPANY_NAME (CITY, COUNTRY) - [Various Positions]().
