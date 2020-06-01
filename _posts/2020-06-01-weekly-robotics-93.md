@@ -2,7 +2,7 @@
 title: "Weekly Robotics"
 description: "In the 93rd issue of Weekly Robotics: Autonomous Cars in simulation, spherical quadruped robot that you can build at home, mech suit crashing cars and more!"
 date: 2020-06-01
-tags: [Robotics, Careers]
+tags: [Robotics, Careers, AutonomousCars, SLAM, LIDAR, DIYRobots, Quadrupeds, Programming, Sensors]
 idx: 93
 ---
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
