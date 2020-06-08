@@ -7,7 +7,7 @@ import yaml
 import glob
 import os
 
-filename = "img_15"
+filename = "img_0"
 
 issue_yaml = ""
 list_of_files = glob.glob('../../_posts/*') # * means all if need specific format then *.csv
