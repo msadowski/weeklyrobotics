@@ -7,7 +7,7 @@ idx: 97
 ---
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 
-> Remeber the Gundam robot from Japan ([#76](https://weeklyrobotics.com/weekly-robotics-76) and [#77](https://weeklyrobotics.com/weekly-robotics-77))? [It's moving](https://www.reddit.com/r/robotics/comments/hgalvk/d_the_gundam_robot_in_yokohama_japan_is_moving/)! It's been a while since I've added 2 projects to [Awesome Weekly Robotics](https://github.com/msadowski/awesome-weekly-robotics) in one issue. If you are looking for some open source projects to check out then feel free to check that list! The most clicked last week was [AR 2 & AR 3 open plan robot arms](https://www.anninrobotics.com/) with 13.1% opens.
+> Remeber the Gundam robot from Japan ([#76](https://weeklyrobotics.com/weekly-robotics-76) and [#77](https://weeklyrobotics.com/weekly-robotics-77))? [It's moving](https://www.reddit.com/r/robotics/comments/hgalvk/d_the_gundam_robot_in_yokohama_japan_is_moving/)! In other news: it's been a while since I've added more than one project to [Awesome Weekly Robotics](https://github.com/msadowski/awesome-weekly-robotics) from one issue and this week there are two! The most clicked last week was [AR 2 & AR 3 open plan robot arms](https://www.anninrobotics.com/) with 13.1% opens.
 
 1) Drone Helicopter Hybrid.
 <br>[YouTube](https://youtu.be/d80oXSCcHTk)<br>
