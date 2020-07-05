@@ -9,7 +9,7 @@ idx: 98
 
 > If you ever wondered how a delivery robot's traffic jam looks like then Chris Paukert [has an answer for you](https://twitter.com/CPAutoScribe/status/1268951732849164289). This week we will try something new: a number of links in one newsletter entry (Weekly Robotics within Weekly Robotics!). The reason we are trying it is the ROS background growing out of proportion! The most clicked last week was [the WireViz - a tool for wire documentation](https://github.com/formatc1702/WireViz) with 15.8% opens.
 
-1) ROS Related News.
+1) ROS Related News. <br>
 INFO: [Self Balancing Robot tries to climb stairs!](https://discourse.ros.org/t/self-balancing-robot-tries-to-climb-stairs/14545) - a project by jsqu4re where he put together a 3D printed ROS2 based mobile robot. [Underwater robotics simulation - Project Dave initial release](https://discourse.ros.org/t/underwater-robotics-simulation-project-dave-initial-release/14561) - a new underwater simulation for Gazebo. [Project ASLAN Open Source Announcement](https://discourse.ros.org/t/project-aslan-open-source-announcement/15163) - a new Open Source self-driving software platform coming to ROS. [Fiducial Marker Based Localization System - Package Annoucement](https://discourse.ros.org/t/fiducial-marker-based-localization-system-package-annoucement/4050) - a node for mapping and localization using fiducial markers created by the [Ubiquity Robotics Team](https://ubiquityrobotics.com/).
 
 2) Robotic Textiles Are Fueled up and Take Action.
