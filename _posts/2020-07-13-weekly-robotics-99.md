@@ -37,6 +37,12 @@ INFO: MIT AgeLab in collaboration with Toyota Collaborative Safety Research Cent
 <br>[arXiv](https://arxiv.org/abs/2007.00872)<br>
 INFO: Supernumerary Robotic Limbs (SRLs) are robots extending human capabilities that are not kinematically tied to the operator's limbs (see the pdf for images). In this work, Researchers present an initial prototype of such a system built using motors from hoverboards, RoboteQ motor controllers, 8020 aluminum extrusions, and some machined parts. Looking forward to seeing the first working prototype at some point in the future!
 
+### Sponsored
+
+1) Humble Book Bundle: Programming for Makers by Make Co.
+<br>[Humble Bundle](https://www.humblebundle.com/books/programming-for-makers-make-co-books?partner=weeklyrobotics)<br>
+INFO: Learn how to program - the Makers way, with this ebook bundle! Get books like Making Makers, AVR Programming, Make: Arduino Bots and Gadgets, Make: Linux for Makers, and more. As usual with Humble Bundle links featured by purchasing the books using the link above you can choose to support Weekly Robotics and help grow the newsletter. Thanks!
+
 ### Job Seekers
 
 [In the issue #83](https://weeklyrobotics.com/weekly-robotics-83) I've started this section to try to help out those looking for work in the times of pandemic. If you are currently looking for work then feel free to [send me](mailto:mat@weeklyrobotics.com) your details in the same format as you can see in the entries below.
