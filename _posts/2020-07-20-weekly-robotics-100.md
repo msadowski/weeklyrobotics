@@ -7,7 +7,7 @@ idx: 100
 ---
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 
-> Last week Grant Imahara, one of the hosts of Mythbusters, passed away. As a 90s kid, I was heavily influenced by some of his work on Mythbusters and I'm not sure if I would be where I am today without this kind of inspiration. If you would like to feel a bit nostalgic I highly recommend [this tribiute](https://youtu.be/Px_5Z0pPlPc) from Discovery. [a Medium article on motion planning in Robotics](https://medium.com/@gunjangiri8410/motion-path-planning-in-robots-3a48cfaf58cc) with 16.1% opens.
+> Last week Grant Imahara, one of the hosts of Mythbusters, passed away. As a 90s kid, I was heavily influenced by some of his work on Mythbusters and I'm not sure if I would be where I am today without this kind of inspiration. If you would like to feel a bit nostalgic I highly recommend. [this tribiute](https://youtu.be/Px_5Z0pPlPc) from Discovery. The most clicked last week was [the Medium article on motion planning in Robotics](https://medium.com/@gunjangiri8410/motion-path-planning-in-robots-3a48cfaf58cc) with 16.1% opens.
 
 1) Ex-Googler's Startup Comes Out of Stealth With Beautifully Simple, Clever Robot Design.
 <br>[IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/home-robots/hello-robots-stretch-mobile-manipulator)<br>
