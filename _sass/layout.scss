@@ -1,5 +1,6 @@
 /* -- General Layout -- */
 
+
 /* Navigation */
 
 #nav, #nav-left {
@@ -77,20 +78,23 @@
 
 #header {
   overflow: hidden;
-  border-bottom: 1px solid rgba(0,0,0,0.14);
-  // padding: 20px 10px;
+  //border-bottom: 1px solid rgba(0,0,0,0.14);
+  padding: 20px 0px;
   a {
-    float: left;
-    color: black;
-    text-align: center;
-    padding: 12px;
-    text-decoration: none;
-    font-size: 18px;
-    line-height: 25px;
-    border-radius: 4px;
+    // float: left;
+    // color: black;
+    // text-align: center;
+    // padding: 12px;
+    // text-decoration: none;
+    // font-size: 18px;
+    // line-height: 25px;
+    // border-radius: 4px;
   }
-  div {
-    margin: 0 auto;
+  // div {
+  //   margin: 0 auto;
+  // }
+  img {
+    margin-bottom: 0;
   }
   h1 {
     font-size: 2em;
@@ -98,6 +102,18 @@
     span {
       color: $text-light-color;
       font-weight: 300;
+    }
+  }
+  ul {
+    li {
+      a {
+        color: #2d42ad;
+        font-size: 1.25rem;
+        font-weight: 300;
+      }
+      .rss-cta {
+        font-weight: 500;
+      }
     }
   }
 }
@@ -139,7 +155,7 @@
     content: '';
     width: 5rem;
     height: 1px;
-    margin: 23px auto;
+    margin: 55px auto;
     background-color: lighten($text-color, 70%);
   }
 

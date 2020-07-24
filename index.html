@@ -1,36 +1,58 @@
 ---
-layout: default
+layout: default_index
 ---
-
 {% if paginator.page == 1 %}
-<h1>Weekly Robotics Newsletter Archive</h1>
-
-<p>In these pages you can find all Weekly Robotics Newsletter issues released so far. This webpage will be always up to date, however if you would like to make sure that you
-	won't miss any future issues then you can subscribe to our newsletter using the form above or you can subscribe via <a href="https://weeklyrobotics.com/atom.xml">RSS</a>.
-</p>
+	<div class="hero">
+		<!-- <img src="img/weeklyrobotics-hero.png" alt="Weekly Robotics">
+		<small class="source">Photo by <a href="https://unsplash.com/@umby" target="_blank">Umberto</a> on Unsplash</small> -->
+		<p>Weekly Robotics is a technical newsletter with handpicked news, projects (both professional and DIY) related to robotics, drones, space technologies and more. A new issue of the newsletter is published every Monday. </p>
+		<div class="read-latest">
+			<h4>READ OUR LATEST</h4>
+			<span class="read-latest-bubble">
+				<a href="#posts">↓</a>
+			</span>
+		</div>
+	</div>
 {% else %}
-<h1> Weekly Robotics Newsletter Archive [{{paginator.page}}/{{paginator.total_pages}}]</h1>
+	<h1> Weekly Robotics Newsletter Archive [{{paginator.page}}/{{paginator.total_pages}}]</h1>
 {% endif %}
 
-<!-- Posts -->
-<ul id="posts">
+<main class="row-full">
+	<section class="newsletter container">
+		<div class="row">
+			<h3>NEWSLETTER</h3>
+		</div>
 
-	{% for post in paginator.posts %}
+		<!-- Posts -->
+		<div class="row">
+			<div class="col-2 d-none d-sm-block"></div>
+			<div class="col-sm-12 col-md-8">
+				<ul id="posts">
+					{% for post in paginator.posts %}
+						<li class="post">
+							<div class="post-info">
+								<h2>
+									<a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{%if post.header %}{{ post.header }}{% else %}{%if post.idx %}{{ post.title }} #{{ post.idx }}{% else %}{{ post.title }}{% endif %}{% endif %}</a>
+								</h2>
 
-	  <li class="post">
-	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{%if post.header %}{{ post.header }}{% else %}{%if post.idx %}{{ post.title }} #{{ post.idx }}{% else %}{{ post.title }}{% endif %}{% endif %}</a></h2>
-      <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> <i>{{ post.date | date_to_string }}</i> </time>
-			<!-- <p>{{ post.content | strip_html | truncatewords:50 }}</p> -->
-			{% if post.categories contains "blog" %}
-				<p>{{ post.description }}</p>
-				<div align="center">
-					<div markdown="0"><a href="{{ site.url }}{{ post.url }}" class="btn btn-info">Continue ...</a></div>
-				</div>
-			{% else %}
-				<p>{{ post.content }}</p>
-			{% endif %}
-	  </li>
+								<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> <i>{{ post.date | date_to_string }}</i></time>
+							</div>
+							<!-- <p>{{ post.content | strip_html | truncatewords:50 }}</p> -->
 
-    {% endfor %}
+							<!-- {% if post.categories contains "blog" %}
+								<p>{{ post.description }}</p>
+								<div align="center">
+									<div markdown="0"><a href="{{ site.url }}{{ post.url }}" class="btn btn-info">Continue ...</a></div>
+								</div>
+							{% else %}
+								<p>{{ post.content }}</p>
+							{% endif %} -->
 
-</ul>
+							<p>{{ post.content }}</p>
+						</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+	</section>
+</main>

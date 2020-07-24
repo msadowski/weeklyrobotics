@@ -1,18 +1,29 @@
-<header id="header">
-
-  <!-- <a href="#default" class="logo">CompanyLogo</a> -->
-  <a href="{{ site.url }}/" class="logo">
-    <img src="https://weeklyrobotics.com/img/weekly_robotics.png" style="max-width:120px" vspace="100"
+<header id="header" class="row align-items-center">
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <a href="{{ site.url }}/" class="logo">
+      <img src="{{ASSET_PATH}}/img/weekly-robotics-logo-blue.png" style="max-width:120px" vspace="100"
       alt="Weekly Robotics">
-  </a>
-  <div id="nav-links" class="header-right">
-    {% for page in site.pages %}
-    {% if page.layout == "page" %}
-    <a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}"
-      title="{{ page.title }}{% if page.idx %} #{{ page.idx }}{% endif %}">{{ page.title }}{% if page.idx %} #{{ page.idx }}{% endif %}</a>
-    {% endif %}
-    {% endfor %}
-
-    {% include link.html %}
-  </div>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          {% for page in site.pages %}
+            {% if page.layout == "page" %}
+              
+              <li class="nav-item">
+                <a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}"
+                title="{{ page.title }}{% if page.idx %} #{{ page.idx }}{% endif %}" class="nav-link">{{ page.title }}{% if page.idx %} #{{ page.idx }}{% endif %}</a>
+              </li>
+              
+            {% endif %}
+          {% endfor %}
+          {% include link.html %}
+        </li>
+      </ul>
+    </div>
+  </nav>
 </header>

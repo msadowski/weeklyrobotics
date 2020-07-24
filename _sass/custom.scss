@@ -1,10 +1,316 @@
 /*- Custom style -*/
 
+ html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    max-width: 100%;
+    padding: 0px;
+    overflow-x: hidden;
+}
+.white {
+	color: #fff;
+}
+.nopadding {
+	padding: 0!important;
+}
+header {
+	.navbar {
+		width:100%;
+	}
+}
+button::-moz-focus-inner,
+input[type="button"]::-moz-focus-inner,
+input[type="submit"]::-moz-focus-inner,
+input[type="reset"]::-moz-focus-inner {
+  padding: 0 !important;
+  border: 0 none !important;
+}
+button::-moz-focus-inner {
+    border:0;
+    padding:0;
+}
+nav {
+	list-style: none;
+}
+#mc_embed_signup {
+	margin: 5% auto;
+	padding: 0;
+	position: relative;
+}
+.weeklyRoboticsHero {
+	margin: 50px auto 30px;
+}
+.hero {
+	padding: 2% 0;
+	text-align: center;
+
+	img {
+		margin-bottom: 0;
+	}
+
+	.read-latest {
+		margin-top: 8%;
+
+		h4 {
+			color: $h-light-blue;
+	    	font-size: 1rem;
+		}
+
+		span.read-latest-bubble {
+			background: #d6dbf6;
+	    	border-radius: 50px;
+	    	display: inline-flex;
+	    	transition: background-color 0.85s ease-in-out;
+	    	width: 40px;
+	    	height: 40px;
+
+	    	&:hover {
+				background: $h-light-blue;
+			}
+		}
+
+		a {
+			font-size: 1.5rem;
+	    	font-weight: 300;
+	    	text-align: center;
+	    	transition: background-color 0.75s ease-in-out;
+	    	width: 100%;
+
+			&:hover {
+				color: #d6dbf6;
+				text-decoration: none;
+			}
+		}
+	}
+}
+
+main.row-full {
+	background: #2f313e;
+ 	left: 50%;
+	margin-left: -50vw;
+	position: relative;
+	width: 100vw;
+
+	/*- Link -*/
+	a {
+		color: $h-light-blue;
+		// text-decoration: none;
+		font-weight: 700;
+		&:hover,
+		&:focus {
+			color: darken(#007bff, 20%);
+		}
+	}
+
+	section.newsletter {
+		padding: 5% 0;
+
+		h3 {
+			color: #fff;
+    		letter-spacing: 10px;
+    	   margin-bottom: 7%;
+		}
+		h3#yearDate {
+			background: $h-light-blue;
+			color:#fff;
+			margin: 30px 0 15px;
+			padding: 5px 0 5px 20px;
+			text-transform: uppercase;
+	    	width: max-content;
+		}
+		ul.archive-list {
+			list-style: none;
+		}
+
+		ul {
+			li.post {
+				position: relative;
+
+				.post-info {
+					background: #f1f3fc;
+    				border-radius: 5px 5px 0px 0px;
+    				margin: auto;
+    				padding: 1.5% 0;
+    				width: 100%;
+				   text-align: center;
+
+					h2 {
+						margin:0;
+						padding:0;
+					}
+					time {
+						margin: 0;
+					}
+				}
+
+				p.post-image {
+						text-align: right;
+
+					img {
+						margin-bottom: 5px;
+					}
+					em {
+						font-size: .75rem;
+					}
+				}
+
+				p.post-source {
+					font-size: .85rem;
+					font-weight: 500;
+					margin-bottom: 5px;
+
+					a {
+						color:$h-light-blue;
+						text-decoration: none;
+
+						&::after {
+							color:$h-light-blue;
+							content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+							content: "⇱";
+							display: inline-block;
+							transform: rotate(90deg);
+							margin: 0 3px 0 5px;
+						}
+					}
+
+				}
+
+				h4.post-entry-title {
+					color: #bfd7ff;
+				   font-weight: 400;
+    				letter-spacing: 1px;
+					margin-bottom: 0;
+					margin-top: 35px;
+					padding-bottom: 0;
+					text-transform: uppercase;
+				}
+
+				.sponsor-snippet-wrapper {
+					background: white;
+					left: 50%;
+				    margin-left: -50vw;
+				    position: relative;
+				    width: 100vw;
+
+				   .sponsor-snippet {
+						background: #fff;
+						border-radius: 5px;
+						color: $h-dark-blue;
+					   margin-bottom: 60px;
+   				 	margin-top: 55px;
+						padding: 4% 5% 5% 5%;
+
+						a {
+							color: $h-dark-blue!important;
+						}
+
+						img {
+							margin-bottom: 0px;
+						}
+
+						h3 {
+							color: $h-dark-blue!important;
+							font-style: normal;
+							margin-bottom: 0;
+							margin-top: 0;
+							padding-bottom: 0;
+							padding-top: 0;
+							text-transform: uppercase;
+
+							&::before {
+								color: #ffb100;
+								content: '★';
+							}
+						}
+						h4, p.sponsor-blurb {
+							color: $h-dark-blue;
+							font-style: normal;
+						}
+						h4 {
+							font-size: 1.3rem;
+	    					font-weight: 500;
+							margin-top: 5px;
+						}
+						span.sponsor-source {
+							display: inline-block;
+							margin-bottom: 10px;
+						}
+					}
+				}
+
+
+				blockquote {
+					background: #fff!important;
+
+					a {
+						color: #2e42ad;
+						text-decoration: underline;
+					}
+
+					p {
+						color: $h-dark-blue;
+					}
+				}
+
+
+				h3#careers, h3#announcements, h3#job-seekers, h3#sponsored  {
+					background: $h-light-blue;
+					color:#fff;
+					margin: 30px 0 15px;
+					padding: 5px;
+					text-transform: uppercase;
+			    	width: max-content;
+
+			    	&#announcements {
+			    		background: transparent;
+						color: $h-light-blue;
+			    	}
+
+
+				}
+
+				p {
+					color: #fbfbfb;
+				}
+			}
+		}
+	}
+}
+a.check-archive {
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#5a6fdc+0,23538a+100 */
+	background: #5a6fdc; /* Old browsers */
+   border-radius: 35px;
+   border: none;
+   color: #fff;
+   display: block;
+   font-size: 1rem;
+   /* float: right; */
+   /* height: 40px; */
+   margin: 15px auto;
+   position: relative;
+   /* min-width: 0; */
+   padding: 5px 15px;
+   width: max-content;
+
+	&::after {
+		content: ' >>';
+	}
+
+	&:hover {
+		color: #fff;
+		text-decoration: none;
+	}
+}
+footer {
+	background: transparent;
+}
+
 // -- Put custom style under this point -- //
 .PageNavigation {
   font-size: 17px;
   display: block;
-  width: auto;
+  width: 100%;
   overflow: hidden;
 }
 
@@ -17,4 +323,54 @@
 
 .PageNavigation .next {
   text-align: right;
+}
+@media only screen and (max-width: 1024px) {
+	#mc_embed_signup input.button {
+    	// height: 30px!important;
+    	// margin:-46px 7px 0px 0px !important
+	}
+}
+@media only screen and (max-width: 768px) {
+	#mc_embed_signup input.button {
+    	// height: 30px!important;
+    	// margin: -44px 4px 0px 0px!important;
+	}
+}
+@media only screen and (max-width:574px) {
+	main.row-full {
+		padding: 0 20px 0;
+	}
+}
+@media only screen and (max-width: 414px) {
+	main.row-full {
+		padding: 0 20px 0;
+	}
+}
+@media only screen and (max-width: 375px) {
+	#mc_embed_signup input.button {
+    // 	height: 33px !important;
+   	// margin: -44px 0px 0px 0px !important;
+	}
+	h3#announcements {
+		letter-spacing: 8px;
+	}
+}
+@media only screen and (max-width: 320px) {
+	#mc_embed_signup input.button {
+    // 	font-size: .6rem;
+   	// height: 25px!important;
+    // 	letter-spacing: 1px;
+    // 	left: 4px;
+    // 	margin-top: -42px!important;
+    // 	padding-bottom: 30px!important;
+    // 	position: relative;
+    // 	text-transform: uppercase;
+    // 	width: 75px;
+	}
+	h3#announcements {
+	   letter-spacing: 3px;
+	}
+	h3#sponsored {
+		letter-spacing: 6px;
+	}
 }

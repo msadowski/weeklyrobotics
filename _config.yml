@@ -10,12 +10,12 @@ author:
 exclude: ["_templates", "CNAME", ".gitignore", "tools"]
 
 # Build settings
+encoding: utf-8
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 4
 paginate_path: /page:num/
 
 #SEO
@@ -42,3 +42,4 @@ version: "1.0.1"
 custom_header: false
 custom_nav_footer: false
 reverse: false
+paginate: 1

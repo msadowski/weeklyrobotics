@@ -16,16 +16,14 @@ html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img {
   border: 0;
 }
 
-body {
-
-}
-
 /*- Base color -*/
 
-$background-color: #FFFFFF;
+$background-color: #f1f3fc;
 $text-color: #333333;
 $text-light-color: rgba(0,0,0,0.6);
 $text-dark-color: #000000;
+$h-dark-blue: #2d42ad;
+$h-light-blue: #5a6fdb;
 
 /*- Base settings -*/
 
@@ -40,20 +38,27 @@ html {
 }
 
 body {
- max-width: 1000px;
- margin: 0 auto;
- padding: 0 10px;
+	background-color: $background-color!important;
+	font-family : "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif!important;
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 0 10px;
 }
 
 /*- Link -*/
 a {
-	color: #215ced;
+	color: #97abd1;
 	// text-decoration: none;
 	font-weight: 700;
 	&:hover,
 	&:focus {
-		color: darken(#215ced, 20%);
+		color: darken(#97abd1, 20%);
 	}
+}
+
+/*- Headings -*/
+h1,h2,h3,h4 {
+	color: $h-light-blue;
 }
 
 /* Common classes */

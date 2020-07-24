@@ -1,31 +1,49 @@
 ---
 layout: default
 ---
-<article id="post-page">
-	<h1>
-			{%if page.header %}
-				{{ page.header }}
-			{% else %}
-				{{ page.title }}{%if page.idx %} #{{ page.idx }}{% endif %}
-			{% endif %}
-		</h1>
-	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
-	<div class="content clearfix">
+<style>
+	a.check-archive {
+		display: none;
+	}
+</style>
+<main class="row-full">
+	<section class="newsletter container">
+		<!-- Posts -->
+		<div class="row">
+			<div class="col-2 d-none d-sm-block"></div>
+			<div class="col-sm-12 col-md-8">
+				<ul id="posts">
+					<li class="post">
+						<div class="post-info">
+							<h2>
+								{%if page.header %}
+									{{ page.header }}
+								{% else %}
+									{{ page.title }}{%if page.idx %} #{{ page.idx }}{% endif %}
+								{% endif %}
+							</h2>
+							<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+						</div>
+						<p>
+							{{ content }}
+						</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</main>
 
-		{{ content }}
-
-	</div>
-	<div class="PageNavigation">
-		{% if page.previous.url %}
-			<a class="prev" href="{{page.previous.url}}">&laquo;
-				{{ page.previous.title }}{%if page.previous.idx %} #{{ page.previous.idx }}{% endif %}
-			</a>
-		{% else %}
-		<a class="prev"></a>
-		{% endif %}
-		{% if page.next.url %}
-			<a class="next" href="{{page.next.url}}">
-				{{ page.next.title }}{%if page.next.idx %} #{{ page.next.idx }}{% endif %}&raquo;</a>
-		{% endif %}
-	</div>
-</article>
+<div class="PageNavigation">
+	{% if page.previous.url %}
+		<a class="prev" href="{{page.previous.url}}">&laquo;
+			{{ page.previous.title }}{%if page.previous.idx %} #{{ page.previous.idx }}{% endif %}
+		</a>
+	{% else %}
+	<a class="prev"></a>
+	{% endif %}
+	{% if page.next.url %}
+		<a class="next" href="{{page.next.url}}">
+			{{ page.next.title }}{%if page.next.idx %} #{{ page.next.idx }}{% endif %}&raquo;</a>
+	{% endif %}
+</div>
