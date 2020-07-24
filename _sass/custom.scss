@@ -94,12 +94,12 @@ main.row-full {
 
 	/*- Link -*/
 	a {
-		color: $h-light-blue;
+		color: #b1cbfc;
 		// text-decoration: none;
 		font-weight: 700;
 		&:hover,
 		&:focus {
-			color: darken(#007bff, 20%);
+			color: lighten(#007bff, 20%);
 		}
 	}
 
@@ -138,6 +138,16 @@ main.row-full {
 					h2 {
 						margin:0;
 						padding:0;
+
+						a {
+							color:$h-light-blue;
+							// text-decoration: none;
+							font-weight: 700;
+							&:hover,
+							&:focus {
+								color: darken($h-light-blue, 20%);
+							}
+						}
 					}
 					time {
 						margin: 0;
@@ -161,12 +171,16 @@ main.row-full {
 					margin-bottom: 5px;
 
 					a {
-						color:$h-light-blue;
+						color:#b1cbfc;
 						text-decoration: none;
+						&:hover,
+						&:focus {
+							color: lighten(#007bff, 20%);
+						}
+
 
 						&::after {
-							color:$h-light-blue;
-							content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+							color:#b1cbfc;
 							content: "⇱";
 							display: inline-block;
 							transform: rotate(90deg);
@@ -177,7 +191,7 @@ main.row-full {
 				}
 
 				h4.post-entry-title {
-					color: #bfd7ff;
+					color: #f9f7f7;
 				   font-weight: 400;
     				letter-spacing: 1px;
 					margin-bottom: 0;
