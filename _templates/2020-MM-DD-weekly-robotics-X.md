@@ -5,41 +5,79 @@ date: 2020-MM-DD
 tags: [Robotics, Careers]
 idx: X
 ---
+
+{:.post-image}
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
+*Image Credit: [Hello Robot](https://hello-robot.com)*
 
-1).
-<br>[]()<br>
-INFO:
+> TODO: entry
 
-2).
-<br>[]()<br>
-INFO:
+{:.post-entry-title}
+####
 
-3).
-<br>[]()<br>
-INFO:
+{:.post-source}
+[]()
 
-4).
-<br>[]()<br>
-INFO:
+Text
 
-5).
-<br>[]()<br>
-INFO:
+{:.post-entry-title}
+####
 
-6).
-<br>[]()<br>
-INFO:
+{:.post-source}
+[]()
 
-7) Publication of the Week - (DATE).
-<br>[]()<br>
-INFO:
+Text
+
+{:.post-entry-title}
+####
+
+{:.post-source}
+[]()
+
+Text
+
+{:.post-entry-title}
+####
+
+{:.post-source}
+[]()
+
+Text
+
+{:.post-entry-title}
+####
+
+{:.post-source}
+[]()
+
+Text
+
+{:.post-entry-title}
+####
+
+{:.post-source}
+[]()
+
+Text
+
+{:.post-entry-title}
+#### Publication of the Week -
+
+{:.post-source}
+[]()
+
+Text
 
 ### Sponsored
 
-1) .
-<br>[]()<br>
-INFO:
+{:.post-entry-title}
+####
+
+{:.post-source}
+[]()
+
+TODO
+
 
 ### Job Seekers
 
@@ -76,14 +114,18 @@ INFO:
 
 ### Announcements
 
-1).
-<br>[]()<br>
-INFO:
+{:.post-entry-title}
+####
 
-2).
-<br>[]()<br>
-INFO:
+{:.post-source}
+[]()
 
-3).
-<br>[]()<br>
-INFO:
+Text
+
+{:.post-entry-title}
+####
+
+{:.post-source}
+[]()
+
+Text
