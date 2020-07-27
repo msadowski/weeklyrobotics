@@ -1,6 +1,6 @@
 ---
 title: "Weekly Robotics"
-description: "This week in Weekly Robotics newsletter: industrial robot acrobatics, a guide to lithium batteries, open source robotics in manufacturing, a robotic airship and more! "
+description: "This week in Weekly Robotics newsletter: industrial robot acrobatics, a guide to lithium batteries, open source robotics in manufacturing, a robotic airship, ORB-SLAM3 and more"
 date: 2020-07-27
 tags: [Robotics, Drones, IndustrialRobots, ROS, DIY, Sensors, SLAM]
 idx: 101
