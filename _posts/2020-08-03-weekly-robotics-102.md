@@ -80,6 +80,8 @@ Here is yet another very useful post from Michael Ferguson (at least for those o
 
 In this work Engineers from [CSIRO](https://www.csiro.au/), an Australian federal research agency, present AgScan3D, a LiDAR based platform for estimating canopy density (in this paper the system is demoed in vineyards). The system consists of an onboard computer, 2D SICK LMS511-20100 LiDAR mounted on a platform spinning at 0.5 Hz, a Microstrain 3DM-GX3 IMU, and a GPS unit. To reference scanned points Researchers use their own SLAM implementation that also fuses information from GPS. The data collected during the experiment phase was captured over 2 growing seasons (23 months) and resulted in a traversal of 160 km and scanning 42.4 hectares and 93000 vines. I will be looking forward to the team releasing their dataset and some of their algorithms as open source software!
 
+----
+
 ### Sponsored
 
 {:.post-entry-title}
@@ -94,6 +96,8 @@ This small and mighty computer gives you the power to innovate — right out of 
 Discover AI at your own pace through NVIDIA’s guided demos, step-by-step tutorials, and a free Python-based online course for building projects on the NVIDIA Jetson™ platform.
 
 Ready to Start Exploring? [www.nvidia.com/exploreAI](https://nvda.ws/3fS1jwS)
+
+----
 
 ### Careers
 
@@ -124,6 +128,8 @@ NVIDIA, the leader in AI and visual computing, is searching for an evangelist to
 [Various Positions](https://thekobi.com/careers/)
 
 With our scalable AI robotics platform, we can convert almost any machine into an autonomous device!
+
+----
 
 ### Announcements
 

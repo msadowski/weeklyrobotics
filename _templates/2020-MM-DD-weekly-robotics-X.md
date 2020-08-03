@@ -80,6 +80,8 @@ Text
 
 Text
 
+----
+
 ### Sponsored
 
 {:.post-entry-title}
@@ -89,6 +91,8 @@ Text
 []()
 
 TODO
+
+----
 
 ### Job Seekers
 
@@ -100,6 +104,8 @@ TODO
 **Profile**: <br>
 **Social Profiles**: [LinkedIn]() <br>
 **Email**: <br>
+
+----
 
 ### Careers
 
@@ -130,6 +136,8 @@ TODO
 []()
 
 TODO
+
+----
 
 ### Announcements
 
