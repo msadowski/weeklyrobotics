@@ -86,7 +86,7 @@ nav {
 }
 
 strong {
-	color: #007bff
+	color: #ffffff
 }
 
 main.row-full {
@@ -107,8 +107,19 @@ main.row-full {
 		}
 	}
 
+	hr {
+		margin-top: 1rem;
+		margin-bottom: 1rem;
+		border: 0;
+				border-top-color: currentcolor;
+				border-top-style: none;
+				border-top-width: 0px;
+		border-top: 1px solid rgba(255,255,255,.7);
+		width: 70%;
+	}
+
 	section.newsletter {
-		padding: 5% 0;
+		padding: 1% 0;
 
 		h3 {
 			color: #fff;
@@ -279,13 +290,6 @@ main.row-full {
 					padding: 5px;
 					text-transform: uppercase;
 			    	width: max-content;
-
-			    	&#announcements {
-			    		background: transparent;
-						color: $h-light-blue;
-			    	}
-
-
 				}
 
 				p {
@@ -320,6 +324,28 @@ a.check-archive {
 		text-decoration: none;
 	}
 }
+a.btn-continue {
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#5a6fdc+0,23538a+100 */
+	background: #5a6fdc; /* Old browsers */
+   border-radius: 35px;
+   border: none;
+   color: #fff;
+   display: block;
+   font-size: 1rem;
+   /* float: right; */
+   /* height: 40px; */
+   margin: 15px auto;
+   position: relative;
+   /* min-width: 0; */
+   padding: 5px 15px;
+   width: max-content;
+
+	&:hover {
+		color: #fff;
+		text-decoration: none;
+	}
+}
+
 footer {
 	background: transparent;
 }

@@ -8,57 +8,69 @@ idx: X
 
 {:.post-image}
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
-*Image Credit: [Hello Robot](https://hello-robot.com)*
+*Image Credit: []()*
 
 > TODO: entry
 
 {:.post-entry-title}
-####
+#### TODO
 
 {:.post-source}
 []()
 
 Text
+
+----
 
 {:.post-entry-title}
-####
+#### TODO
 
 {:.post-source}
 []()
 
 Text
+
+----
 
 {:.post-entry-title}
-####
+#### TODO
 
 {:.post-source}
 []()
 
 Text
+
+----
 
 {:.post-entry-title}
-####
+#### TODO
 
 {:.post-source}
 []()
 
 Text
+
+----
 
 {:.post-entry-title}
-####
+#### TODO
 
 {:.post-source}
 []()
 
 Text
+
+----
 
 {:.post-entry-title}
-####
+#### TODO
 
 {:.post-source}
 []()
 
 Text
+
+----
 
 {:.post-entry-title}
 #### Publication of the Week -
@@ -78,7 +90,6 @@ Text
 
 TODO
 
-
 ### Job Seekers
 
 [In the issue #83](https://weeklyrobotics.com/weekly-robotics-83) I've started this section to try to help out those looking for work in the times of pandemic. If you are currently looking for work then feel free to [send me](mailto:mat@weeklyrobotics.com) your details in the same format as you can see in the entries below.
@@ -92,40 +103,50 @@ TODO
 
 ### Careers
 
-1) COMPANY_NAME (CITY, COUNTRY) - [Various Positions]().
-<br>
-INFO:
+{:.post-entry-title}
+#### TODO
 
-2) COMPANY_NAME (CITY, COUNTRY) - [POSITION]().
-<br>
-INFO:
+{:.post-source}
+[]()
 
-3) COMPANY_NAME (CITY, COUNTRY) - [POSITION]().
-<br>
-INFO:
+TODO
 
-4) COMPANY_NAME (CITY, COUNTRY) - [POSITION]().
-<br>
-INFO:
+----
 
-5) COMPANY_NAME (CITY, COUNTRY) - [POSITION]().
-<br>
-INFO:
+{:.post-entry-title}
+#### TODO
+
+{:.post-source}
+[]()
+
+TODO
+
+----
+
+{:.post-entry-title}
+#### TODO
+
+{:.post-source}
+[]()
+
+TODO
 
 ### Announcements
 
 {:.post-entry-title}
-####
+#### TODO
 
 {:.post-source}
 []()
 
-Text
+TODO
+
+----
 
 {:.post-entry-title}
-####
+#### TODO
 
 {:.post-source}
 []()
 
-Text
+TODO

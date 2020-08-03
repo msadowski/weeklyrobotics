@@ -20,6 +20,8 @@ idx: 101
 
 Don't try this at home!!! I'm not sure I was getting a correct translation of the title in an online translator so I Decided to left it in. This video from 2018 shows a group of acrobats training with an industrial robot arm (see the intro picture in this issue). If this video makes you slightly uncomfortable then it's probably an OK reaction. It looks like to the left of the robot is a safety gade, probably to keep people away from the robot.
 
+----
+
 {:.post-entry-title}
 #### A Beginner’s Guide To Lithium Rechargeable Batteries
 
@@ -27,6 +29,8 @@ Don't try this at home!!! I'm not sure I was getting a correct translation of th
 [Hackaday](https://hackaday.com/2020/06/11/a-beginners-guide-to-lithium-rechargeable-batteries/)
 
 A good intro from Hackaday on lithium-based batteries. I especially recommend the section of respecting the battery limits and can't stress it enough how important this is. I'm saying that as someone who let a 6S 5Ah battery deplete itself on a shelf - luckily nothing bad happened but the battery was destroyed.
+
+----
 
 {:.post-entry-title}
 #### Open Source Robotics Gains Traction in Manufacturing
@@ -36,6 +40,8 @@ A good intro from Hackaday on lithium-based batteries. I especially recommend th
 
 This piece by Christoph Hellmann Santos offers some insights into why ROS is being used in manufacturing. It also provides examples of a couple of companies using ROS combined with vision systems in the industrial space.
 
+----
+
 {:.post-entry-title}
 #### A Bug-Sized Camera for Bug-Sized Robots and Bug-Sized Bugs
 
@@ -43,6 +49,8 @@ This piece by Christoph Hellmann Santos offers some insights into why ROS is bei
 [IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera)
 
 Roboticists from the University of Washington have created a tiny wireless, steerable video camera. In the video attached to the article, you can see the camera attached to a beetle and a micro-robot. The camera developed in this work can stream monochrome frames with a size of 160x120 pixels over Bluetooth. The battery life is 6 hours when using a 0.5g 10 mAh battery.
+
+----
 
 {:.post-entry-title}
 #### Letting Robots Manipulate Cables
@@ -52,6 +60,8 @@ Roboticists from the University of Washington have created a tiny wireless, stee
 
 MIT Engineers are using Robots to manipulate cables using just tactile sensors - in this case, GelSight, using similar principles to [OmniTact](https://sites.google.com/berkeley.edu/omnitact/home) covered in [issue #93](https://weeklyrobotics.com/weekly-robotics-93).
 
+----
+
 {:.post-entry-title}
 #### Let’s Take A Closer Look At This Robotic Airship
 
@@ -59,6 +69,8 @@ MIT Engineers are using Robots to manipulate cables using just tactile sensors -
 [Hackaday](https://hackaday.com/2020/07/22/lets-take-a-closer-look-at-this-robotic-airship/)
 
 Engineers from the University of Auckland are working on a 'drone airship' built from a LiPo battery, a Raspberry Pi Zero W, camera module, and 3 propellers and that can be mounted to an inflatable balloon. It looks like the device can perform a path following using a mocap system. This system looks very similar to [Blimpduino 2](https://www.jjrobots.com/blimpduino-2/) that I've covered in [Weekly Robotics #8](https://weeklyrobotics.com/weekly-robotics-8).
+
+----
 
 {:.post-entry-title}
 #### Publication of the Week - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM [2020]

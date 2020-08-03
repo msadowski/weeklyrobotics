@@ -67,6 +67,8 @@ If you are using ROS and would like to have more control over your bagfiles then
 
 Here is yet another bionic robot from Festo (for some of the examples see the first paragraph of the article). This time it is a flappy wing robot that weighs 42g, uses 3 motors (one for flapping and 2 for steering). The 6g battery allows for 7 minutes of flight time.
 
+----
+
 ### Sponsored
 
 {:.post-entry-title}
