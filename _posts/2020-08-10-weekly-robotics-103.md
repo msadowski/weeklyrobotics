@@ -1,6 +1,6 @@
 ---
 title: "Weekly Robotics"
-description: "Weekly Robotics #103: Roboticists working from home, a quadruped motor controller to be repurposed for collaborative robots, a DIY balancing robot, teleoperating Spot from 3k miles away and more! "
+description: "Weekly Robotics #103: Roboticists working from home, a quadruped motor controller to be repurposed for collaborative robots, a DIY balancing robot, teleoperating Spot from 3k miles away and more!"
 date: 2020-08-10
 tags: [Robotics, Careers, Events, DIY, OpenSource, Space, Business, MobileRobots]
 idx: 103
