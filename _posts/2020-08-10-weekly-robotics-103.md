@@ -94,7 +94,6 @@ NVIDIA is offering a free, self-paced class with NVIDIA’s Deep Learning Instit
 
 Build your best project yet. [www.nvidia.com/exploreAI](https://nvda.ws/3fS1jwS)
 
-
 ----
 
 ### Careers
