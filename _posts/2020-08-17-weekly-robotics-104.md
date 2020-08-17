@@ -104,7 +104,7 @@ Would you like to share your workplace with the Weekly Robotics community? If ye
 
 The first entry comes from [Greenzie](https://www.greenzie.com/), an Atlanta based company working on robotic mowers. If you happen to be in Atlanta and looking to work on some amazing things with a great time then I would highly recommend getting in touch with them. Here is what Charles had to say about this submission:
 
->> Messy right now (unlike our codebase) but big demo and customer visit on the 19th means it will look really good then.
+> Messy right now (unlike our codebase) but big demo and customer visit on the 19th means it will look really good then.
 
  <div class="wr-row">
   <div class="wr-col2">
@@ -127,7 +127,7 @@ The first entry comes from [Greenzie](https://www.greenzie.com/), an Atlanta bas
 
 The next submission comes from [Julius](https://www.linkedin.com/in/juliussust/), a PhD Candidate in Construction Robotics at UCL and a freelance robotics engineer.
 
->> This gradient-like workstation transitions from a 'desk' into a workshop as we go left to right. This gradient is also one of shadow and light as the workshop side, featuring Prusa MK3S in a DIY enclosure, is rather "heavy" on LEDs. Wooden furniture, directional light and a deep desk allows for a cosy corner to work at during those warm London summer evenings. On the equipment side, the portable NUC Skull Canyon and Surface Book are setup with a not-so-portable 21:9 display, Blackwidow lite keyboard and most networking with hardware is done via home router and tiny switches.
+> This gradient-like workstation transitions from a 'desk' into a workshop as we go left to right. This gradient is also one of shadow and light as the workshop side, featuring Prusa MK3S in a DIY enclosure, is rather "heavy" on LEDs. Wooden furniture, directional light and a deep desk allows for a cosy corner to work at during those warm London summer evenings. On the equipment side, the portable NUC Skull Canyon and Surface Book are setup with a not-so-portable 21:9 display, Blackwidow lite keyboard and most networking with hardware is done via home router and tiny switches.
 
 <div class="wr-row">
     <img src="/img/workshops/104/5.jpg" alt="Snow" style="width:100%">
