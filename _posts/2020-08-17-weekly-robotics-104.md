@@ -98,7 +98,7 @@ Build your best project yet. [www.nvidia.com/exploreAI](https://nvda.ws/3fS1jwS)
 
 ### Robotics Workshops
 
-Would you like to share your workplace with the Weekly Robotics community? If yes then this is the place! Feel free to send me your submission [via e-mail](mailto:mat@msadowski.ch) with pictures and a short description.
+Would you like to share your workplace with the Weekly Robotics community? If yes then this is the place! Feel free to send me your submission [via e-mail](mailto:mat@weeklyrobotics.com) with pictures and a short description.
 
 ---
 
