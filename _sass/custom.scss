@@ -248,9 +248,20 @@ main.row-full {
 						background: #fff;
 						border-radius: 5px;
 						color: $h-dark-blue;
-					   margin-bottom: 60px;
-   				 	margin-top: 55px;
-						padding: 4% 5% 5% 5%;
+					  //  margin-bottom: 60px;
+   				 	// margin-top: 55px;
+						padding: 0% 5% 2% 5%;
+
+						hr {
+							margin-top: 1rem;
+							margin-bottom: 1rem;
+							border: 0;
+									border-top-color: currentcolor;
+									border-top-style: none;
+									border-top-width: 0px;
+							border-top: 1px solid rgba(0,0,139,.7);
+							width: 70%;
+						}
 
 						a {
 							color: $h-dark-blue!important;
@@ -260,20 +271,6 @@ main.row-full {
 							margin-bottom: 0px;
 						}
 
-						h3 {
-							color: $h-dark-blue!important;
-							font-style: normal;
-							margin-bottom: 0;
-							margin-top: 0;
-							padding-bottom: 0;
-							padding-top: 0;
-							text-transform: uppercase;
-
-							&::before {
-								color: #ffb100;
-								content: '★';
-							}
-						}
 						h4, p.sponsor-blurb {
 							color: $h-dark-blue;
 							font-style: normal;

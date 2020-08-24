@@ -80,19 +80,33 @@ Text
 
 Text
 
-----
+<br>
+<div class="sponsor-snippet-wrapper">
+    <div class="sponsor-snippet container-fluid">
+        <div class="row">
+            <div class="col-3 d-none d-sm-block"></div>
+                <div class="col-sm-12 col-md-6 nopadding">
+                    <h3 id="spoonsored">Sponsored</h3>
 
-### Sponsored
+                <p class="sponsor-blurb">Huge thanks to all of the Weekly Robotics <a href="https://weeklyrobotics.com/supporters">supporters</a> helping this project through <a href="https://www.patreon.com/WeeklyRobotics">Patreon</a> and the following business partners:</p>
 
-{:.post-entry-title}
-####
+                <div class="row">
+                    <div class="col"><a href="http://msadowski.ch/"><img src="img/sponsors/m_consulting.png" alt="M. Sadowski Consulting"></a></div>
+                    <!-- <div class="col"><a href="#"><img src="img/Member_Logo.png" alt="Sponsor Logo"></a></div>
+                    <div class="col"><a href="#"><img src="img/Member_Logo.png" alt="Sponsor Logo"></a></div>
+                    <div class="col"><a href="#"><img src="img/Member_Logo.png" alt="Sponsor Logo"></a></div> -->
+                </div>
 
-{:.post-source}
-[]()
-
-TODO
-
-----
+                <!-- <hr>
+                <h4 class="post-entry-title">TODO</h4>
+                <span class="sponsor-source">
+                    <a href="">LINK</a>
+                </span>
+                <p class="sponsor-blurb">TODO: Description</p> -->
+            </div>
+        </div>
+    </div>
+</div>
 
 ### Job Seekers
 

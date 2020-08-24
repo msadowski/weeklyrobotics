@@ -130,7 +130,7 @@ The next submission comes from [Julius](https://www.linkedin.com/in/juliussust/)
 > This gradient-like workstation transitions from a 'desk' into a workshop as we go left to right. This gradient is also one of shadow and light as the workshop side, featuring Prusa MK3S in a DIY enclosure, is rather "heavy" on LEDs. Wooden furniture, directional light and a deep desk allows for a cosy corner to work at during those warm London summer evenings. On the equipment side, the portable NUC Skull Canyon and Surface Book are setup with a not-so-portable 21:9 display, Blackwidow lite keyboard and most networking with hardware is done via home router and tiny switches.
 
 <div class="wr-row">
-    <img src="/img/workshops/104/5.jpg" alt="Snow" style="width:100%">
+    <img src="/img/workshops/104/5.jpg" alt="Julius desk" style="width:100%">
 </div>
 
 ----
