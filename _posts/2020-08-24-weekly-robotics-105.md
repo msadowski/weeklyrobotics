@@ -135,6 +135,8 @@ Leading by example here is [my](https://www.linkedin.com/in/mateuszsadowski/) wo
 **Social Profiles**: [LinkedIn](https://www.linkedin.com/in/nerdking/), [GitHub](https://github.com/Neuromancer2701), [Side Project](https://openrover.com/#open)<br>
 **Email**: king.seth@gmail.com<br>
 
+----
+
 ### Careers
 
 {:.post-entry-title}
@@ -144,6 +146,8 @@ Leading by example here is [my](https://www.linkedin.com/in/mateuszsadowski/) wo
 [Electronics Engineer](https://www.robosynthesis.com/post/electronics-engineers-jobs-in-robotics-come-join-us)
 
 Robosynthesis​ is a ​modular​ industrial ​robotics platform​ that’s reconfigurable in-the-field to perform a wide range of missions using a variety of sensors and tools, different physical configurations, and various terrain-optimised traction systems. Our platforms have been used at ​CERN​ in the ​LHC​, at the ​National Physical Laboratory​, inside gas pressure vessels, and even in chicken sheds(!).
+
+----
 
 ### Announcements
 
