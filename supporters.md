@@ -18,5 +18,5 @@ Weekly Robotics is being developed every week thanks to support from people like
 
 #### Personal Patrons
 
-* [Artur Skowroński](https://twitter.com/ArturSkowronski)
 * [Charles Brian Quinn](https://twitter.com/SeeBQ)
+* Antoine Arlaud
