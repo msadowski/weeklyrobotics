@@ -98,9 +98,9 @@ Text
                 </div>
 
                 <!-- <hr>
-                <h4 class="post-entry-title">TODO</h4>
+                <h4 class="post-entry-title">TODO TITLE</h4>
                 <span class="sponsor-source">
-                    <a href="">LINK</a>
+                    <a href="TODO LINK">TODO LINK TEXT</a>
                 </span>
                 <p class="sponsor-blurb">TODO: Description</p> -->
             </div>
