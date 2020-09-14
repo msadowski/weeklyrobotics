@@ -98,7 +98,7 @@ If you are wondering where Robotics (in particular in the US) is heading then th
                     <div class="col"><a href="#"><img src="img/Member_Logo.png" alt="Sponsor Logo"></a></div> -->
                 </div>
 
-                <!-- <hr>
+                <hr>
                 <h4 class="post-entry-title">Humble Book Bundle: DIY Maker School by Make Co.</h4>
                 <span class="sponsor-source">
                     <a href="https://www.humblebundle.com/books/diy-maker-school-make-co-books?partner=weeklyrobotics">Humble Bundle</a>
