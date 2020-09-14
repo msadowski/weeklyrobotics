@@ -20,3 +20,5 @@ Weekly Robotics is being developed every week thanks to support from people like
 
 * [Charles Brian Quinn](https://twitter.com/SeeBQ)
 * Antoine Arlaud
+* Stepan Kostusiev
+* Lethic
