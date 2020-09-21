@@ -10,7 +10,8 @@ idx: 109
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 *Image Credit: [DrGuero2001](https://youtu.be/BhYUjSAwNB4)*
 
-> [Awesome Weekly Robotics](https://github.com/msadowski/awesome-weekly-robotics), a curated set of projects from a curated newsletter, is currently at 199 stars on GitHub. If you are looking for some open source projects then I recommend checking it out, and if you think there are some projects that I've missed then don't hesitate to [let me know](mailto:mat@weeklyrobotics.com).
+> [Awesome Weekly Robotics](https://github.com/msadowski/awesome-weekly-robotics), a curated set of projects from a curated newsletter, is currently at 199 stars on GitHub. If you are looking for some open source projects then I recommend checking it out, and if you think there are some projects that I've missed then don't hesitate to [let me know](mailto:mat@weeklyrobotics.com). The most clicked last week was [the Roadmap for US Robotics](http://hichristensen.com/pdf/roadmap-2020.pdf) with 13.8% opens.
+
 
 {:.post-entry-title}
 #### Biped Robot Challenges Floor Exercise
