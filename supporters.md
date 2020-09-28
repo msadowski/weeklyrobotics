@@ -14,7 +14,7 @@ Weekly Robotics is being developed every week thanks to support from people like
 
 #### Business Patrons
 
-* Place for your company name
+* Place for your company name [by supporting the newsletter](https://www.patreon.com/WeeklyRobotics)
 
 #### Personal Patrons
 
