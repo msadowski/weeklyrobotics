@@ -73,14 +73,14 @@ Text
 ----
 
 {:.post-entry-title}
-#### Publication of the Week -
+#### Publication of the Week - TODO (DATE)
 
 {:.post-source}
 []()
 
 Text
 
-<br>
+----
 <div class="sponsor-snippet-wrapper">
     <div class="sponsor-snippet container-fluid">
         <div class="row">
@@ -107,6 +107,7 @@ Text
         </div>
     </div>
 </div>
+----
 
 ### Job Seekers
 
