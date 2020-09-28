@@ -33,12 +33,12 @@ If you have read The Verge's article on Ring's drone then you might want to cons
 ----
 
 {:.post-entry-title}
-#### Computer Vision Recipies
+#### Computer Vision Recipes
 
 {:.post-source}
 [GitHub](https://github.com/microsoft/computervision-recipes/tree/master/scenarios)
 
-Microsoft has an Open Source repository with some computer vision recipies in the form of Iron Python Notebooks. In the repo, you will find information on such topics as classification, detection, keypoints, segmentation and more.
+Microsoft has an Open Source repository with some computer vision recipes in the form of Iron Python Notebooks. In the repo, you will find information on such topics as classification, detection, keypoints, segmentation and more.
 
 ----
 
