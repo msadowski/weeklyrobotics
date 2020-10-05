@@ -115,7 +115,7 @@ At Starship, we are redefining how goods flow through the places in which we liv
 #### Drone X Challenge 2020
 
 {:.post-source}
-[https://dronexchallenge2020.com/](Drone X Challenge)
+[Drone X Challenge](https://dronexchallenge2020.com/)
 
  US$1.5+ Million Global Challenge (US$1 Million Final Prize and US$500,000+ in R&D Grants) that is pushing the frontiers of R&D and innovation in drone technologies. DXC 2020 aims at accelerating the practical deployment of drones/UAVs in key applications focusing on transportation and delivery. DXC 2020 will support innovative commercial applications/solutions that tackle two major challenges: payload capacity and flight endurance.
 
