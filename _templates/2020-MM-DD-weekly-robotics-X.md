@@ -125,30 +125,30 @@ Text
 ### Careers
 
 {:.post-entry-title}
-#### TODO
+#### COMPANY (CITY, COUNTRY)
 
 {:.post-source}
-[]()
+[POSITION]()
 
 TODO
 
 ----
 
 {:.post-entry-title}
-#### TODO
+#### COMPANY (CITY, COUNTRY)
 
 {:.post-source}
-[]()
+[POSITION]()
 
 TODO
 
 ----
 
 {:.post-entry-title}
-#### TODO
+#### COMPANY (CITY, COUNTRY)
 
 {:.post-source}
-[]()
+[POSITION]()
 
 TODO
 
