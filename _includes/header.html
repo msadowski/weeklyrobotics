@@ -10,18 +10,14 @@
 
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="navbar-nav">
-        <li class="nav-item active">
           {% for page in site.pages %}
             {% if page.layout == "page" %}
-
               <li class="nav-item">
                 <a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}"
                 title="{{ page.title }}{% if page.idx %} #{{ page.idx }}{% endif %}" class="nav-link">{{ page.title }}{% if page.idx %} #{{ page.idx }}{% endif %}</a>
               </li>
-
             {% endif %}
           {% endfor %}
-        </li>
       </ul>
     </div>
   </nav>
