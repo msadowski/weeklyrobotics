@@ -35,4 +35,4 @@ for link in clicks["urls_clicked"]:
 
 sorted_x = sorted(click_dict.items(), key=operator.itemgetter(1))
 
-print "The most clicked last week was [THIS]({0}) with {1:.1f}% opens.".format(sorted_x[-1][0], sorted_x[-1][1]*100)
+print "The most clicked link last week was [THIS]({0}) with {1:.1f}% opens.".format(sorted_x[-1][0], sorted_x[-1][1]*100)
