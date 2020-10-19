@@ -10,7 +10,7 @@ idx: 113
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 *Image Credit: [Ascento](https://www.ascento.ethz.ch/)*
 
-> The most clicked link last week was [the Open Source leg](https://opensourceleg.com/) with 10.0% opens.
+> This week we are heavy on legged robots, starting with Ascento crashing a fair bit, then going into iCub developments by IIT, showcasing an open design 3D printed quadruped and finally covering a paper describing fundamental usage of springs in legged locomotion. Enjoy! The most clicked link last week was [the Open Source leg](https://opensourceleg.com/) with 10.0% opens.
 
 {:.post-entry-title}
 #### Ascento Fails
