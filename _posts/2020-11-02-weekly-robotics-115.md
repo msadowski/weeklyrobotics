@@ -69,9 +69,10 @@ While we are on the topic of animatronics; check out this animatronic Dolphin by
 [Gitlab](https://gitlab.inesctec.pt/agrob/agrob_pp)
 
 AgRob_PP is a set of three ROS based tools for agricultural robotics:
-1. AgRob Vineyards Detector - a satellite image segmentation tool
-2. AgRob Topologic - a tool to construct a topological map
-3. AgRob Path Planning - A path planning framework for uneven terrains
+
+AgRob Vineyards Detector - a satellite image segmentation tool <br>
+AgRob Topologic - a tool to construct a topological map <br>
+AgRob Path Planning - A path planning framework for uneven terrains <br>
 
 released under GPLv3 licence. In the repository, you will find a video presenting this package.
 
