@@ -73,7 +73,7 @@ Flyability took part in some Research at Chernobyl, resulting in the above video
 ----
 
 {:.post-entry-title}
-#### Publication of the Week - TODO (DATE)
+#### Publication of the Week - HOPPY: An open-source and low-cost kit for dynamic robotics education (2020)
 
 {:.post-source}
 [arXiv](https://arxiv.org/abs/2010.14580)
