@@ -10,7 +10,7 @@ idx: 119
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 *Image Credit: [Astrobotic](https://www.astrobotic.com/)*
 
-> Welcome to yet another issue of Weekly Robotics. I finally had time to finish the [Makani documentary](https://youtu.be/qd_hEja6bzE), and my verdict is: it's amazing! I've liked it so much I've added a documentaries section to the [awesome-weekly-robotics](https://github.com/msadowski/awesome-weekly-robotics). Do you know of any other documentaries I should include there? [Let me know!](mailto:mat@weeklyrobotics.com). This week we have a guest contribution to the publication fo the week by [Rodrigo](https://www.linkedin.com/in/rodrigo-lopes-catto/). Thanks! The most clicked link last week was [the robotics simulation in Unity](https://blogs.unity3d.com/2020/11/19/robotics-simulation-in-unity-is-as-easy-as-1-2-3/) with 12.0% opens.
+> Welcome to yet another issue of Weekly Robotics. I finally had time to finish the [Makani documentary](https://youtu.be/qd_hEja6bzE), and my verdict is: it's amazing! I've liked it so much I've added a documentaries section to the [awesome-weekly-robotics](https://github.com/msadowski/awesome-weekly-robotics). Do you know of any other documentaries I should include there? [Let me know](mailto:mat@weeklyrobotics.com). This week we have a guest contribution to the publication fo the week by [Rodrigo](https://www.linkedin.com/in/rodrigo-lopes-catto/). Thanks! The most clicked link last week was [the robotics simulation in Unity](https://blogs.unity3d.com/2020/11/19/robotics-simulation-in-unity-is-as-easy-as-1-2-3/) with 12.0% opens.
 
 {:.post-entry-title}
 #### NASA Initiative Developing Wireless Charging for Lunar Robots
