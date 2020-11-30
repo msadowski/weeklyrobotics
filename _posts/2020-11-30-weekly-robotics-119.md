@@ -1,6 +1,6 @@
 ---
 title: "Weekly Robotics"
-description: "Weekly Robotics 119: Wireless charginig of lunar robotics, AI incident database, a new SLAM library, Spot in nuclear decomissioning, Cybathlon higlights and more!"
+description: "Weekly Robotics 119: Wireless charging of lunar robotics, AI incident database, a new SLAM library, Spot in nuclear decommissioning, Cybathlon highlights and more!"
 date: 2020-11-30
 tags: [Robotics, Space, Bionics, SLAM, DIY, OpenSource]
 idx: 119
@@ -10,7 +10,7 @@ idx: 119
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 *Image Credit: [Astrobotic](https://www.astrobotic.com/)*
 
-> Welcome to yet another issue of Weekly Robotics. I finally had time to finish the [Makani documentary](https://youtu.be/qd_hEja6bzE), and my verdict it: it's amazing! I've liked it so much I've added a documentaries section to the [awesome-weekly-robotics](https://github.com/msadowski/awesome-weekly-robotics). Do you know of any other documentaries I should include there? [Let me know!](mailto:mat@weeklyrobotics.com). This week we have a guest contribution to the publication fo the week by [Rodrigo](https://www.linkedin.com/in/rodrigo-lopes-catto/). Thanks! The most clicked link last week was [the robotics simulation in Unity](https://blogs.unity3d.com/2020/11/19/robotics-simulation-in-unity-is-as-easy-as-1-2-3/) with 12.0% opens.
+> Welcome to yet another issue of Weekly Robotics. I finally had time to finish the [Makani documentary](https://youtu.be/qd_hEja6bzE), and my verdict is: it's amazing! I've liked it so much I've added a documentaries section to the [awesome-weekly-robotics](https://github.com/msadowski/awesome-weekly-robotics). Do you know of any other documentaries I should include there? [Let me know!](mailto:mat@weeklyrobotics.com). This week we have a guest contribution to the publication fo the week by [Rodrigo](https://www.linkedin.com/in/rodrigo-lopes-catto/). Thanks! The most clicked link last week was [the robotics simulation in Unity](https://blogs.unity3d.com/2020/11/19/robotics-simulation-in-unity-is-as-easy-as-1-2-3/) with 12.0% opens.
 
 {:.post-entry-title}
 #### NASA Initiative Developing Wireless Charging for Lunar Robots
@@ -48,7 +48,7 @@ A neat database of AI incidents ranging from AI discriminating group of people t
 {:.post-source}
 [IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/boston-dynamics-spot-chernobyl)
 
-I've linked to the video of Spot in Chernobyl in the last week's issue but seeing the information in this article I thought it would be worth expanding on the topic. According to the article the best thing about using legged robots in such environments is that their locomotion don't disturb the radioactive dust on the floor as much a a wheeled robot or a drone would.
+I've linked to the video of Spot in Chernobyl in the last week's issue but seeing the information in this article I thought it would be worth expanding on the topic. According to the article, the best thing about using legged robots in such environments is that their locomotion doesn’t disturb the radioactive dust on the floor as much a wheeled robot or a drone would.
 
 Another interesting information contained in the article is on how little testing has been done on robots failing under radiation, an example provided is a KUKA LBR800 robot arm that "stopped operating after a large radiation dose of 164.55(±1.09) Gy to its end effector, and the component causing the failure was an optical encoder". For reference 1-2 Gy dose to a whole body for a human causes radiation sickness and possible death, while 8Gy "is usually just straight-up death". If you would like to know more about Spot in Chernobyl then check out [this RACE webinar](https://youtu.be/CyK5hYoeoDI) by Guy Burroughes.
 
