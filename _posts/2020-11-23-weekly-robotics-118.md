@@ -2,7 +2,7 @@
 title: "Weekly Robotics"
 description: "WR 118: Robot simulation in Unity, 3D printing enclosures, a documentary about flying windmills, licence plates for robots and more!"
 date: 2020-11-23
-tags: [Robotics]
+tags: [Robotics, Drones, Simulation, 3DPrinting]
 idx: 118
 ---
 
