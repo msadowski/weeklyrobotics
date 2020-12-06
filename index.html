@@ -1,7 +1,6 @@
 ---
 layout: default_index
 ---
-{% if paginator.page == 1 %}
 	<div class="hero">
 		<!-- <img src="img/weeklyrobotics-hero.png" alt="Weekly Robotics">
 		<small class="source">Photo by <a href="https://unsplash.com/@umby" target="_blank">Umberto</a> on Unsplash</small> -->
@@ -13,9 +12,6 @@ layout: default_index
 			</span>
 		</div>
 	</div>
-{% else %}
-	<h1> Weekly Robotics Newsletter Archive [{{paginator.page}}/{{paginator.total_pages}}]</h1>
-{% endif %}
 
 <main class="row-full">
 	<section class="newsletter container">
@@ -28,7 +24,7 @@ layout: default_index
 			<div class="col-2 d-none d-sm-block"></div>
 			<div class="col-sm-12 col-md-8">
 				<ul id="posts">
-					{% for post in paginator.posts %}
+					{% for post in site.posts limit:1 %}
 						<li class="post">
 							<div class="post-info">
 								<h2>

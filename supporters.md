@@ -6,7 +6,7 @@ description: The Sponsors of Weekly Robotics
 
 # Supporters
 
-Weekly Robotics is being developed every week thanks to support from people like you! You can help support this project on [Patreon](https://www.patreon.com/WeeklyRobotics). If you represent a company and would like to become a newsletter partner or advertise in the newsletter then please [get in touch](mailto:mat@msadowski.ch).
+Weekly Robotics is being developed every week thanks to support from people like you! You can help support this project on [Patreon](https://www.patreon.com/WeeklyRobotics). If you represent a company and would like to become a newsletter partner or advertise in the newsletter then please [get in touch](mailto:mat@weeklyrobotics.com), I'll be more than happy to share an up to date rate card with you.
 
 #### Partners
 

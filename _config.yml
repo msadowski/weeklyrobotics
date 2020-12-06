@@ -16,7 +16,7 @@ markdown: kramdown
 source: .
 destination: ./_site
 permalink: /:title
-paginate_path: /page:num/
+# paginate_path: /page:num/
 
 #SEO
 locale: en_US
@@ -32,7 +32,7 @@ defaults:
 
 # Plugins
 plugins:
-  - jekyll-paginate
+  # - jekyll-paginate
   - jekyll-sitemap
 
 # Custom variables
@@ -42,4 +42,4 @@ version: "1.0.1"
 custom_header: false
 custom_nav_footer: false
 reverse: false
-paginate: 1
+# paginate: 1
