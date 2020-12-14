@@ -2,7 +2,7 @@
 title: "Weekly Robotics"
 description: ""
 date: 2020-MM-DD
-tags: [Robotics, Careers]
+tags: [Robotics]
 idx: X
 ---
 
