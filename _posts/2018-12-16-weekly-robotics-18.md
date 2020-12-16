@@ -11,7 +11,7 @@ INFO: DroneClash is an drone competition where the teams have to take out other 
 
 2) New Class of Metamaterials Changes Physical Properties in Seconds.
 <br>[IEEE](https://spectrum.ieee.org/tech-talk/robotics/robotics-hardware/new-class-of-metamaterials-changes-physical-properties-in-seconds)<br>
-INFO: The above article describes a work being carried out by researchers from Lawrence Livermore National Laboratory. The researchers are creating structures that can change stifness in response to magnetic field. To achieve that a 3d printed mechanical metamaterial with hollow beam is created and a magnetorheological (MR) fluid that reacts to magnetic field is injected into the beams. 
+INFO: The above article describes a work being carried out by researchers from Lawrence Livermore National Laboratory. The researchers are creating structures that can change stifness in response to magnetic field. To achieve that a 3d printed mechanical metamaterial with hollow beam is created and a magnetorheological (MR) fluid that reacts to magnetic field is injected into the beams.
 
 3) Industrial exoskeletons: new systems, improved technologies, increasing adoption.
 <br>[The Robot Report](https://www.therobotreport.com/industrial-exoskeletons/)<br>
@@ -19,7 +19,7 @@ INFO: This article from The Robot Report is a summary of state of exoskeletons i
 
 4) Centralized Collaborative Monocular SLAM for Robotic Teams.
 <br>[ETH](http://www.v4rl.ethz.ch/research/datasets-code/code--ccm-slam.html)<br>
-INFO: ETH Zurich released a framework that acts as a centralized SLAM (Simultaneous Localisation And Mapping) for robot teams. The project is open source and can be accessed on (GitHub)[https://github.com/VIS4ROB-lab/ccm_slam].
+INFO: ETH Zurich released a framework that acts as a centralized SLAM (Simultaneous Localisation And Mapping) for robot teams. The project is open source and can be accessed on [GitHub](https://github.com/VIS4ROB-lab/ccm_slam).
 
 5) ROS 2 Crystal Clemmys has been released.
 <br>[ROS discourse](https://discourse.ros.org/t/ros-2-crystal-clemmys-released/7137)<br>

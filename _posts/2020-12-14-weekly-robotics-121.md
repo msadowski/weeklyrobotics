@@ -1,8 +1,8 @@
 ---
 title: "Weekly Robotics"
-description: ""
+description: "This week in Weekly Robotics newsletter: the best coverage of Boston Dynamics acquisition I found, an autonomous excavator, an interesting approach to human-robot collaboration, a free self-driving cars course and more!"
 date: 2020-12-14
-tags: [Robotics,]
+tags: [Robotics, AutonomousCars, DIY, Business, Research, MobileRobots, ConstructionRobots, Libraries, OpenSource]
 idx: 121
 ---
 
