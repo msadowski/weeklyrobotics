@@ -109,62 +109,17 @@ Text
 </div>
 ----
 
-### Job Seekers
-
-[In the issue #83](https://weeklyrobotics.com/weekly-robotics-83) I've started this section to try to help out those looking for work in the times of pandemic. If you are currently looking for work then feel free to [send me](mailto:mat@weeklyrobotics.com) your details in the same format as you can see in the entries below.
-
-**Name**: <br>
-**Location**: <br>
-**Skills**: <br>
-**Profile**: <br>
-**Social Profiles**: [LinkedIn]() <br>
-**Email**: <br>
-
-----
-
-### Careers
-
 {:.post-entry-title}
-#### COMPANY (CITY, COUNTRY)
+### Weekly Robotics 2 Years Ago
 
 {:.post-source}
-[POSITION]()
-
-TODO
-
-----
-
-{:.post-entry-title}
-#### COMPANY (CITY, COUNTRY)
-
-{:.post-source}
-[POSITION]()
-
-TODO
-
-----
-
-{:.post-entry-title}
-#### COMPANY (CITY, COUNTRY)
-
-{:.post-source}
-[POSITION]()
+[Issue X](https://weeklyrobotics.com/weekly-robotics-X)
 
 TODO
 
 ----
 
 ### Announcements
-
-{:.post-entry-title}
-#### TODO
-
-{:.post-source}
-[]()
-
-TODO
-
-----
 
 {:.post-entry-title}
 #### TODO
