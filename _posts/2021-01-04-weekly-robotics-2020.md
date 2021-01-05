@@ -195,7 +195,7 @@ Imagine approaching a 6.5M pounds (2,950,000 kg) steel barrel carrying 203,400 g
 ----
 
 {:.post-entry-title}
-[Don’t Fear the Robot](nautil.us/issue/84/outbreak/dont-fear-the-robot)
+[Don’t Fear the Robot](https://nautil.us/issue/84/outbreak/dont-fear-the-robot)
 
 A very thoughtful and well-written piece by Joe Jones, who developed Roomba (or DustPuppy). I’ve really liked the explanation of how difficult odometry was to pull off 20 years ago and how it would add $1k cost to the platform and I found the “three principles the team followed while developing Roomba” very refreshing.
 
