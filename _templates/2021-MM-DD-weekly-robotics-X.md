@@ -1,7 +1,7 @@
 ---
 title: "Weekly Robotics"
 description: ""
-date: 2020-MM-DD
+date: 2021-MM-DD
 tags: [Robotics]
 idx: X
 ---
