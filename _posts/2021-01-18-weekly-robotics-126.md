@@ -80,7 +80,7 @@ A fascinating album of pictures showing 3000 Sols on Mars through the lenses of 
 
 The highlights on what we were looking at 2 years ago are:
 
-[Autonomous Driving Cookbook by Microsoft](https://github.com/Microsoft/AutonomousDrivingCookbook) - sadly, the book is still in preview, more than 3 years after the initial commit, and more than 2 years since the most recent one. [Bill Gates meets robots at Harvard University Lab](https://www.gatesnotes.com/About-Bill-Gates/My-visit-to-a-Harvard-robotics-lab)
+[Autonomous Driving Cookbook by Microsoft](https://github.com/Microsoft/AutonomousDrivingCookbook) - sadly, the book is still in preview, more than 3 years after the initial commit, and more than 2 years since the most recent one. [Bill Gates meets robots at Harvard University Lab](https://www.gatesnotes.com/About-Bill-Gates/My-visit-to-a-Harvard-robotics-lab). 
 NASA's plan for an asteroid redirection test - to be launched in July this year! The latest article about the mission I found on NASA is [here](https://www.nasa.gov/feature/predicting-the-unpredictable-the-dynamics-of-dart-s-dive-into-an-asteroid/)
 
 ----
