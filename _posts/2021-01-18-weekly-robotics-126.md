@@ -1,6 +1,6 @@
 ---
 title: "Weekly Robotics"
-description: "This week in the Weekly Robotics newsletter: some of the CES 2021 robots, an interesting mobile-cartesian(?) robot design, robots made of ice, 3000 Sols of Curiosity on Mars and more@"
+description: "This week in the Weekly Robotics newsletter: some of the CES 2021 robots, an interesting mobile-cartesian(?) robot design, robots made of ice, 3000 Sols of Curiosity on Mars and more!"
 date: 2021-01-18
 tags: [Robotics, Careers, MobileRobots, Manipulators, VR, Research]
 idx: 126
