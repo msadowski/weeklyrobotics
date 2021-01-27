@@ -7,14 +7,14 @@ tags: [Robotics, Careers, MobileRobots, InspectionRobots, Challenges, ROS, SoftR
 
 1) FetchIt! - The Fetch Mobile Manipulation Challenge.
 <br>[discourse.ros.org](https://discourse.ros.org/t/announcement-win-a-robot-fetchit-the-fetch-mobile-manipulation-challenge-icra-2019-competition/7569)<br>
-INFO: Via linked post: "The competition involves having a Fetch Mobile Manipulator autonomously navigate to stations in a work cell, pick up items, operate basic machinery, place items into kits, and transport the finished kits to a drop-off location. The team that assembles the most kits within 45 min will win a Fetch Mobile Manipulation Research Robot." 
+INFO: Via linked post: "The competition involves having a Fetch Mobile Manipulator autonomously navigate to stations in a work cell, pick up items, operate basic machinery, place items into kits, and transport the finished kits to a drop-off location. The team that assembles the most kits within 45 min will win a Fetch Mobile Manipulation Research Robot."
 
 2) TechCrunch Sessions 2018 - Robotics.
 <br>[TechCrunch](https://techcrunch.com/2019/01/22/get-ready-for-tc-sessions-roboticsai-with-highlights-from-last-years-event/)<br>
-INFO: This collection contain highlights of TC Sessions: Robotics from 2018. In there you will find sessions with CEO representatives of such comapnies/organizations as Boston Dynamics, UC Berkeley, Nvidia, Fetch Robotics, Agility Robotics, Aurora and SuitX. 
+INFO: This collection contain highlights of TC Sessions: Robotics from 2018. In there you will find sessions with CEO representatives of such comapnies/organizations as Boston Dynamics, UC Berkeley, Nvidia, Fetch Robotics, Agility Robotics, Aurora and SuitX.
 
 3) ROSflight.
-<br>[ROSflight](http://docs.rosflight.org/en/latest/)<br>
+<br>[ROSflight](https://rosflight.org/)<br>
 INFO: ROSflight is an autopilot system designed from ground up to be interfaced with ROS. ROSflight firmware is compatible with STM32F103 and STM32F405 based flight controllers (revo, naze32, flip32) that are meant to be interfaced with an onboard computer for high level control. If you are interested in ROSflight source code then you can find it on [GitHub](https://github.com/rosflight/firmware).
 
 4) Mobile Robot for Aircraft Inspection.
