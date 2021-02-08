@@ -10,7 +10,7 @@ idx: X
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 *Image Credit: []()*
 
-> TODO: entry
+> As usual in the past couple of weeks, the publication of the week section is manned by [Rodrigo](https://www.linkedin.com/in/rodrigo-lopes-catto/).
 
 {:.post-entry-title}
 #### TODO
