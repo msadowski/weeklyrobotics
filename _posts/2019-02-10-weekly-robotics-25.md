@@ -5,6 +5,10 @@ date: 2019-02-10
 tags: [Robotics, Careers, Space, IndustrialRobots, MicroBots, IonDrive, MIT, AutonomousCars]
 ---
 
+{:.post-image}
+![Issue {{page.idx}}](/img/headers/25.jpg "Issue 25")
+
+
 1) An Introduction to Cubesats.
 <br>[gereshes.com](https://gereshes.com/2019/01/28/an-introduction-to-cubesats/)<br>
 INFO: This short article is a quick and informative introduction to cubesats. We were surprised to learn that there were instances of cubesats used for deep space missions.
