@@ -10,7 +10,7 @@ idx: 129
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 *Image Credit: [Chong Liu](https://www.notion.so/Creature_02-Bipedal-Robot-630656df48874a3da114ae1d182898ed)*
 
-> Last week we have had the first Weekly Robotics Community Meeting with some of the [newsletter patrons](https://weeklyrobotics.com/supporters). We kicked off the meeting with James showing us what [forman.io](https://formant.io/) was up to and allowing us to teleoperate a Boston Dynamics Spot. Then we chatted about other legged platforms and ROS control. The next meetup will be public and should happen on the 18th of February. Stay tuned for more info! As usual in the past couple of weeks, the publication of the week section is manned by [Rodrigo](https://www.linkedin.com/in/rodrigo-lopes-catto/). The most clicked link last week was [Yet Another Robot Platform project](https://www.yarp.it/git-master/) with 11.2% opens.
+> Last week we have had the first Weekly Robotics Community Meeting with some of the [newsletter patrons](https://weeklyrobotics.com/supporters). We kicked off the meeting with James showing us what [formant.io](https://formant.io/) was up to and allowing us to teleoperate a Boston Dynamics Spot. Then we chatted about other legged platforms and ROS control. The next meetup will be public and should happen on the 18th of February. Stay tuned for more info! As usual in the past couple of weeks, the publication of the week section is manned by [Rodrigo](https://www.linkedin.com/in/rodrigo-lopes-catto/). The most clicked link last week was [Yet Another Robot Platform project](https://www.yarp.it/git-master/) with 11.2% opens.
 
 {:.post-entry-title}
 #### 【Creature_02】Bipedal Robot
