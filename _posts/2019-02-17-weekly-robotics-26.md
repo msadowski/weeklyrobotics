@@ -5,6 +5,9 @@ date: 2019-02-17
 tags: [Robotics, Careers, Space, Rover, ROS, AutonomousCars, IndustrialRobots, Sensors, Lidar, Books]
 ---
 
+{:.post-image}
+![Issue {{page.idx}}](/img/headers/26.jpg "Issue 26")
+
 1) NASA's Opportunity Rover Mission on Mars Comes to End.
 <br>[NASA](https://www.jpl.nasa.gov/news/news.php?feature=7334)<br>
 INFO: After sending over 1000 commands to restore contact with Opportunity the NASA engineers made the last attempt to revive the rover on 12 of February. The final communication from Opportunity was received on 10th of June, before a Mars-wide dust storm blanketed its location. Opportunity mission lasted almost 15 years (the mission goal was for it to last 90 days) and traveled 45 km / 28 mi (the planned distance was 1,100 yd / 1,000 m). If you are interested in Visual Inertial Odometry on Opportunity and Spirit rovers then you might like the publication of the week from [Weekly Robotics #17](https://weeklyrobotics.com/weekly-robotics-17). We really liked the [xkcd strip](https://xkcd.com/2111/) on Opportunity.
