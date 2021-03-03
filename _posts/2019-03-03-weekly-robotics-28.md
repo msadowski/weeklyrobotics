@@ -5,6 +5,9 @@ date: 2019-03-03
 tags: [Robotics, Careers, ROS, QuadrupedRobots, Space, USV, Drones]
 ---
 
+{:.post-image}
+![Issue {{page.idx}}](/img/headers/28.jpg "Issue 28")
+
 1) MIT Mini Cheetah Quadruped Robot.
 <br>[YouTube](https://youtu.be/xNeZWP5Mx9s)<br>
 INFO: MIT Biomimetic Robotics Lab showcased a robotic cheetah weighting just 9 kg (20 pounds) capable of running at up to 2.45 m/s speed, doing backflips and performing recovery behaviours. We especially liked the end of the video where the team shows some of the mistakes they made while working on the robot.
@@ -14,7 +17,7 @@ INFO: MIT Biomimetic Robotics Lab showcased a robotic cheetah weighting just 9 k
 INFO: On 2nd of March NASA and SpaceX successfully launched the SpaceX Crew Dragon spacecraft. For this demonstration the spacecraft was unmanned and carries 400 pounds (180 kg) of supplies that will be delivered to ISS. For operational missions the spacecraft will be able to carry 4 crew members and 220 pounds of cargo. The spacecraft will depart the ISS on 8th of March.
 
 3) Zephyr Project.
-<br>[zephyrproject.org](https://www.zephyrproject.org/about/)<br>
+<br>[zephyrproject.org](https://www.zephyrproject.org/)<br>
 INFO: Zephyr is an open source RTOS (Real Time Operating System) project that has a chance to become safety certified (according to the website it's an active consideration). At present the project supports multiple [boards](https://docs.zephyrproject.org/latest/boards/index.html) the supported architectures are x86, ARM, ARC, NIOS II, XTENSA, RISCV32.
 
 4) PlotJuggler.
