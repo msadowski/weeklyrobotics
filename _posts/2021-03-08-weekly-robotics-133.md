@@ -36,7 +36,7 @@ A nice piece from BBC on AI surprising its creators, starting with the Project L
 #### Why I was wrong to be optimistic about robots
 
 {:.post-source}
-[Financial Times(https://www.ft.com/content/087fce16-3924-4348-8390-235b435c53b2)
+[Financial Times](https://www.ft.com/content/087fce16-3924-4348-8390-235b435c53b2)
 
 An interesting opinion piece by Sarah O'Connor about how human-robot collaboration can put a strain on the human part of the duo by 'upping' the work pace and potentially leading to strain related injuries in some cases.
 
@@ -118,5 +118,3 @@ The presentation slot for this meetup is still up for grabs, so if you have some
 [/r/robotics](https://www.reddit.com/r/robotics/comments/laceed/apply_now_for_the_2021_reddit_robotics_showcase/)
 
 Until 30th of April you can apply to present your robots to the /r/robotics community. Looking forward to seeing all the featured robots!
-
-----
