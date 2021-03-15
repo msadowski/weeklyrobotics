@@ -1,6 +1,6 @@
 ---
 title: "Weekly Robotics"
-description: ""
+description: "This week in WR: RGB-D datasets in iOS, robotic doctors, the science of flappy wings, open source motion capture dataset, 3rd WR Community Meeting and more! "
 date: 2021-03-15
 tags: [Robotics, Sensors, SLAM, MobileRobots, Quadrupeds, Sensors, Research]
 idx: 134
