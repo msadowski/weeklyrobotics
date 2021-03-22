@@ -14,7 +14,7 @@ INFO: This post on DIY Drones by Chris Anderson highlights a discussion from [Ar
 INFO: This article from IEEE highlights advances in systems-on-chip (SoC) that can perform robot navigation and path planning and even visual SLAM (Simultaneous Localization and Mapping). The systems described in the article were developed by engineers and researchers from Intel, University of Minnesota and University of Michigan.
 
 3) The MIT Super Mini Cheetah.
-<br>[MIT](https://biomimetics.mit.edu/research/mit-super-mini-cheetah)<br>
+<br>[MIT](http://web.archive.org/web/20191101004120/https://biomimetics.mit.edu/research/mit-super-mini-cheetah)<br>
 INFO: In [issue #28](https://weeklyrobotics.com/weekly-robotics-28) we've presented MIT Mini Cheetah. The Super Mini Cheetah is another project from MIT Biomimetics Lab. Compared to the larger version the Super Mini is a low cost build that has simpler kinematics and in our opinion resembles a Cheetah a lot more than it's bigger brother (it might have to do with the robot's head).
 
 4) Supervised Racing.
