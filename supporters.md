@@ -23,3 +23,5 @@ Weekly Robotics is being developed every week thanks to support from people like
 * Stepan Kostusiev
 * Lethic
 * [James Turnshek](https://formant.io/)
+* Denis Štogl
+* [Julius Hietala](https://www.linkedin.com/in/julius-hietala-8967b8a2/)
