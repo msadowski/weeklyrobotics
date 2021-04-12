@@ -91,6 +91,7 @@ RoboCup is one of the largest robotics competitions world-wide. The competition'
 
 ----
 
+{:.post-entry-title}
 #### Previous Meeting #5 - Webots
 
 {:.post-source}
