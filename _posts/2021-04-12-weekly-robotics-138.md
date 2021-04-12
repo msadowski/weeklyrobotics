@@ -97,6 +97,6 @@ RoboCup is one of the largest robotics competitions world-wide. The competition'
 {:.post-source}
 [YouTube (WeeklyRobotics)](https://youtu.be/UQ08JT05o5k)
 
-Last week Darko made a very good presentation about Webots. Some highlights I found particularly interesting are: Webots supports [GitHub actions](https://github.com/cyberbotics/webots-animation-action), and it can nicely work with your continous integration. [Robot Benchmark](https://robotbenchmark.net/) is a library of online simulated environment created by Cyberbotics. It allows you to program the simulated robots on the web, and will allow for virtual competitions. In my opinion, this could be a really valuable learning tool.
+Last week Darko made a very good presentation about Webots. Some highlights I found particularly interesting are: Webots supports [GitHub actions](https://github.com/cyberbotics/webots-animation-action), and it can nicely work with your continuous integration. [Robot Benchmark](https://robotbenchmark.net/) is a library of online simulated environment created by Cyberbotics. It allows you to program the simulated robots on the web, and will allow for virtual competitions. In my opinion, this could be a really valuable learning tool.
 
 If you would like to present your robotics-related projects or ideas in one of the meetings or know someone interested, please [let me know](mailto:mat@weeklyrobotics.com)!
