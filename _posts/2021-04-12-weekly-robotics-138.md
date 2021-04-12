@@ -9,7 +9,7 @@ idx: 138
 {:.post-image}
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
 
-> Please join me, as I comb through a backlog of over 200 links to deliver some interesting news to you. From this issue onward any information about the future (there is a meetup this Thursday!) and past meetups will be posted at the bottom of the newsletter. As usual in the past couple of weeks, the publication of the week section is manned by [Rodrigo](https://www.linkedin.com/in/rodrigo-lopes-catto/).
+> Please join me, as I comb through a backlog of over 200 links to deliver some interesting news to you. From this issue onward any information about the future (there is a meetup this Thursday!) and past meetups will be posted at the bottom of the newsletter. As usual in the past couple of weeks, the publication of the week section is manned by [Rodrigo](https://www.linkedin.com/in/rodrigo-lopes-catto/). The most clicked link last week was [the sherp style 4 wheel drive rover](https://youtu.be/63go-gQNn5o) with 12.4% opens.
 
 {:.post-entry-title}
 #### Army of robots pushes the limits of astrophysics
