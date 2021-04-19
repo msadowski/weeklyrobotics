@@ -133,6 +133,16 @@ TODO_TEXT. If you would like to present your robotics related projects or ideas 
 
 ----
 
+{:.post-entry-title}
+#### Previous Meeting #X - TITLE
+
+{:.post-source}
+[YouTube (WeeklyRobotics)](TODO_RECORDING)
+
+TODO_TEXT
+
+----
+
 
 ### Careers
 
