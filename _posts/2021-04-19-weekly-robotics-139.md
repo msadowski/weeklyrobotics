@@ -82,7 +82,7 @@ CoSTAR team, the winners of the last DARPA Subterranean Challenge, presents in t
 ----
 
 {:.post-entry-title}
-#### WR Community Meeting #7 - TITLE
+#### WR Community Meeting #7 - mjbots with Josh Pieper
 
 {:.post-source}
 [Eventbrite](https://www.eventbrite.com/e/151163148045)
