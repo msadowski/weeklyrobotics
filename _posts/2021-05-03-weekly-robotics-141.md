@@ -72,7 +72,7 @@ There is something exciting about the idea of sending a robot to an environment 
 ----
 
 {:.post-entry-title}
-#### Publication of the Week - RoboStack - Using the Robot Operating System alongside the Conda and Jupyter Data Science Ecosystems (DATE)
+#### Publication of the Week - RoboStack - Using the Robot Operating System alongside the Conda and Jupyter Data Science Ecosystems (2021)
 
 {:.post-source}
 [arXiv](https://arxiv.org/abs/2104.12910)
