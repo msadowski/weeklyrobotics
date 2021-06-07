@@ -48,7 +48,7 @@ I just came across Lingkang's [Yuki Mini's quadruped project](http://zlethic.com
 {:.post-source}
 [Wired](https://www.wired.co.uk/article/robots-animals-kate-darling)
 
-An interesting article from Kate Darling, author of The New Breed: What Our History with Animals Reveals about Our Future with Robots](https://www.goodreads.com/book/show/49672266-the-new-breed). Kate's thesis is that we instinctively compare robots capabilities to our own, but instead we could compare them to animals.
+An interesting article from Kate Darling, author of [The New Breed: What Our History with Animals Reveals about Our Future with Robots](https://www.goodreads.com/book/show/49672266-the-new-breed). Kate's thesis is that we instinctively compare robots capabilities to our own, but instead we could compare them to animals.
 
 ----
 
