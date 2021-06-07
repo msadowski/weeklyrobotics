@@ -67,7 +67,7 @@ We went through Gel Sight and similar devices utilizing deformable structure and
 ----
 
 {:.post-entry-title}
-#### Publication of the Week - TODO (2021)
+#### Publication of the Week - Localization for Lunar Micro-Rovers (2021)
 
 {:.post-source}
 [CMU](https://www.ri.cmu.edu/publications/localization-for-lunar-micro-rovers/)
