@@ -1,7 +1,0 @@
-{
-  "python.autoComplete.extraPaths": [
-    "/opt/ros/melodic/lib/python2.7/dist-packages",
-    "",
-    "/home/mat/Consulting/px4_customization/mavlink"
-  ]
-}
