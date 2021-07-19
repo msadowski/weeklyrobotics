@@ -8,7 +8,6 @@ idx: 152
 
 {:.post-image}
 ![Issue {{page.idx}}](/img/headers/{{page.idx}}.jpg "Issue {{page.idx}}")
-*Image Credit: []()*
 
 > The most clicked link last week was [the Tangram Vision Depth Sensor Visualizer](https://www.tangramvision.com/resources/depth-sensor-visualizer) with 18.4% opens. As usual in the past couple of weeks, the publication of the week section is manned by [Rodrigo](https://www.linkedin.com/in/rodrigo-lopes-catto/).
 
